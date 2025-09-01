@@ -18,7 +18,7 @@ Devspros es una startup dedicada a crear soluciones digitales innovadoras enfoca
 
 | Miembros del equipo                                                                                                      | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |--------------------------------------------------------------------------------------------------------------------------|-------------------|-|----------------------------| 
-| Mamani Marca, Gabriel Cristian <br><img src="../assets/GabrielMamani.png" alt="Imagen del compañero" style="width:60%;"> | U202022365        |Ingenieria de software| Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendi lenguajes como c++,python y java.Tambien,sobre motores de base de datos como MongoDb y MYSQL                           |
+| Mamani Marca, Gabriel Cristian <br><img src="../assets/GabrielMamani.png" alt="Imagen del compañero" style="width:60%;"> | u202220659        |Ingenieria de software| Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software.Durante el camino aprendi lenguajes como c++,python y java.Tambien,sobre motores de base de datos como MongoDb y MYSQL                           |
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
