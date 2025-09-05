@@ -35,6 +35,10 @@
       <td>Mamani Marca, Gabriel Cristian</td>
       <td>u202220659</td>
     </tr>
+    <tr>    
+    <td>Barturén Panéz, Iker Gabriel</td>
+      <td>u202312629</td>
+    </tr>
   </tbody>
 </table>
 
