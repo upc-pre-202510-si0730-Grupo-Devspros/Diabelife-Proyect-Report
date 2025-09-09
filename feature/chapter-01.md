@@ -57,30 +57,25 @@ En primer lugar, el registro manual de datos como la glucosa en sangre, la inges
 **Técnica de The 5 'W's y 2 'H's**
 
 **What?** <br>
-El problema es la mala gestión del inventario en los restaurantes, lo que genera desperdicio de alimentos y un alto consumo de recursos debido al
-vencimiento de productos y a la falta de control eficiente. Además, el personal de atención enfrenta dificultades para identificar cuándo un cliente requiere
-asistencia, lo que puede afectar la calidad del servicio y la experiencia del cliente.
+El problema es la falta de una plataforma que brinde a las personas con diabetes las herramientas necesarias para monitorear sus niveles de glucosa, recibir recordatorios de medicación, contar con planes personalizados de alimentación y ejercicio, así como acceso a orientación profesional y reportes para un mejor control de su salud.
 
 **When?** <br>
-La problemática sucede en cualquier momento del día, ya que los restaurantes operan constantemente y deben gestionar su inventario y atención al
-cliente en todo momento.
+La problemática sucede diariamente y en cualquier momento del día, ya que las personas con diabetes deben llevar un control constante de sus niveles de glucosa, alimentación, medicación y actividad física para evitar problemas futuros.
 
 **Where?** <br>
-La problemática ocurre en los restaurantes, tanto en la cocina como en el área de atención al cliente.
+La problemática ocurre en todos los espacios donde el paciente desarrolla su vida cotidiana, como el hogar, el trabajo, el centro de estudios o incluso al realizar actividades sociales, debido a que la diabetes requiere atención permanente.
 
 **Who?** <br>
-Los dueños, gerentes y trabajadores de un restaurante son los principales afectados por esta problemática. La mala gestión del inventario impacta en su
-rentabilidad y eficiencia operativa.
+Los principales afectados son las personas que viven con diabetes y sus familias, así como los profesionales de la salud que necesitan herramientas para dar un seguimiento más cercano y eficiente a cada paciente.
 
 **Why?** <br>
-La mala o dificultosa gestión de inventario en restaurantes se debe a la falta de herramientas adecuadas para monitorear y gestionar eficientemente el
-inventario, así como a la falta de visibilidad y datos concretos sobre el estado de los productos.
+Esto se debe a la ausencia de herramientas digitales integrales y accesibles que centralicen el control de la diabetes, lo que dificulta la adherencia al tratamiento, la prevención de complicaciones y la comunicación entre pacientes y médicos.
 
 **How?** <br>
-KeepItFresh facilitará el proceso de gestión de inventario mediante el monitoreo de los mismos gracias a sus modernos sensores conectados a la app.
+DiabeLife facilitará la gestión de la diabetes mediante una aplicación web que integra el registro de niveles de glucosa, recordatorios de medicación, planes personalizados de alimentación y ejercicio, orientación profesional remota y reportes médicos automatizados.
 
 **How much?** <br>
-KeepItFresh tendrá el alcance de resolver esta problemática a todo aquel restaurante que compre sus servicios.
+DiabeLife tendrá el alcance de resolver esta problemática en toda persona con diabetes que ingrese y se registre en la aplicación web. Asimismo, contará con planes de suscripción que ofrecerán herramientas adicionales de apoyo para un control más completo de la diabetes.
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
