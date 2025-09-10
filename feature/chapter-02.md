@@ -54,6 +54,9 @@ Startup española que combina control de glucosa con comunidad de pacientes. Ofr
 **• Táctica:** Utilizar un lenguaje y ejemplos que resuenen con la realidad peruana. Además, podríamos mencionar que la web app está pensada para ser compatible con los métodos de control de la diabetes más comunes en el país.
 
 ## 2.2 Entrevistas 
+
+Las entrevistas estarán dirigidas a pacientes con diabetes y profesionales de la salud, con el objetivo de comprender sus necesidades específicas en el acceso a información sobre medicamentos, tratamientos, citas y servicios extras, así como conocer más sobre sus experincias con respecto a la diabetes.
+
 ### 2.2.1. Diseño de Entrevistas
 
 ##  Segmento 1: Pacientes con Diabetes
