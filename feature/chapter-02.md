@@ -29,6 +29,30 @@ Startup española que combina control de glucosa con comunidad de pacientes. Ofr
 
 ### 2.1.2 Estrategisas y tacticas frente a competidores
 
+## **Comunidad y Apoyo Mutuo**
+**• Estrategia:** Diferenciarse al fomentar una comunidad activa y empática que ofrezca apoyo emocional, algo que las aplicaciones de seguimiento de datos a menudo no hacen.  
+**• Táctica:** Integrar testimonios en la landing page de personas que ya han mejorado su calidad de vida gracias a recursos similares, y más adelante, crear foros o grupos de apoyo en la web app.
+
+## **Personalización y Enfoque Holístico**
+**• Estrategia:** Contrastar DiabeLife con soluciones genéricas que solo rastrean datos. Nosotros ofrecemos una experiencia personalizada que aborda el bienestar integral del paciente.  
+**• Táctica:** Resaltar en la landing page la futura funcionalidad de planes de alimentación y rutinas de ejercicio adaptadas al perfil individual del usuario.
+
+## **Monitoreo y Alertas Inteligentes**
+**• Estrategia:** Usar el seguimiento de datos clave (niveles de glucosa, actividad física) para generar valor inmediato y proactivo.  
+**• Táctica:** Prometer alertas personalizadas en la web app que ayuden a los usuarios a prevenir picos o caídas de glucosa, actuando como un asistente personal.
+
+## **Simplicidad de Uso para Todas las Edades**
+**• Estrategia:** Demostrar que DiabeLife es una herramienta intuitiva y accesible, diseñada para ser utilizada por personas de todas las edades, incluso aquellas menos familiarizadas con la tecnología.  
+**• Táctica:** Usar un diseño limpio y una navegación sencilla en la landing page, con videos cortos o animaciones que demuestren lo fácil que será usar la web app.
+
+## **Medición del Interés y Tráfico**
+**• Estrategia:** Usar métricas digitales para validar el interés en la propuesta de valor y tomar decisiones informadas para el futuro desarrollo.  
+**• Táctica:** Implementar herramientas como Google Analytics para medir el tráfico de la landing page y usar el formulario de "contáctanos" para recopilar correos electrónicos de personas interesadas. Esto nos dará una base de datos para futuras comunicaciones.
+
+## **Enfoque en el Mercado Local**
+**• Estrategia:** Aprovechar el contexto peruano para conectar de manera más efectiva con la audiencia y mostrar que el proyecto está diseñado para ellos.  
+**• Táctica:** Utilizar un lenguaje y ejemplos que resuenen con la realidad peruana. Además, podríamos mencionar que la web app está pensada para ser compatible con los métodos de control de la diabetes más comunes en el país.
+
 ## 2.2 Entrevistas 
 ### 2.2.1. Diseño de Entrevistas
 
