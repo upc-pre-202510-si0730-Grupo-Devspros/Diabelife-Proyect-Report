@@ -78,6 +78,9 @@ DiabeLife facilitará la gestión de la diabetes mediante una aplicación web qu
 DiabeLife tendrá el alcance de resolver esta problemática en toda persona con diabetes que ingrese y se registre en la aplicación web. Asimismo, contará con planes de suscripción que ofrecerán herramientas adicionales de apoyo para un control más completo de la diabetes.
 
 ### 1.2.2 Lean UX Process.
+
+Nuestro proceso Lean UX está diseñado para optimizar la eficiencia en el desarrollo de productos, priorizando principios clave como la validación constante, el pensamiento analítico y la acción ágil. Siguiendo esta filosofía, hemos estructurado un enfoque propio de Lean UX compuesto por cuatro elementos fundamentales: identificación de problemas, formulación de suposiciones, creación de hipótesis y el desarrollo de un lienzo estratégico.
+
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
