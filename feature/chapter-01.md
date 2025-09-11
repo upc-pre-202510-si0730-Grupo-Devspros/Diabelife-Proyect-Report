@@ -194,6 +194,17 @@ El principal desafío es generar confianza entre nuestra audiencia objetivo. Los
 - Planes de acción recomendados por profesionales de la salud.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+- Creemos que lograremos una mayor adopción inicial y retención de usuarios si ofrecemos acceso gratuito a las funcionalidades de registro básico de glucosa y alimentos. Al permitir que los pacientes exploren el valor de un seguimiento constante y vean el impacto en su salud sin compromiso, aumentaremos la conversión a planes futuros que incluyan funcionalidades premium, como planes de nutrición personalizados.
+
+- Creemos que aumentaremos la satisfacción del usuario y reduciremos las cancelaciones si los planes futuros están claramente diferenciados y alineados con las necesidades reales de cada tipo de paciente. Mediante el análisis del comportamiento del usuario y entrevistas, podremos ajustar las funcionalidades y las alertas de cada plan para maximizar su percepción de valor, ya sea en el manejo de diabetes tipo 1 o tipo 2.
+
+- Creemos que fortaleceremos la confianza de los usuarios y la credibilidad de la plataforma si mostramos claramente los avales de profesionales de la salud, datos de precisión del registro y testimonios verificables de mejoras en la calidad de vida. Al mejorar la transparencia y accesibilidad de esta información, facilitaremos la toma de decisiones informadas y reduciremos la fricción en la adopción del servicio.
+
+- Creemos que aumentaremos la fidelidad y el uso recurrente si personalizamos las recomendaciones según los patrones específicos de comportamiento de cada paciente. A través de algoritmos de aprendizaje automático y alertas contextuales inteligentes, podemos generar una experiencia percibida como relevante y efectiva para cada usuario individual.
+
+- Creemos que incrementaremos la conversión al plan premium si destacamos el beneficio del análisis avanzado y la comunicación directa con profesionales de la salud. Esto se validará mediante pruebas A/B con mensajes de valor enfocados en el control de su bienestar y la tranquilidad de tener un equipo médico de apoyo.
+
+- Creemos que lograremos una expansión sostenida de nuestra base de usuarios si implementamos campañas de marketing específicas dirigidas a comunidades de diabetes, redes sociales de salud y colaboraciones con asociaciones de pacientes. Con estas acciones y la medición de tasas de adquisición, podremos ajustar la estrategia para optimizar el retorno por canal y mejorar la conversión entre personas conscientes del manejo de su diabetes.
 #### 1.2.2.4. Lean UX Canvas.
 ![Lean-UX-Canvas.jpg](../assets/Lean-UX-Canvas.jpg)
 ## 1.3. Segmentos objetivo.
