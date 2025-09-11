@@ -82,6 +82,15 @@ DiabeLife tendrá el alcance de resolver esta problemática en toda persona con 
 Nuestro proceso Lean UX está diseñado para optimizar la eficiencia en el desarrollo de productos, priorizando principios clave como la validación constante, el pensamiento analítico y la acción ágil. Siguiendo esta filosofía, hemos estructurado un enfoque propio de Lean UX compuesto por cuatro elementos fundamentales: identificación de problemas, formulación de suposiciones, creación de hipótesis y el desarrollo de un lienzo estratégico.
 
 #### 1.2.2.1. Lean UX Problem Statements.
+
+Las personas que viven con diabetes, especialmente en el Perú, enfrentan el desafío de manejar su condición de manera efectiva en un entorno con recursos limitados y acceso desigual a información confiable. A menudo, carecen de herramientas intuitivas que les permitan monitorear de cerca su salud, lo que lleva a un control inadecuado de la glucosa, una mala nutrición y un manejo deficiente de su medicación. Además, la carga emocional y la falta de una red de apoyo pueden hacer que el manejo de esta enfermedad sea abrumador.
+
+DiabeLife es una startup que busca abordar estas dificultades ofreciendo una plataforma digital que simplifica la gestión diaria de la diabetes. En nuestra primera fase, la landing page actuará como un punto de contacto para validar el interés en nuestra propuesta de valor. A futuro, planeamos desarrollar una aplicación web que permitirá a los usuarios registrar datos de glucosa, planificar comidas, monitorear su actividad física y recibir recordatorios personalizados. A su vez, los profesionales de la salud podrán acceder a los datos de sus pacientes de forma segura para dar un seguimiento más preciso y eficiente.
+
+El principal desafío es generar confianza entre nuestra audiencia objetivo. Los usuarios con diabetes pueden sentirse abrumados por la cantidad de información no verificada en línea o pueden desconfiar de las soluciones tecnológicas, especialmente si no han sido validadas por profesionales de la salud en el contexto local. Los médicos, por su parte, podrían dudar de la fiabilidad de los datos generados por una herramienta no oficial, o podrían resistirse a adoptar una nueva tecnología en su flujo de trabajo.
+
+¿Cómo podemos construir una plataforma digital que sea percibida como una herramienta confiable, intuitiva y accesible, que no solo simplifique el manejo diario de la diabetes, sino que también fomente la colaboración entre pacientes y profesionales de la salud para mejorar los resultados a largo plazo?
+
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
