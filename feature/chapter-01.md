@@ -205,6 +205,62 @@ El principal desafío es generar confianza entre nuestra audiencia objetivo. Los
 - Creemos que incrementaremos la conversión al plan premium si destacamos el beneficio del análisis avanzado y la comunicación directa con profesionales de la salud. Esto se validará mediante pruebas A/B con mensajes de valor enfocados en el control de su bienestar y la tranquilidad de tener un equipo médico de apoyo.
 
 - Creemos que lograremos una expansión sostenida de nuestra base de usuarios si implementamos campañas de marketing específicas dirigidas a comunidades de diabetes, redes sociales de salud y colaboraciones con asociaciones de pacientes. Con estas acciones y la medición de tasas de adquisición, podremos ajustar la estrategia para optimizar el retorno por canal y mejorar la conversión entre personas conscientes del manejo de su diabetes.
+
 #### 1.2.2.4. Lean UX Canvas.
+
 ![Lean-UX-Canvas.jpg](../assets/Lean-UX-Canvas.jpg)
+
+
 ## 1.3. Segmentos objetivo.
+
+### Segmento objetivo #1: Personas que padecen de diabetes
+
+**Descripción:**
+Este segmento está compuesto por personas diagnosticadas con diabetes tipo 1 o tipo 2, que requieren un control constante de sus niveles de glucosa, alimentación, medicación y actividad física. Son los principales usuarios de la plataforma, ya que buscan herramientas digitales que les faciliten la gestión de su condición y mejoren su calidad de vida.
+
+**Aspectos demográficos:**
+Hombres y mujeres de entre 18 y 65 años, de diferentes niveles socioeconómicos (principalmente B y C). En su mayoría cuentan con educación secundaria o superior. Este grupo incluye tanto a personas que se autogestionan como a aquellas que reciben apoyo de familiares en su cuidado diario.
+
+**Aspectos geográficos:**
+Personas que residen en zonas urbanas y periurbanas del Perú, con mayor concentración en Lima, Arequipa, Trujillo y Chiclayo, donde la prevalencia de enfermedades crónicas es más alta y el acceso a servicios de salud es desigual.
+
+**Aspectos psicográficos:**
+Valoran la salud, el bienestar y la prevención de complicaciones. Son pacientes responsables que buscan herramientas fáciles de usar y confiables para llevar un registro ordenado de su condición. Muchos de ellos sienten la carga emocional y social de la enfermedad, por lo que aprecian el apoyo comunitario.
+
+**Necesidades:**
+Desean monitorear sus niveles de glucosa de manera sencilla y en tiempo real, contar con recordatorios de medicación y alimentación, y acceder a información confiable sobre hábitos saludables para la diabetes.
+
+**Requisitos:**
+Buscan una plataforma intuitiva, accesible desde cualquier dispositivo y con soporte técnico disponible. Asimismo, requieren que la aplicación sea confiable, segura y que garantice la protección de su información personal.
+
+**Objetivo:**
+Prevenir complicaciones, optimizar el tratamiento y llevar una vida más saludable y controlada gracias a herramientas digitales integrales.**Sustento estadístico:**
+
+**Sustento estadístico:**
+Según la Encuesta Demográfica y de Salud Familiar (ENDES, 2021), la prevalencia de diabetes en personas mayores de 15 años en el Perú alcanzó el 4,9 %, frente al 3,3 % en 2017. Esto significa que aproximadamente 1,6 millones de peruanos padecen esta enfermedad, con una tendencia creciente en los últimos cinco años.
+
+### Segmento objetivo #2: Doctores y Profesionales de la Salud
+
+**Descripción:**
+Este segmento está compuesto por médicos endocrinólogos, médicos generales, nutricionistas y otros profesionales de la salud que atienden a pacientes con diabetes. Son usuarios secundarios que requieren acceder a información clara y actualizada para dar seguimiento efectivo a sus pacientes.
+
+**Aspectos demográficos:**
+Hombres y mujeres de entre 28 y 55 años, con estudios universitarios en medicina o nutrición. Pertenecen principalmente a niveles socioeconómicos B y A, y trabajan en clínicas privadas, hospitales públicos o consultorios independientes.
+
+**Aspectos geográficos:**
+Principalmente ubicados en Lima Metropolitana y capitales de región, donde existe una mayor concentración de servicios de salud especializados. También, se incluyen médicos de provincias que buscan apoyo digital para gestionar pacientes a distancia.
+
+**Aspectos psicográficos:**
+Valoran la precisión de la información, la eficiencia en la gestión de pacientes y la innovación tecnológica que les permita optimizar su tiempo y mejorar la calidad de la atención.
+
+**Necesidades:**
+Necesitan contar con acceso a reportes médicos avanzados y exportables, recibir alertas inteligentes sobre los riesgos de sus pacientes, mantener comunicación directa con ellos a través de la aplicación y disponer de una herramienta confiable que apoye tanto el diagnóstico como el seguimiento continuo.
+
+**Requisitos:**
+Buscan una plataforma profesional, segura y validada. Necesitan facilidad para acceder desde cualquier dispositivo y compatibilidad con otros sistemas de gestión clínica.
+
+**Objetivo:**
+Optimizar la atención médica, reducir riesgos en pacientes diabéticos y mejorar la calidad de los tratamientos mediante el uso de información actualizada en tiempo real.
+
+**Sustento estadístico:**
+De acuerdo con el Colegio Médico del Perú (2022), existen más de 72,000 médicos colegiados en el país, de los cuales cerca del 15% ejercen en áreas vinculadas al manejo de enfermedades crónicas como la diabetes. A su vez, el Ministerio de Salud ha señalado que la diabetes es la séptima causa de muerte en el Perú, lo que incrementa la demanda de profesionales especializados y de herramientas tecnológicas de apoyo.
