@@ -92,6 +92,107 @@ El principal desafío es generar confianza entre nuestra audiencia objetivo. Los
 ¿Cómo podemos construir una plataforma digital que sea percibida como una herramienta confiable, intuitiva y accesible, que no solo simplifique el manejo diario de la diabetes, sino que también fomente la colaboración entre pacientes y profesionales de la salud para mejorar los resultados a largo plazo?
 
 #### 1.2.2.2. Lean UX Assumptions.
+
+### Business Assumptions
+
+- Creemos que nuestros usuarios tienen la necesidad de:
+  obtener herramientas digitales que simplifiquen el control de su diabetes, reduciendo el estrés y la complejidad de la gestión diaria de su salud. Buscan una forma práctica y fiable de monitorear su condición y recibir orientación personalizada.
+
+- Estas necesidades se pueden satisfacer con:
+  una plataforma digital que ofrezca un registro intuitivo de niveles de glucosa, un módulo de planificación de comidas y recetas adaptadas, un rastreador de actividad física y recordatorios automáticos para medicación y citas médicas.
+
+- Nuestros usuarios iniciales son (o serán):
+  personas de entre 25 y 60 años con diabetes tipo 1 o tipo 2, que utilizan smartphones o computadoras regularmente y están dispuestas a adoptar la tecnología para mejorar su calidad de vida. También nos enfocaremos en los médicos que atienden a estos pacientes, buscando una forma más eficiente de monitorear su progreso.
+
+- El valor principal que un usuario quiere obtener de nuestro servicio es:
+  tranquilidad y control sobre su salud. Quieren tener la certeza de que están tomando decisiones informadas para prevenir complicaciones, sentirse empoderados y conectados con una comunidad de apoyo.
+
+- Los usuarios también pueden obtener estos beneficios adicionales:
+  información educativa validada por profesionales, acceso a una comunidad de apoyo, comunicación más fluida con su médico y planes de acción personalizados que se adapten a sus hábitos y preferencias.
+
+- Adquiriremos a la mayoría de nuestros usuarios a través de:
+  estrategias de marketing digital en redes sociales (Facebook e Instagram), colaboraciones con asociaciones de diabetes y clínicas, participación en eventos de salud y campañas de contenido educativo en blogs o podcasts.
+
+- Ganaremos dinero mediante:
+  un modelo de negocio freemium donde las funciones básicas de registro son gratuitas, pero el acceso a funcionalidades premium como planes nutricionales personalizados o la integración con profesionales de la salud requerirán una suscripción mensual. A futuro, podríamos considerar una tarifa por usuario para los profesionales de la salud.
+
+- Nuestra competencia principal en el mercado será:
+  aplicaciones genéricas de seguimiento de salud, diarios manuales de papel para la diabetes y, a largo plazo, plataformas de telemedicina más grandes que no se especializan exclusivamente en la diabetes.
+
+- Les superaremos debido a:
+  nuestra propuesta de valor especializada y holística. No solo rastreamos datos, sino que ofrecemos un ecosistema completo que integra el bienestar físico y mental, conectando a los usuarios con la comunidad y los profesionales de la salud de forma fluida.
+
+- El mayor riesgo para nuestro producto es:
+  la falta de adopción por parte de los profesionales de la salud, que son clave para la credibilidad y la retención de usuarios. También enfrentamos el riesgo de una baja tasa de conversión del modelo freemium, si los usuarios no ven suficiente valor en las funciones premium.
+
+### User Assumptions
+
+- ¿Quién es el usuario?
+  Pacientes con diabetes tipo 1 y tipo 2, principalmente en Perú, que buscan un manejo más efectivo y menos estresante de su condición. También, profesionales de la salud (médicos, nutricionistas) interesados en una herramienta que les facilite el seguimiento de sus pacientes de manera remota.
+
+- ¿Dónde encaja nuestro producto en su vida?
+  Se integra en la rutina diaria del paciente como un asistente personal de salud, que les permite llevar un registro de su glucosa y alimentación. Para los médicos, se convierte en una herramienta de monitoreo que complementa las consultas presenciales, permitiendo un seguimiento más proactivo.
+
+- ¿Qué problemas resuelve nuestro producto?
+  Falta de control sobre los niveles de glucosa, dificultad para seguir un plan de alimentación adecuado, olvido de medicamentos o citas, y la sensación de soledad o aislamiento que a menudo acompaña a la enfermedad. Para los médicos, resuelve el problema de la falta de datos consistentes y fiables entre consultas.
+
+- ¿Cuándo y cómo se utiliza nuestro producto?
+  El paciente lo utiliza varias veces al día: al registrar su glucosa (antes y después de las comidas), al planificar sus comidas, al recibir recordatorios de medicamentos y al revisar su progreso semanal. El médico lo utiliza para revisar el historial del paciente antes de una consulta o en momentos clave para un seguimiento proactivo.
+
+- ¿Qué características son importantes?
+  Registro de glucosa intuitivo, base de datos de alimentos con valores nutricionales, planificador de comidas personalizado, alertas y recordatorios de medicación, y un dashboard con gráficos claros que muestren la evolución del control de la diabetes. Para los médicos, es crucial la visualización de datos históricos y reportes detallados.
+
+- ¿Cómo debería verse y comportarse nuestro producto?
+  Interfaz simple, limpia y fácil de usar para personas de todas las edades. La aplicación debe ser no intrusiva, ofreciendo recordatorios y sugerencias en momentos clave sin abrumar al usuario. Debe inspirar confianza y calma, no estrés.
+
+- El valor principal que un usuario quiere obtener es:
+  Empoderamiento para tomar el control de su salud, reducción de la carga mental y emocional del manejo diario de la diabetes, y la tranquilidad de saber que están mejorando su bienestar a largo plazo.
+
+- Los usuarios también pueden obtener estos beneficios adicionales:
+  Mejor comunicación con su equipo médico, acceso a información validada por profesionales, motivación a través de una comunidad de apoyo y la posibilidad de optimizar el tiempo de sus consultas médicas.
+
+- El mayor riesgo para el usuario es:
+  Que la aplicación sea percibida como una carga más en su rutina diaria, que la información y las recomendaciones no sean percibidas como fiables, o que no logren ver un beneficio tangible en la mejora de su salud, lo que llevaría al abandono de la plataforma.
+
+### User Outcomes
+
+- Salud tangible y predecible: Los usuarios podrán mantener sus niveles de glucosa en rangos más saludables de manera consistente, obteniendo un control real sobre su condición desde su dispositivo móvil. Esto se traduce en una reducción de los riesgos a largo plazo y una mayor tranquilidad.
+
+- Monitoreo inteligente y preventivo: Los pacientes podrán identificar patrones que causan picos o caídas de glucosa antes de que impacten significativamente en su bienestar, evitando complicaciones médicas y sorpresas en su salud.
+
+- Educación sobre la diabetes personalizada: Recibirán recomendaciones específicas adaptadas a su estilo de vida y preferencias de alimentación, lo que facilitará la adopción de hábitos saludables de forma más efectiva y sostenible.
+
+- Empoderamiento y apoyo emocional: Sentirán que no están solos en el manejo de su diabetes, ya que tendrán acceso a una comunidad y herramientas que los motivarán a seguir sus planes de tratamiento y a compartir sus experiencias.
+
+### Business Outcomes
+
+- Validación de la propuesta de valor : Lograr que al menos un 25% de los visitantes únicos de la landing page se suscriban a nuestra lista de correo o se unan a nuestra comunidad digital (por ejemplo, un grupo de WhatsApp o Telegram) en los primeros tres meses. Esto validará el interés inicial en la solución.
+
+- Retención y feedback de la comunidad inicial: Mantener una tasa de retención del 70% de los miembros de nuestra comunidad durante el primer trimestre. Buscaremos feedback activo de este grupo para entender sus necesidades y priorizar las funcionalidades que se desarrollarán en la futura aplicación web.
+
+- Posicionamiento como fuente de información confiable: Que el 85% de los miembros de la comunidad inicial afirmen que la información y los consejos proporcionados por DiabeLife son fiables y han influido positivamente en la gestión de su diabetes. Esto construirá la confianza necesaria para la siguiente fase del proyecto.
+
+- Alianzas estratégicas iniciales: Establecer al menos 3 a 5 alianzas con asociaciones de diabetes, nutricionistas o clínicas locales en los primeros seis meses. Estas alianzas nos permitirán co-crear contenido, obtener validación profesional y ganar credibilidad en el mercado peruano.
+
+### Features Assumptions
+
+- Registro de niveles de glucosa en tiempo real.
+- Captura de comidas (con fotos y descripciones) y su impacto en la glucosa.
+- Seguimiento de actividad física.
+- Registro de medicamentos y dosis.
+- Dashboard interactivo con gráficos de la evolución de la glucosa.
+- Historial de mediciones con tendencias diarias, semanales y mensuales.
+- Análisis del impacto de alimentos específicos, ejercicio y medicamentos en el control de la glucosa.
+- Reportes exportables para análisis personal o profesional. 
+- Sugerencias de planes de alimentación personalizados.
+- Consejos sobre qué alimentos y ejercicios funcionan mejor para el usuario.
+- Educación sobre la diabetes, como la lectura de etiquetas nutricionales.
+- Información sobre la enfermedad validada por profesionales de la salud.
+- Alertas automáticas para medicación y medición de glucosa.
+- Recordatorios para citas médicas programadas.
+- Funcionalidad para que el paciente comparta sus datos con el médico o nutricionista.
+- Planes de acción recomendados por profesionales de la salud.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
