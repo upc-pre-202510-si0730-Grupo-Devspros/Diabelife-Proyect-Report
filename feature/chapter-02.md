@@ -109,4 +109,35 @@ Las entrevistas estarán dirigidas a pacientes con diabetes y profesionales de l
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ## 2.4. Big Picture EventStorming.
+
 ## 2.5. Ubiquitous Language.
+
+- **Patient (Paciente)**: Persona con diagnóstico de diabetes que utiliza la plataforma para registrar sus niveles de glucosa, acceder a reportes, recibir recordatorios y participar en la comunidad.
+
+- **Doctor (Doctor)**: Profesional de la salud encargado del seguimiento de pacientes diabéticos. Puede revisar reportes, enviar recomendaciones, gestionar citas y comunicarse mediante mensajería directa.
+
+- **Glucose Meter (Glucómetro)**: Dispositivo IoT o manual utilizado para medir los niveles de glucosa en sangre. Puede estar integrado con la plataforma para registro automático.
+
+- **Glucose Record (Registro de Glucosa)**: Dato puntual o histórico sobre los niveles de glucosa del paciente, almacenado en la plataforma y accesible para el paciente y su doctor.
+
+- **Medical Report (Reporte Médico)**: Documento generado automáticamente o por el doctor, que resume la evolución del paciente, tendencias y alertas relevantes.
+
+- **Appointment (Cita)**: Espacio programado para la atención entre paciente y doctor, presencial o virtual, gestionado desde la plataforma.
+
+- **Community (Comunidad)**: Espacio digital donde los pacientes pueden interactuar, compartir experiencias, consejos y apoyo emocional.
+
+- **Reminder (Recordatorio)**: Notificación automática para medir glucosa, tomar medicamentos, asistir a citas o realizar actividades recomendadas.
+
+- **Alert (Alerta)**: Mensaje proactivo generado por el sistema ante valores de glucosa fuera de rango o eventos críticos detectados.
+
+- **User Profile (Perfil de Usuario)**: Información personal, médica y de contacto del paciente o doctor, utilizada para personalizar la experiencia y los servicios.
+
+- **Messaging (Mensajería)**: Canal de comunicación directa entre paciente y doctor, o entre miembros de la comunidad, para resolver dudas y dar seguimiento.
+
+- **Diet Plan (Plan de Alimentación)**: Recomendaciones personalizadas sobre alimentación saludable, adaptadas al perfil y necesidades del paciente.
+
+- **Exercise Routine (Rutina de Ejercicio)**: Sugerencias de actividad física personalizadas para mejorar el control de la diabetes.
+
+- **Medical History (Historial Médico)**: Registro acumulativo de datos clínicos, reportes, citas, medicamentos y eventos relevantes del paciente.
+
+- **Subscription (Suscripción)**: Plan de acceso a funcionalidades premium de la plataforma, con diferentes niveles de servicio y precios.
