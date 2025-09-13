@@ -145,13 +145,13 @@ Resumen: Juan David es un estudiante de ingeniería de 20 años, diagnosticado c
 Información extra:
 
     Medicamentos:
-    - Samsung (uso constante).
-    - Computadora (para estudios).
+    - Iphone (uso constante).
+    - Laptop (para estudios).
     
     Personalidad:
-    - Carrera: Ingeniería de Sistemas.
-    - Estresado por las facturas elevadas, quiere reducir ese gasto.
-    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
+    - Carrera: Ingeniería de Software.
+    - Estres al momento de tener que registrar sus resultados.
+    - Prefiere una plataforma facil de usar e intuitiva.
 
 ENTREVISTA 3
 
@@ -196,15 +196,7 @@ Resumen: Gustavo es un cirujano dentista (53 años) que trabaja en un consultori
 
 Información extra:
 
-    Registro medico:
-    - Samsung (uso constante).
-    - Computadora (para estudios).
     
-    Personalidad:
-    - Carrera: Ingeniería de Sistemas.
-    - Estresado por las facturas elevadas, quiere reducir ese gasto.
-    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
-
 ENTREVISTA 2
 
 Inicia:
