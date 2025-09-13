@@ -100,6 +100,159 @@ Las entrevistas estarán dirigidas a pacientes con diabetes y profesionales de l
 
 
 ### 2.2.2 Registro de entrevistas
+
+PACIENTES DIABETICOS
+
+ENTREVISTA 1
+
+Inicia: 
+
+Duración: 
+
+Nombre: 
+
+Edad: 
+
+Distrito: 
+
+Resumen: 
+
+Información extra:
+
+    Medicamentos:
+    - Samsung (uso constante).
+    - Computadora (para estudios).
+    
+    Personalidad:
+    - Carrera: Ingeniería de Sistemas.
+    - Estresado por las facturas elevadas, quiere reducir ese gasto.
+    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
+
+ENTREVISTA 2
+
+Inicia:
+
+Duración:
+
+Nombre:
+
+Edad:
+
+Distrito:
+
+Resumen:
+
+Información extra:
+
+    Medicamentos:
+    - Samsung (uso constante).
+    - Computadora (para estudios).
+    
+    Personalidad:
+    - Carrera: Ingeniería de Sistemas.
+    - Estresado por las facturas elevadas, quiere reducir ese gasto.
+    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
+
+ENTREVISTA 3
+
+Inicia:
+
+Duración:
+
+Nombre:
+
+Edad:
+
+Distrito:
+
+Resumen:
+
+Información extra:
+
+    Medicamentos:
+    - Samsung (uso constante).
+    - Computadora (para estudios).
+    
+    Personalidad:
+    - Carrera: Ingeniería de Sistemas.
+    - Estresado por las facturas elevadas, quiere reducir ese gasto.
+    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
+
+PROFESIONALES DE LA SALUD
+
+ENTREVISTA 1
+
+Inicia:
+
+Duración:
+
+Nombre:
+
+Edad:
+
+Distrito:
+
+Resumen:
+
+Información extra:
+
+    Registro medico:
+    - Samsung (uso constante).
+    - Computadora (para estudios).
+    
+    Personalidad:
+    - Carrera: Ingeniería de Sistemas.
+    - Estresado por las facturas elevadas, quiere reducir ese gasto.
+    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
+
+ENTREVISTA 2
+
+Inicia:
+
+Duración: 7:38
+
+Nombre: Camila Barturen Del Villar
+
+Edad: 25
+
+Distrito: Jesús María
+
+Resumen: Camila Barturen (25 años) que trabaja actualmente como medico general, nos comenta que durante sus turnos de trabajo atiende a por lo menos 19 pacientes con diabetes cada semana. También nos comento que actualmente el registro es de forma manual, lo que a la vez genera problemas cuando la información o esta actualiza, ella dedica 2 horas de su día a estudiar los reportes de su pacientes para estar informada. Estaría muy interesada en una plataforma que le ayude a gestionar sus pacientes de forma más directa y que le alerte cuando un paciente este en riesgo, aunque le preocupa que haya fallos en la seguridad y privacidad de los datos médicos, también recomendo que el uso de esta sea fácil e intuitiva,.
+
+Información extra:
+
+    Registro medico:
+    - Tablet (uso diario).
+    - Cuaderno de apuntes (para resgistros médicos).
+    
+    Personalidad:
+    - Carrera: Medicina.
+    - Prefiere una plataforma que monitore en tiempo real los niveles de glucosa y signos vitales de su paciente.
+
+ENTREVISTA 3
+
+Inicia: 
+
+Duración: 7:18
+
+Nombre: Hedid Lucero Barturen Panéz
+
+Edad: 23
+
+Distrito: Rio Negro
+
+Resumen: Heidi Barturen (23 años) que trabaja actualmente como medico general, nos comenta que durante sus turnos de trabajo atiende entre 20-40 pacientes con diabetes al mes. También nos comento que actualmente el registro es de forma manual todos los datos ya que por la zona en la que se enceuntran el acceso fácil a una red de internet es un poco limitada, ella dedica una hora de su día a estudiar los reportes de su pacientes. Con respecto a la aplicación web, estaría muy interesada en una plataforma que le ayude a gestionar los datos y la información de sus pacientes, nos recomendo que la aplicación funciona de manera offline y que cuando tenga acceso a internet todos los datos se actualicen con los nuevos registros o con los que ya existen.
+
+Información extra:
+
+    Registro medico:
+    - Cuaderno de apuntes (para resgistros médicos).
+    - Computadora (para cargar datos al sistema).
+    
+    Personalidad:
+    - Carrera: Medicina.
+    - Prefiere una plataforma que la ayude a gestionar mejor losreportes de sus pacientes y que se accesible en zonas remotas.
+
 ### 2.2.3 Análisis de entrevistas
 
 ## 2.3. Needfinding
