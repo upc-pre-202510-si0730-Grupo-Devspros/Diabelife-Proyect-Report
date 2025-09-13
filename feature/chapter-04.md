@@ -37,11 +37,26 @@ Para la tipografía, se han elegido fuentes sans-serif que son conocidas por su 
 
 - Roboto: Una fuente moderna y amigable que combina la legibilidad con un toque técnico. Es perfecta para encabezados, títulos y botones de acción, donde su estructura geométrica aporta un estilo limpio y organizado.
 
+
 ![Tipografia.jpg](../assets/Tipografia.jpg)
+
+
+
+#### Icono/Logotipo:
 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
+
+En esta seccion mostramos las decisiones de Arquitectura de Informacion para organizar el contenido de nuestra aplicacion de tal manera que los usuarios puedan tener una experiencia eficiente. Se incluyen las secciones de Organization Systems, Labeling Systems, Navigation Systems y Searching Systems.
+
 ### 4.2.1. Organization Systems
+
+En este punto se mostraran los tipos de estructura visual que tendra cada grupo de informacion con respecto al segmento objetivo y al tipo de categorización que se usará
+
+Segmento Objetivo 1: Usuarios con Diabetes 
+
+
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
