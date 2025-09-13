@@ -132,15 +132,15 @@ ENTREVISTA 2
 
 Inicia:
 
-Duración:
+Duración: 8:19
 
-Nombre:
+Nombre: Juan David Saldaña De Souza
 
-Edad:
+Edad: 20
 
-Distrito:
+Distrito: Santa Anita
 
-Resumen:
+Resumen: Juan David es un estudiante de ingeniería de 20 años, diagnosticado con diabetes tipo 1 hace aproximadamente un año, lo que ha supuesto un cambio significativo en su vida. Su principal dificultad radica en el seguimiento constante de su condición; aunque se mide la glucosa de 4 a 5 veces al día con un glucómetro tradicional, le resulta muy difícil y estresante registrar sus resultados en un cuaderno, olvidándose con frecuencia y generando incertidumbre sobre sus niveles. Está muy interesado en una aplicación que sea sencilla y rápida, que le envíe recordatorios automáticos para sus mediciones e inyecciones, y que le permita registrar sus datos sin necesidad de escribirlos. Además, considera de gran valor poder comunicarse directamente con su doctor a través de un chat para dudas puntuales y conectar con una comunidad de otros jóvenes con diabetes para compartir experiencias y sentirse menos solo.
 
 Información extra:
 
