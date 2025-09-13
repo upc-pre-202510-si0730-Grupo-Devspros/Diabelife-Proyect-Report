@@ -59,8 +59,19 @@ Esta sección presenta el esquema visual inicial de la landing page en baja fide
 ![Style3-Wireframe.png](../assets/Style3-Wireframe.png)
 ![Style4-Wireframe.png](../assets/Style4-Wireframe.png)
 ![Style5-Wireframe.png](../assets/Style5-Wireframe.png)
+![Wireframe-1.png](../assets/Wireframe-1.png)
 
 ### 4.3.2. Landing Page Mock-up
+
+La estructura del mockup destaca un encabezado claro con el logo y menú de navegación, seguido de una sección principal con mensaje de bienvenida y llamado a la acción. Se incluyen bloques informativos sobre los servicios, testimonios y beneficios, todos organizados en tarjetas o secciones bien diferenciadas. Los botones y elementos interactivos emplean el verde para resaltar acciones importantes. El diseño prioriza la legibilidad, el espacio en blanco y la accesibilidad, asegurando una experiencia de usuario amigable y profesional tanto en escritorio como en dispositivos móviles.
+
+![Style1-Mock-up.png](../assets/Style1-Mock-up.png)
+![Style2-Mock-up.png](../assets/Style2-Mock-up.png)
+![Style3-Mock-up.png](../assets/Style3-Mock-up.png)
+![Style4-Mock-up.png](../assets/Style4-Mock-up.png)
+![Style5-Mock-up.png](../assets/Style5-Mock-up.png)
+![Mock-Up-1.png](../assets/Mock-Up-1.png)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
