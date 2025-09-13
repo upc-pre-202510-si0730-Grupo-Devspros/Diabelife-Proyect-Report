@@ -105,28 +105,29 @@ PACIENTES DIABETICOS
 
 ENTREVISTA 1
 
-Inicia: 
+Inicia: 0:01
 
-Duración: 
+Duración: 5:55
 
-Nombre: 
+Nombre: Victor Snayder Damian Inga
 
-Edad: 
+Edad: 25
 
-Distrito: 
+Distrito: La Victoria
 
-Resumen: 
+Resumen: Victor Damian es un contador de 25 años. Según sus propias palabras, se le diagnosticó diabetes tipo 2 hace 3 años aproximadamente. Esto, le afecta de manera significativa en su vida, ya que tiene que seguir una rutina para consumir sus medicamentos y se tiene que limitar con respecto a los alimentos en las reuniones a las que asiste. Generalmente, mide su glucosa diariamente con un glucómetro portatil con tiras reactivas. Además, suele registrar su nivel de glucosa en su aplicación de notas. Asimismo, se le complica ser constante en registrar sus niveles de glucosa por temas de trabajo. Las veces que esto sucede, siente mareos o cansancio, incluso, puede terminar en una clínica. Victor está interesado en recibir notificaciones para que pueda registrar el progreso que lleva. Además, considera buena la idea de interactuar con otros pacientes para compartir sus ideas o experiencias. También, menciona que está de acuerdo en tener un sistema de mensajería con su doctor, ya que tendría más confianza. Él valora que el sistema sea seguro y fácil de utilizar. Finalmente, piensa que una aplicación debería tener un registro automático de glucosa con conexión a un glucómetro, recordatorios, gráficas del progreso, comunidad de pacientes, alertas para notificar si hay peligro con respecto a la fiabetes.
 
 Información extra:
 
     Medicamentos:
-    - Samsung (uso constante).
-    - Computadora (para estudios).
+    - Metformina.
+    - Sulfonilureas.
+    - Inhibidores DPP-4.
     
     Personalidad:
-    - Carrera: Ingeniería de Sistemas.
-    - Estresado por las facturas elevadas, quiere reducir ese gasto.
-    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
+    - Ocupación: Contador.
+    - Preocupado por no siempre poder medir el nivel de su glucosa y ver su progreso.
+    - Desea una plataforma en la que pueda compartir experiencias con otros pacientes con diabetes.
 
 ENTREVISTA 2
 
