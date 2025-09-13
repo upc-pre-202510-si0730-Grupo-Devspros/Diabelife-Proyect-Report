@@ -58,3 +58,46 @@ Durante el desarrollo del mapa "To Be" de Diabelife, se realizó una lluvia de i
 ## 3.3 Impact Mapping.
 
 ## 3.4 Product Backlog.
+
+| #  | User Story Id | Título                                 | Descripción                                                                                                   | Story Points |
+|----|--------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------|
+| 1  | US1          | Acceso a recursos educativos           | Como invitado, quiero acceder a recursos educativos sobre diabetes, síntomas y prevención.                    | 1            |
+| 2  | US2          | Registro de usuario                    | Como invitado interesado en controlar mi salud, quiero registrarme en Diabelife.                              | 3            |
+| 3  | US3          | Inicio de sesión                       | Como invitado registrado, quiero iniciar sesión para acceder a mi panel personalizado.                        | 1            |
+| 4  | US4          | Recuperación de contraseña             | Como invitado registrado que olvidó su contraseña, quiero recuperarla.                                        | 1            |
+| 5  | US5          | Cierre de sesión                       | Como paciente diabético, quiero cerrar sesión para asegurar mis datos.                                        | 1            |
+| 6  | US6          | Visualización de perfil                | Como paciente diabético, quiero ver mi perfil con mis datos personales, médicos y de contacto.                | 1            |
+| 7  | US7          | Edición de perfil                      | Como paciente diabético, quiero editar mis datos personales, médicos y de contacto.                           | 3            |
+| 8  | US8          | Subida de foto de perfil               | Como paciente diabético, quiero subir una foto reciente.                                                      | 1            |
+| 9  | US9          | Eliminación de cuenta                  | Como paciente diabético, quiero eliminar mi cuenta y todos mis datos.                                         | 3            |
+| 10 | US10         | Registro de glucosa                    | Como paciente diabético, quiero registrar mis niveles de glucosa varias veces al día.                         | 5            |
+| 11 | US11         | Visualización de historial de glucosa  | Como paciente diabético, quiero ver un historial detallado de mis mediciones de glucosa.                      | 3            |
+| 12 | US12         | Registro de insulina                   | Como paciente diabético insulinodependiente, quiero registrar cada dosis de insulina.                         | 3            |
+| 13 | US13         | Visualización de historial de insulina | Como paciente diabético, quiero ver el historial de mis dosis de insulina.                                    | 1            |
+| 14 | US14         | Registro de presión arterial           | Como paciente diabético, quiero registrar mis valores de presión arterial.                                    | 3            |
+| 15 | US15         | Visualización de historial de presión  | Como paciente diabético, quiero ver el historial de mi presión arterial.                                      | 1            |
+| 16 | US16         | Registro de alimentos                  | Como paciente diabético, quiero registrar los alimentos que consumo.                                          | 3            |
+| 17 | US17         | Visualización de historial alimenticio | Como paciente diabético, quiero ver mi historial de alimentos.                                                | 1            |
+| 18 | US18         | Registro de actividad física           | Como paciente diabético, quiero registrar mis actividades físicas diarias.                                    | 3            |
+| 19 | US19         | Visualización de historial de actividad| Como paciente diabético, quiero ver el historial de mi actividad física.                                      | 1            |
+| 20 | US20         | Registro de síntomas                   | Como paciente diabético, quiero registrar síntomas como mareos o visión borrosa.                              | 3            |
+| 21 | US21         | Visualización de historial de síntomas | Como paciente diabético, quiero ver el historial de mis síntomas.                                             | 1            |
+| 22 | US22         | Registro de medicamentos               | Como paciente diabético, quiero registrar todos mis medicamentos.                                             | 3            |
+| 23 | US23         | Visualización de historial de medicamentos | Como paciente diabético, quiero ver el historial de mis medicamentos.                                     | 1            |
+| 24 | US24         | Recordatorio de medicación             | Como paciente diabético, quiero recibir recordatorios automáticos para no olvidar tomar mis medicamentos.      | 5            |
+| 25 | US25         | Notificaciones de control de glucosa   | Como paciente diabético, quiero recibir notificaciones para registrar mi glucosa.                             | 1            |
+| 26 | US26         | Notificaciones de actividad física     | Como paciente diabético, quiero recibir notificaciones para realizar actividad física.                        | 1            |
+| 27 | US27         | Visualización de gráficos de evolución | Como paciente diabético, quiero ver gráficos claros de mi evolución en glucosa, presión y actividad.          | 5            |
+| 28 | US28         | Exportación de reportes                | Como paciente diabético, quiero exportar mis datos en PDF o Excel.                                            | 3            |
+| 29 | US29         | Visualización de consejos personalizados| Como paciente diabético, quiero recibir consejos personalizados basados en mis registros.                     | 3            |
+| 30 | US30         | Configuración de metas de salud        | Como paciente diabético, quiero configurar metas de salud personalizadas.                                     | 3            |
+| 31 | US31         | Visualización de progreso de metas     | Como paciente diabético, quiero ver mi progreso respecto a mis metas de salud.                                | 1            |
+| 32 | US32         | Integración con dispositivos de medición| Como paciente diabético, quiero integrar dispositivos médicos para registrar automáticamente mis datos.        | 8            |
+| 33 | US33         | Visualización de alertas de salud      | Como paciente diabético, quiero recibir alertas inmediatas si mis registros indican un riesgo.                | 5            |
+| 34 | US34         | Consulta médica en línea               | Como paciente diabético, quiero agendar consultas médicas en línea.                                           | 8            |
+| 35 | US35         | Chat con profesional de la salud       | Como paciente diabético, quiero comunicarme por chat con un profesional.                                      | 8            |
+| 36 | US36         | Videollamada con profesional           | Como paciente diabético, quiero tener videollamadas con profesionales de la salud.                            | 8            |
+| 37 | US37         | Visualización de pacientes             | Como doctor, quiero visualizar la lista de mis pacientes asignados.                                           | 5            |
+| 38 | US38         | Acceso a historial médico              | Como doctor, quiero acceder al historial médico completo de mis pacientes.                                    | 5            |
+| 39 | US39         | Registro de consulta médica            | Como doctor, quiero registrar el resultado de cada consulta.                                                  | 3            |
+| 40 | US40         | Emisión de receta médica               | Como doctor, quiero emitir recetas electrónicas.                                                              | 5            |
