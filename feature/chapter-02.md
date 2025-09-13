@@ -184,15 +184,15 @@ ENTREVISTA 1
 
 Inicia:
 
-Duración:
+Duración: 10:40
 
-Nombre:
+Nombre: Gustavo Arturo Espinoza Mucha
 
-Edad:
+Edad: 53
 
-Distrito:
+Distrito: La Victoria
 
-Resumen:
+Resumen: Gustavo es un cirujano dentista (53 años) que trabaja en un consultorio, nos comenta que durante sus turnos de trabajo atiende aproximadamente de 3 a 4 personas con diabetes, nos comenta que todos sus registros lo hace de forma manual y que eso le genera un poco de complejidad porque aveces se pierde entre tantos registros, esta interesdo en usar la aplicación aunque no parezca que un cirujano denstista sea relevante, el tambien necesita información al momento de tratar a un paciente con diabetes, nos recomendó que la aplicación sea fácil de usar, que cuente con un chat para poder comunicarse con sus pacientes y que también guarde archivos y sean faciles de poder localizar.
 
 Información extra:
 
