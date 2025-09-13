@@ -196,7 +196,15 @@ Resumen: Gustavo es un cirujano dentista (53 años) que trabaja en un consultori
 
 Información extra:
 
+    Registro medico:
+    - Samsung (uso constante).
+    - Computadora (para trabajo).
     
+    Personalidad:
+    - Carrera: Cirujano Dentista.
+    - Incomodida de no tener todos los datos necesarios de un paciente con diabetes y conflicto al buscar y guardad sus resultados de los apcientes.
+    - Prefiere una plataforma Facil de usar e intuitica y que cuente con herramientas extras con el tema de salud.
+
 ENTREVISTA 2
 
 Inicia:
