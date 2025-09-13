@@ -2,6 +2,14 @@
 
 ## 3.1 To-Be Scenario Mapping 
 
+Durante el desarrollo del mapa "To Be" de Diabelife, se realizó una lluvia de ideas para proponer mejoras orientadas a optimizar la experiencia de los pacientes diabéticos y profesionales de la salud. A partir de esta dinámica, se identificaron soluciones viables para el proceso futuro. Posteriormente, se definieron las etapas del proceso como columnas dentro del mapa "To Be", integrando en cada una las mejoras sugeridas. Entre estas mejoras destacan la incorporación de un sistema de mensajería entre el paciente y el profesional de la salud, la implementación de un plan semanal de monitoreo de salud (glucosa, presión, actividad física, etc.), y la opción para que el paciente pueda compartir reportes de síntomas y registros directamente con su médico tratante.
+
+**Segmento objetivo** 1: Pacientes diabéticos:
+![To-Be-SM-Pacientes-Diabetico.jpeg](../assets/To-Be-SM-Pacientes-Diabetico.jpeg)
+
+**Segmento objetivo** 2: Doctores y profesionales de la salud:
+![To-Be-Sm-Doctores.jpeg](../assets/To-Be-Sm-Doctores.jpeg)
+
 ## 3.2 User Stories
 
 | **Story ID** | **Título**                                 | **Descripción**                                                                                                   | **Criterios de aceptación**                                                                                                                                                                                                 | **Relacionado con (Epic ID)** |
