@@ -37,14 +37,89 @@ Para la tipografía, se han elegido fuentes sans-serif que son conocidas por su 
 
 - Roboto: Una fuente moderna y amigable que combina la legibilidad con un toque técnico. Es perfecta para encabezados, títulos y botones de acción, donde su estructura geométrica aporta un estilo limpio y organizado.
 
-
 ![Tipografia.jpg](../assets/Tipografia.jpg)
-
-
 
 #### Icono/Logotipo:
 
+![DiabeLife-logo.png](../assets/DiabeLife-logo.png)
+
+El logo de DiabeLife presenta una gota estilizada con un contorno azul y un centro rojo, evocando de inmediato la temática de la salud y el control de la diabetes. La forma de la gota simboliza la importancia de la sangre en el monitoreo y cuidado de esta condición, mientras que el trazo limpio y moderno transmite confianza y profesionalismo.
+
+Significado: La unión del contorno azul y el centro rojo representa el equilibrio entre la tecnología, el autocuidado y la vida saludable, integrando en un solo símbolo la vigilancia y el bienestar de las personas con diabetes.
+
+Color: El azul transmite tranquilidad, seguridad y confianza, mientras que el rojo central refuerza la vitalidad y la atención a la salud.
+
+Este logo no solo identifica visualmente a la plataforma, sino que también comunica su propósito esencial: acompañar y empoderar a las personas con diabetes en cada etapa de su vida, brindando apoyo, información y herramientas para una vida plena y saludable.
+
 ### 4.1.2. Web Style Guidelines
+
+Esta sección describe los lineamientos visuales aplicados a los componentes web interactivos de la landing page de DiabeLife, asegurando coherencia, claridad y accesibilidad, alineados a la identidad visual de la marca y a un diseño centrado en el usuario.
+
+Botones Principales (CTA)
+
+Color de fondo: Azul vibrante (#2563EB, #2525EB, gradientes lineales).
+Tipografía: Sans-serif moderna, peso medio a bold, tamaño 16px.
+Color de texto: Blanco puro (#FFFFFF) para máximo contraste.
+Forma: Esquinas redondeadas (border-radius 15px), estilo cápsula.
+
+Tono comunicacional: Directo, profesional y motivador, invita a la acción con claridad y confianza.
+
+Color de fondo: Azul vibrante (#2563EB), transmite dinamismo, confianza y modernidad.
+Color de texto: Blanco puro (#FFFFFF), máximo contraste y legibilidad.
+Tipografía: Sans serif, peso medio o bold, tamaño 16px, centrado.
+Forma: Esquinas completamente redondeadas (999px), estilo cápsula.
+Estilo: Plano, sin sombras ni decoraciones.
+Tono comunicacional: Profesional, directo y entusiasta. Invita a la acción de forma clara y accesible, sin agresividad.
+
+Enlaces de Navegación
+
+Texto: Negro absoluto (#000000) sobre fondo blanco en el header; blanco (#FFFFFF) sobre fondo oscuro en el footer.
+Tipografía: Sans-serif, 16px para navegación principal, 14px para enlaces secundarios.
+Estilo: Sin subrayado, alineación limpia, espaciado generoso.
+Tono: Profesional, moderno y claro.
+
+Header
+Elementos: Logotipo a la izquierda, menú de navegación a la derecha.
+Fondo: Blanco puro (#FFFFFF).
+Estilo: Barra fija, sombra sutil para separación.
+Tono: Estructurado, accesible y confiable.
+
+Footer
+Fondo: Gradiente azul-verde (#2563EB a #10B981) en la sección superior; negro absoluto (#131826) en la inferior.
+Texto: Blanco puro (#FFFFFF).
+Íconos: Grises claros o azulados, tamaño 24px.
+Tono: Respetuoso, confiable y sereno, con cierre visual ordenado.
+
+Secciones
+Fondo: Blanco (#FFFFFF) con bordes y sombras sutiles (#DDDDDD).
+Bordes: Redondeados, separación clara entre secciones.
+Tono: Limpio, profesional y accesible.
+
+Iconografía
+Estilo: Lineal, minimalista, flat, tamaño estándar 24px.
+Colores: Azul (#2563EB), verde (#10B981), gris claro (#9EA3AE) según contexto.
+Tono: Funcional, claro y coherente.
+
+Paleta de Colores Principal
+Azul: #2563EB, #2525EB, gradientes lineales (acción, confianza).
+Verde: #10B981 (éxito, salud).
+Negro: #000000, #131826 (texto principal, fondo footer).
+Blanco: #FFFFFF, #F9FAFB (fondos, tarjetas).
+Gris: #9EA3AE, #DDDDDD (bordes, iconos secundarios).
+Morado: #7B61FF (acentos sutiles).
+
+Tono Comunicacional General
+Profesional, claro y empático.
+Directo y motivador, sin perder cercanía.
+Respetuoso y confiable, transmitiendo seguridad y apoyo.
+Estos lineamientos aseguran una experiencia visual coherente, moderna y accesible, alineada con la misión de DiabeLife de acompañar y empoderar a las personas con diabetes.
+
+![header.png](../assets/header.png)
+![buttons.png](../assets/buttons.png)
+![questions.png](../assets/questions.png)
+![footer.png](../assets/footer.png)
+![colores-mockup.jpg](../assets/colores-mockup.jpg)
+
 ## 4.2. Information Architecture
 
 En esta seccion mostramos las decisiones de Arquitectura de Informacion para organizar el contenido de nuestra aplicacion de tal manera que los usuarios puedan tener una experiencia eficiente. Se incluyen las secciones de Organization Systems, Labeling Systems, Navigation Systems y Searching Systems.
