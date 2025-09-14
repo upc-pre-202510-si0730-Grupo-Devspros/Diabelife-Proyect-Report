@@ -378,6 +378,15 @@ Luego del cuadro se realiza una explicación resaltando las tareas con mayor fre
 Este análisis realizado facilita la identificación de las funciones que aportan mayor valor a cada grupo de usuario. De esta manera, la solución puede orientarse hacia tareas prioritarias que promuevan un manejo más seguro, eficiente y sencillo tanto para los pacientes como para los profesionales de la salud.
 
 ### 2.3.3. User Journey Mapping.
+
+#### **Segmento 1:** Pacientes con diabetes
+
+![journey-mapping-1.png](../assets/journey-mapping-1.png)
+
+#### **Segmento 2:** Doctores y Profesionales de la Salud
+
+![journey-mapping-2.png](../assets/journey-mapping-2.png)
+
 ### 2.3.4. Empathy Mapping.
 ## 2.4. Big Picture EventStorming.
 
