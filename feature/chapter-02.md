@@ -3,6 +3,7 @@
 ## 2.1 Competidores
 
 # Competidor 1: MySugr
+
 <img src="../assets/mysugr-logo.png" alt="Refoss Logo" width="150"/>
 
 MySugr es una app global de control de diabetes que permite registrar manualmente niveles de glucosa, alimentación y actividad física. Ofrece reportes gráficos y se integra con algunos dispositivos IoT (como Accu-Chek). Tiene versión gratuita y premium.
@@ -10,6 +11,7 @@ MySugr es una app global de control de diabetes que permite registrar manualment
 ---
 
 # Competidor 2: GlucoTrack
+
 <img src="../assets/glucotrack-logo.png" alt="Refoss Logo" width="150"/>
 
 Plataforma enfocada en dispositivos no invasivos de medición de glucosa. Su fortaleza está en el hardware, aunque depende de aplicaciones externas para reportes avanzados y comunicación con doctores.
@@ -17,6 +19,7 @@ Plataforma enfocada en dispositivos no invasivos de medición de glucosa. Su for
 ---
 
 # Competidor 3: SocialDiabetes
+
 <img src="../assets/socialdiabetes-logo.png" alt="Refoss Logo" width="150"/>
 
 Startup española que combina control de glucosa con comunidad de pacientes. Ofrece registro manual y conexión con dispositivos, reportes para médicos y recordatorios. Está certificada como dispositivo médico en la UE.
@@ -131,7 +134,7 @@ Información extra:
 
 ENTREVISTA 2
 
-Inicia:
+Inicia: 0:04
 
 Duración: 8:19
 
@@ -183,7 +186,7 @@ PROFESIONALES DE LA SALUD
 
 ENTREVISTA 1
 
-Inicia:
+Inicia: 0:05
 
 Duración: 10:40
 
