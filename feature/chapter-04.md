@@ -149,9 +149,10 @@ Esta sección presenta el sistema de búsqueda implementado en la plataforma Dia
    La interfaz de búsqueda está diseñada para ser accesible e intuitiva, permitiendo a los usuarios encontrar rápidamente lo que necesitan. Dentro del módulo de comunidad, se incluirán sugerencias automáticas mientras se escribe y filtros para ordenar los resultados por categorías como temas de interés (dieta, ejercicio, tipo 1, tipo 2), fecha o relevancia. En los registros personales, se permitirá buscar mediciones por rango de fechas o etiquetas específicas.
 
 
-
-
 ### 4.2.5. Navigation Systems
+
+Hemos decidido aplicar para un navigation system con un enfoque centrado en las tareas del usuario dentro de la aplicación. A continuación se muestra las tareas que serán accesibles desde la navegación.
+
 ## 4.3. Landing Page UI Design
 
 En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Landing. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
