@@ -68,6 +68,21 @@ Al acceder a la plataforma web de Diabelife, los usuarios (pacientes y profesion
 
 En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Landing. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
 
+Navbar (Menú Principal):
+
+"Inicio": Redirige a la página principal de bienvenida.
+
+"Características": Muestra en detalle las funcionalidades clave de Diabelife (monitoreo IoT, comunidad, reportes, etc.).
+
+"Cómo Funciona": Explica el proceso desde la suscripción hasta la sincronización del glucómetro y el seguimiento.
+
+"Planes y Precios": Detalla los planes de suscripción (Básico y Premium) y sus beneficios correspondientes.
+
+"Para Profesionales": Una sección dedicada a los médicos, explicando cómo pueden usar la plataforma para gestionar a sus pacientes.
+
+"Contacto": Proporciona acceso directo a los canales de comunicación.
+
+
 ### 4.3.1. Landing Page Wireframe
 
 Esta sección presenta el esquema visual inicial de la landing page en baja fidelidad, definiendo la disposición básica de los elementos clave como encabezado, secciones informativas, navegación y llamado a la acción, alineados con la identidad del proyecto.
