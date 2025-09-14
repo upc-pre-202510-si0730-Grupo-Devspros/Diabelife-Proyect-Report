@@ -108,6 +108,20 @@ Formulario de Contacto:
 
 - "Enviar Consulta": Botón para submitir el formulario.
 
+Pie de Página:
+
+- "Sobre Diabelife": Enlace a una sección que hable de la misión de la empresa.
+
+- "Características": Acceso rápido a las funcionalidades.
+
+- "Prensa": Sección para noticias y apariciones en medios.
+
+- "Términos y Condiciones": Condiciones legales del uso del servicio.
+
+- "Política de Privacidad": Política de protección y manejo de datos de salud.
+
+- "Soporte / FAQ": Redirección a una página de preguntas frecuentes.
+
 
 ### 4.3.1. Landing Page Wireframe
 
