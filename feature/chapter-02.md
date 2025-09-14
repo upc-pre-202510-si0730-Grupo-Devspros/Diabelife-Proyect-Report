@@ -262,9 +262,153 @@ Información extra:
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas.
+
+En esta sección se definieron User Personas como representaciones de los principales usuarios identificados. Estos perfiles condensan sus objetivos, hábitos, dificultades y expectativas frente al uso de herramientas digitales. La construcción de estos arquetipos permitió comprender mejor a los profesionales de la salud y a las personas con diabetes, brindando una guía clara para diseñar soluciones más útiles, seguras e intuitivas.
+
+#### **Segmento 1:** Pacientes con diabetes
+
+![segmento-1.png](../assets/segmento-1.png)
+
+#### **Segmento 2:** Doctores y Profesionales de la Salud
+
+![segmento-2.png](../assets/segmento-2.png)
+
 ### 2.3.2. User Task Matrix.
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Nº</th>
+      <th rowspan="2">Task</th>
+      <th colspan="2">Leonardo Morales</th>
+      <th colspan="2">Valeria Ramos</th>
+    </tr>
+    <tr>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Registrar información de salud</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>Frecuente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Revisar reportes y gráficos de progreso</td>
+      <td>Frecuente</td>
+      <td>Alta</td>
+      <td>Diaria</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Monitorear niveles de glucosa</td>
+      <td>Diaria</td>
+      <td>Alta</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Recibir recordatorios y alertas de riesgo</td>
+      <td>Frecuente</td>
+      <td>Alta</td>
+      <td>Frecuente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Comunicarse por chat (paciente–médico)</td>
+      <td>Frecuente</td>
+      <td>Alta</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Almacenar y acceder a datos clínicos seguros</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>Frecuente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Usar la aplicación sin conexión (offline)</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>Frecuente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Participar en comunidad/apoyo</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+  </tbody>
+</table>
+
+Luego del cuadro se realiza una explicación resaltando las tareas con mayor frecuencia e importancia, principales diferencias y coincidencias entre lo realizado por los User Personas:
+
+#### **Tareas con mayor frecuencia e importancia en ambos segmentos:**
+
+- Para pacientes: registrar y monitorear niveles de glucosa, recibir recordatorios de medicación y alertas de riesgo son actividades críticas que se realizan de manera constante.
+
+- Para médicos: registrar datos clínicos, revisar reportes y recibir alertas de riesgo destacan como tareas prioritarias en su práctica diaria.
+
+#### **Diferencias clave entre segmentos:**
+
+- Los pacientes valoran la simplicidad y automatización del registro, así como el acompañamiento mediante gráficos de progreso y comunidades de apoyo.
+
+- Los médicos ponen énfasis en la seguridad de los datos, la organización de expedientes y la posibilidad de trabajar en entornos con conexión limitada.
+
+#### **Coincidencias entre segmentos:**
+
+- Ambos consideran fundamentales las alertas de riesgo oportunas.
+
+- La comunicación por chat es una necesidad compartida: para el paciente representa confianza y cercanía, y para el médico es una herramienta de seguimiento.
+
+Este análisis realizado facilita la identificación de las funciones que aportan mayor valor a cada grupo de usuario. De esta manera, la solución puede orientarse hacia tareas prioritarias que promuevan un manejo más seguro, eficiente y sencillo tanto para los pacientes como para los profesionales de la salud.
+
 ### 2.3.3. User Journey Mapping.
+
+#### **Segmento 1:** Pacientes con diabetes
+
+![journey-mapping-1.png](../assets/journey-mapping-1.png)
+
+#### **Segmento 2:** Doctores y Profesionales de la Salud
+
+![journey-mapping-2.png](../assets/journey-mapping-2.png)
+
 ### 2.3.4. Empathy Mapping.
+
+En esta sección, el equipo resume el proceso de elaboración y presenta los Empathy Maps desarrollados en la herramienta indicada para cada uno de los User Personas. La construcción se realizó colocando al centro a cada usuario representativo y respondiendo de manera colaborativa a las preguntas clave:
+
+- ¿Con quién estamos empatizando?
+- ¿Qué necesita hacer?
+- ¿Qué está viendo, diciendo, haciendo y escuchando?
+- ¿Qué piensa y siente?
+
+A partir de estas reflexiones se identificaron los Pains (preocupaciones, frustraciones y limitaciones) y los Gains (oportunidades, motivaciones y beneficios esperados). Este ejercicio permitió al equipo profundizar en la perspectiva de los usuarios (pacientes con diabetes y profesionales de la salud) y generar insumos para orientar decisiones de diseño centradas en sus necesidades reales.
+
+#### **Segmento 1:** Pacientes con diabetes
+
+![empathy-mapping-1.png](../assets/empathy-mapping-1.png)
+
+#### **Segmento 2:** Doctores y Profesionales de la Salud
+
+![empathy-mapping-2.png](../assets/empathy-mapping-2.png)
+
 ## 2.4. Big Picture EventStorming.
 
 ## 2.5. Ubiquitous Language.
