@@ -290,11 +290,18 @@ La estructura del mockup destaca un encabezado claro con el logo y menú de nave
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
+
 ### 4.6.2. Software Architecture Context Diagram
+
 ![contextDiagramDiabelife.jpeg](../assets/contextDiagramDiabelife.jpeg)
+
 ### 4.6.3. Software Architecture Container Diagrams
+
 ![containerDiagramDiabelife.jpeg](../assets/containerDiagramDiabelife.jpeg)
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+![componentDiagramDiabelife.jpeg](../assets/componentDiagramDiabelife.jpeg)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
