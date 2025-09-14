@@ -388,6 +388,24 @@ Este análisis realizado facilita la identificación de las funciones que aporta
 ![journey-mapping-2.png](../assets/journey-mapping-2.png)
 
 ### 2.3.4. Empathy Mapping.
+
+En esta sección, el equipo resume el proceso de elaboración y presenta los Empathy Maps desarrollados en la herramienta indicada para cada uno de los User Personas. La construcción se realizó colocando al centro a cada usuario representativo y respondiendo de manera colaborativa a las preguntas clave:
+
+- ¿Con quién estamos empatizando?
+- ¿Qué necesita hacer?
+- ¿Qué está viendo, diciendo, haciendo y escuchando?
+- ¿Qué piensa y siente?
+
+A partir de estas reflexiones se identificaron los Pains (preocupaciones, frustraciones y limitaciones) y los Gains (oportunidades, motivaciones y beneficios esperados). Este ejercicio permitió al equipo profundizar en la perspectiva de los usuarios (pacientes con diabetes y profesionales de la salud) y generar insumos para orientar decisiones de diseño centradas en sus necesidades reales.
+
+#### **Segmento 1:** Pacientes con diabetes
+
+![empathy-mapping-1.png](../assets/empathy-mapping-1.png)
+
+#### **Segmento 2:** Doctores y Profesionales de la Salud
+
+![empathy-mapping-2.png](../assets/empathy-mapping-2.png)
+
 ## 2.4. Big Picture EventStorming.
 
 ## 2.5. Ubiquitous Language.
