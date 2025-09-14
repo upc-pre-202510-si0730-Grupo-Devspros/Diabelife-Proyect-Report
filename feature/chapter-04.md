@@ -128,9 +128,13 @@ En esta seccion mostramos las decisiones de Arquitectura de Informacion para org
 
 En este punto se mostraran los tipos de estructura visual que tendra cada grupo de informacion con respecto al segmento objetivo y al tipo de categorización que se usará
 
-Segmento Objetivo 1: Usuarios con Diabetes 
+**Segmento Objetivo 1: Pacientes con Diabetes**
 
+![OS-Paciente.jpeg](../assets/OS-Paciente.jpeg)
 
+**Segmento Objetivo 2: Profesionales de la Salud**
+
+![OS-Doctor.jpeg](../assets/OS-Doctor.jpeg)
 
 ### 4.2.2. Labeling Systems
 
