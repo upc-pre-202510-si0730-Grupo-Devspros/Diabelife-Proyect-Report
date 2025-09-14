@@ -117,6 +117,18 @@ Al acceder a la plataforma web de Diabelife, los usuarios (pacientes y profesion
 
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+En esta seccion se mostraran los Meta Tags a usar dentro de nuestra landing page y web application.
+
+<pre>
+<code>
+<title> Diabelife | Tu comunidad de Diabetes </title>
+<meta name="description" data-i18n="meta.description" content="Plataforma integral para el manejo de diabetes. Conecta con médicos, otros pacientes y gestiona tu salud de manera inteligente.">
+meta name="author" content="Iker Barturen, Stephano Espinoza, Gabriel Mamani, Andres Torres, Diego Véliz">
+</code>
+</pre>
+
+
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
