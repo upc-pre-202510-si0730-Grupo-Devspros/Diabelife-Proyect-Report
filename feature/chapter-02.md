@@ -411,6 +411,8 @@ A partir de estas reflexiones se identificaron los Pains (preocupaciones, frustr
 
 ## 2.4. Big Picture EventStorming.
 
+![event storming.jpg](../assets/event%20storming.jpg)
+
 ## 2.5. Ubiquitous Language.
 
 - **Patient (Paciente)**: Persona con diagnóstico de diabetes que utiliza la plataforma para registrar sus niveles de glucosa, acceder a reportes, recibir recordatorios y participar en la comunidad.
