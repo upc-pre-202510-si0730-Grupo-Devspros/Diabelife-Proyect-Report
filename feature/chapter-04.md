@@ -130,6 +130,9 @@ meta name="author" content="Iker Barturen, Stephano Espinoza, Gabriel Mamani, An
 
 
 ### 4.2.4. Searching Systems
+
+Esta sección presenta el sistema de búsqueda implementado en la plataforma Diabelife, diseñado para ser accesible y centrado en las necesidades del usuario.
+
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 
