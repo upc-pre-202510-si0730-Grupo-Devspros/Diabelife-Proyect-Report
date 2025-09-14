@@ -133,6 +133,9 @@ meta name="author" content="Iker Barturen, Stephano Espinoza, Gabriel Mamani, An
 
 Esta sección presenta el sistema de búsqueda implementado en la plataforma Diabelife, diseñado para ser accesible y centrado en las necesidades del usuario.
 
+1. ¿Qué se busca?
+   Tiene como objetivo proporcionar una solución tecnológica integral y eficiente para personas que viven con cualquier tipo de diabetes. La búsqueda está orientada a empoderar a los usuarios en la autogestión de su condición, brindándoles herramientas para un control preciso de la glucosa, prevención de complicaciones, y un canal de comunicación directo con sus profesionales de la salud, todo a través de una aplicación web que sea intuitiva y fácil de usar.
+
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 
