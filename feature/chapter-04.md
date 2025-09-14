@@ -293,6 +293,7 @@ La estructura del mockup destaca un encabezado claro con el logo y menú de nave
 ### 4.6.2. Software Architecture Context Diagram
 ![contextDiagramDiabelife.jpeg](../assets/contextDiagramDiabelife.jpeg)
 ### 4.6.3. Software Architecture Container Diagrams
+![containerDiagramDiabelife.jpeg](../assets/containerDiagramDiabelife.jpeg)
 ### 4.6.4. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
