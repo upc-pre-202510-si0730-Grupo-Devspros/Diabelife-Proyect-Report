@@ -61,13 +61,6 @@ Segmento Objetivo 1: Usuarios con Diabetes
 
 Al acceder a la plataforma web de Diabelife, los usuarios (pacientes y profesionales de la salud) pueden iniciar sesión, registrarse para crear una nueva cuenta, o recuperar su contraseña. La página principal y sus secciones están diseñadas para informar sobre los beneficios de la aplicación y convertir a los visitantes en suscriptores.
 
-### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems
-### 4.2.5. Navigation Systems
-## 4.3. Landing Page UI Design
-
-En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Landing. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
-
 #### Navbar (Menú Principal):
 
 - "Inicio": Redirige a la página principal de bienvenida.
@@ -121,6 +114,15 @@ En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de 
 - "Política de Privacidad": Política de protección y manejo de datos de salud.
 
 - "Soporte / FAQ": Redirección a una página de preguntas frecuentes.
+
+
+### 4.2.3. SEO Tags and Meta Tags
+### 4.2.4. Searching Systems
+### 4.2.5. Navigation Systems
+## 4.3. Landing Page UI Design
+
+En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Landing. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
+
 
 
 ### 4.3.1. Landing Page Wireframe
