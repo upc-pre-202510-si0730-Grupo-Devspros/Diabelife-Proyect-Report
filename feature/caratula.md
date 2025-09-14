@@ -43,6 +43,10 @@
       <td>Torres Lavandera, Andrés Rodrigo</td>
       <td>u202312557</td>
     </tr>
+<tr>
+      <td>Espinoza Cueva, Stephano Jose</td>
+      <td>u202218590</td>
+    </tr>
   </tbody>
 </table>
 
