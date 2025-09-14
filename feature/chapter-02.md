@@ -259,6 +259,17 @@ Información extra:
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas.
+
+En esta sección se definieron User Personas como representaciones de los principales usuarios identificados. Estos perfiles condensan sus objetivos, hábitos, dificultades y expectativas frente al uso de herramientas digitales. La construcción de estos arquetipos permitió comprender mejor a los profesionales de la salud y a las personas con diabetes, brindando una guía clara para diseñar soluciones más útiles, seguras e intuitivas.
+
+#### **Segmento 1:** Pacientes con diabetes
+
+![segmento-1.png](../assets/segmento-1.png)
+
+#### **Segmento 2:** Doctores y Profesionales de la Salud
+
+![segmento-2.png](../assets/segmento-2.png)
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
