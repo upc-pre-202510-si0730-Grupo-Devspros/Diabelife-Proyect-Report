@@ -68,19 +68,33 @@ Al acceder a la plataforma web de Diabelife, los usuarios (pacientes y profesion
 
 En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Landing. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
 
-Navbar (Menú Principal):
+#### Navbar (Menú Principal):
 
-"Inicio": Redirige a la página principal de bienvenida.
+- "Inicio": Redirige a la página principal de bienvenida.
 
-"Características": Muestra en detalle las funcionalidades clave de Diabelife (monitoreo IoT, comunidad, reportes, etc.).
+- "Características": Muestra en detalle las funcionalidades clave de Diabelife (monitoreo IoT, comunidad, reportes, etc.).
 
-"Cómo Funciona": Explica el proceso desde la suscripción hasta la sincronización del glucómetro y el seguimiento.
+- "Cómo Funciona": Explica el proceso desde la suscripción hasta la sincronización del glucómetro y el seguimiento.
 
-"Planes y Precios": Detalla los planes de suscripción (Básico y Premium) y sus beneficios correspondientes.
+- "Planes y Precios": Detalla los planes de suscripción (Básico y Premium) y sus beneficios correspondientes.
 
-"Para Profesionales": Una sección dedicada a los médicos, explicando cómo pueden usar la plataforma para gestionar a sus pacientes.
+- "Para Profesionales": Una sección dedicada a los médicos, explicando cómo pueden usar la plataforma para gestionar a sus pacientes.
 
-"Contacto": Proporciona acceso directo a los canales de comunicación.
+- "Contacto": Proporciona acceso directo a los canales de comunicación.
+
+#### Secciones Principales:
+
+- "Inicio": Página de bienvenida con un mensaje claro y un llamado a la acción, como "Toma el control de tu diabetes hoy".
+
+- "Características": Descripción detallada del monitoreo automático con IoT, la red social de apoyo, la mensajería directa con doctores y el sistema de citas.
+
+- "Cómo Funciona": Guía paso a paso, visual y sencilla, sobre la configuración de la cuenta y el uso de la aplicación y el glucómetro.
+
+- "Planes y Precios": Tabla comparativa de los planes de suscripción, destacando las ventajas del plan Premium como la integración IoT y las alertas inteligentes.
+
+- "Para Profesionales": Información sobre los beneficios para endocrinólogos y médicos generales, como el acceso a datos en tiempo real y la optimización del seguimiento de pacientes.
+
+- "Contacto": Formulario y datos de contacto para resolver dudas sobre el servicio o el producto.
 
 
 ### 4.3.1. Landing Page Wireframe
