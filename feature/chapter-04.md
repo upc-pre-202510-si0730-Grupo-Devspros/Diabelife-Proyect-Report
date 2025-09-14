@@ -96,7 +96,7 @@ En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de 
 
 - "Contacto": Formulario y datos de contacto para resolver dudas sobre el servicio o el producto.
 
-Formulario de Contacto:
+#### Formulario de Contacto:
 
 - "Nombre Completo": Campo para ingresar el nombre del usuario.
 
@@ -108,7 +108,7 @@ Formulario de Contacto:
 
 - "Enviar Consulta": Botón para submitir el formulario.
 
-Pie de Página:
+#### Pie de Página:
 
 - "Sobre Diabelife": Enlace a una sección que hable de la misión de la empresa.
 
