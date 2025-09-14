@@ -355,6 +355,28 @@ En esta sección se definieron User Personas como representaciones de los princi
   </tbody>
 </table>
 
+Luego del cuadro se realiza una explicación resaltando las tareas con mayor frecuencia e importancia, principales diferencias y coincidencias entre lo realizado por los User Personas:
+
+#### **Tareas con mayor frecuencia e importancia en ambos segmentos:**
+
+- Para pacientes: registrar y monitorear niveles de glucosa, recibir recordatorios de medicación y alertas de riesgo son actividades críticas que se realizan de manera constante.
+
+- Para médicos: registrar datos clínicos, revisar reportes y recibir alertas de riesgo destacan como tareas prioritarias en su práctica diaria.
+
+#### **Diferencias clave entre segmentos:**
+
+- Los pacientes valoran la simplicidad y automatización del registro, así como el acompañamiento mediante gráficos de progreso y comunidades de apoyo.
+
+- Los médicos ponen énfasis en la seguridad de los datos, la organización de expedientes y la posibilidad de trabajar en entornos con conexión limitada.
+
+#### **Coincidencias entre segmentos:**
+
+- Ambos consideran fundamentales las alertas de riesgo oportunas.
+
+- La comunicación por chat es una necesidad compartida: para el paciente representa confianza y cercanía, y para el médico es una herramienta de seguimiento.
+
+Este análisis realizado facilita la identificación de las funciones que aportan mayor valor a cada grupo de usuario. De esta manera, la solución puede orientarse hacia tareas prioritarias que promuevan un manejo más seguro, eficiente y sencillo tanto para los pacientes como para los profesionales de la salud.
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ## 2.4. Big Picture EventStorming.
