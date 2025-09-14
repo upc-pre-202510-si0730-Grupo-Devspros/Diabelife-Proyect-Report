@@ -153,6 +153,32 @@ Esta sección presenta el sistema de búsqueda implementado en la plataforma Dia
 
 Hemos decidido aplicar para un navigation system con un enfoque centrado en las tareas del usuario dentro de la aplicación. A continuación se muestra las tareas que serán accesibles desde la navegación.
 
+### Dentro del perfil de Paciente:
+
+- Monitoreo de Glucosa
+
+- Comunidad
+
+- Mis Reportes
+
+- Chat con Doctor
+
+- Citas
+
+### Dentro del perfil de Doctor:
+
+- Lista de Pacientes
+
+- Añadir Paciente
+
+- Reportes Médicos
+
+- Chat
+
+- Agenda de Citas
+
+- Monitoreo de Paciente
+
 ## 4.3. Landing Page UI Design
 
 En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Landing. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
