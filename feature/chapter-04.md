@@ -96,6 +96,18 @@ En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de 
 
 - "Contacto": Formulario y datos de contacto para resolver dudas sobre el servicio o el producto.
 
+Formulario de Contacto:
+
+- "Nombre Completo": Campo para ingresar el nombre del usuario.
+
+- "Correo Electrónico": Espacio para la dirección de email.
+
+- "Soy": Menú desplegable para seleccionar el perfil (Paciente, Profesional de la Salud, Otro).
+
+- "Mensaje": Área para escribir la consulta o comentario.
+
+- "Enviar Consulta": Botón para submitir el formulario.
+
 
 ### 4.3.1. Landing Page Wireframe
 
