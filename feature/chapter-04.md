@@ -305,5 +305,11 @@ La estructura del mockup destaca un encabezado claro con el logo y menú de nave
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+![classDiagramBcAppointments.jpeg](../assets/classDiagramBcAppointments.jpeg)
+![classDiagramBcCommunity.jpeg](../assets/classDiagramBcCommunity.jpeg)
+![classDiagramBcGlucometer.jpeg](../assets/classDiagramBcGlucometer.jpeg)
+![classDiagramBcReports.jpeg](../assets/classDiagramBcReports.jpeg)
+![classDiagramBcSuscriptions.jpeg](../assets/classDiagramBcSuscriptions.jpeg)
+![classDiagramsBcHealthyLife.jpeg](../assets/classDiagramsBcHealthyLife.jpeg)
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
