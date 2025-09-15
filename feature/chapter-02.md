@@ -104,9 +104,13 @@ Las entrevistas estarán dirigidas a pacientes con diabetes y profesionales de l
 
 ### 2.2.2 Registro de entrevistas
 
-PACIENTES DIABETICOS
+  #### PACIENTES DIABETICOS
+
 
 ENTREVISTA 1
+
+
+
 
 Inicia: 0:01
 
@@ -161,15 +165,15 @@ ENTREVISTA 3
 
 Inicia:
 
-Duración:
+Duración: 7:28
 
-Nombre:
+Nombre: Angelo Stephano Moscoso 
 
-Edad:
+Edad: 21
 
-Distrito:
+Distrito: La Victoria
 
-Resumen:
+Resumen: Angelo Moscoso, estudiante de Ingeniería de 21 años, fue diagnosticado con diabetes tipo 1 hace un año. Debe monitorear su glucosa entre 4 y 5 veces al día, lo que le resulta molesto cuando está en la universidad. Actualmente, por motivos económicos, no utiliza el glucómetro digital que le recomendaron y anota sus niveles en la aplicación de notas de su iPhone. Menciona que le gustaría contar con una aplicación que le permita registrar sus niveles de glucosa y comunicarse directamente con su médico.
 
 Información extra:
 
@@ -178,11 +182,11 @@ Información extra:
     - Computadora (para estudios).
     
     Personalidad:
-    - Carrera: Ingeniería de Sistemas.
-    - Estresado por las facturas elevadas, quiere reducir ese gasto.
-    - Prefiere una plataforma en la cual pueda monitorear el consumo de energía.
+    - Carrera: Ingeniería de Software.
+    - Se siente estresado por no contar con un glucómetro digital ni una plataforma adecuada para gestionar su diabetes.
+    - Prefiere una solución tecnológica que le facilite el monitoreo de sus niveles de glucosa.
 
-PROFESIONALES DE LA SALUD
+  ### PROFESIONALES DE LA SALUD
 
 ENTREVISTA 1
 
