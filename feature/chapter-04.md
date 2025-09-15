@@ -130,11 +130,11 @@ En este punto se mostraran los tipos de estructura visual que tendra cada grupo 
 
 **Segmento Objetivo 1: Pacientes con Diabetes**
 
-![OS-Paciente.jpeg](../assets/OS-Paciente.jpeg)
+![OS-1.png](../assets/OS-1.png)
 
 **Segmento Objetivo 2: Profesionales de la Salud**
 
-![OS-Doctor.jpeg](../assets/OS-Doctor.jpeg)
+![OS-2.png](../assets/OS-2.png)
 
 ### 4.2.2. Labeling Systems
 
@@ -261,8 +261,6 @@ Hemos decidido aplicar para un navigation system con un enfoque centrado en las 
 ## 4.3. Landing Page UI Design
 
 En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Landing. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
-
-
 
 ### 4.3.1. Landing Page Wireframe
 
