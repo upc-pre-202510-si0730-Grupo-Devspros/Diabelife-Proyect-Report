@@ -301,12 +301,29 @@ La estructura del mockup destaca un encabezado claro con el logo y menú de nave
 ![componentDiagramDiabelife.jpeg](../assets/componentDiagramDiabelife.jpeg)
 
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
+
+En esta sección se presentan los diagramas de clases del sistema Diabelife, una aplicación web orientada a la gestión integral de la diabetes. Cada diagrama corresponde a un Bounded Context (BC) identificado en el dominio del sistema, representando las principales entidades, servicios y componentes involucrados en su funcionamiento. Los diagramas permiten visualizar de manera estructurada cómo se relacionan los elementos dentro de cada contexto, facilitando la comprensión del modelo de datos y la lógica de negocio.
+
+El BC Appointments modela la gestión de citas médicas. Doctores y pacientes se relacionan a través de citas con fecha, hora y estado. El servicio administra la programación y cancelación, y los componentes permiten visualizar el calendario y registrar nuevas citas.
 ![classDiagramBcAppointments.jpeg](../assets/classDiagramBcAppointments.jpeg)
+
+El diagrama de clases del BC Community modela la interacción social entre pacientes y doctores. Incluye usuarios que pueden crear publicaciones y comentarios. El servicio gestiona las operaciones de creación y consulta, mientras que los componentes permiten la visualización y participación en el foro.
 ![classDiagramBcCommunity.jpeg](../assets/classDiagramBcCommunity.jpeg)
+
+En el BC Glucometro se gestiona la conexión IoT con los dispositivos de medición de glucosa. Los pacientes reciben sus mediciones automáticamente desde el dispositivo. El servicio procesa y analiza los valores, mientras que los componentes permiten mostrar gráficas e historial de mediciones.
 ![classDiagramBcGlucometer.jpeg](../assets/classDiagramBcGlucometer.jpeg)
+
+El BC Reports representa el registro y gestión de reportes médicos. Los doctores pueden generar diagnósticos vinculados a pacientes, los cuales se almacenan como reportes. El servicio centraliza la lógica de creación y exportación, mientras que los componentes permiten la administración y consulta de los informes.
 ![classDiagramBcReports.jpeg](../assets/classDiagramBcReports.jpeg)
+
+El BC Subscriptions representa la administración de planes y pagos de la aplicación. Incluye suscripciones activas, métodos de pago e historial de facturas. Los servicios gestionan la creación de suscripciones y el procesamiento de pagos, y los componentes permiten seleccionar planes, registrar información de pago y consultar facturas.
 ![classDiagramBcSuscriptions.jpeg](../assets/classDiagramBcSuscriptions.jpeg)
+
+El BC HealthyLife modela la planificación de la vida saludable del paciente. Permite registrar medicamentos, planes de alimentación y visitas médicas. El servicio gestiona estas rutinas y los componentes facilitan la organización semanal mediante formularios y planificadores visuales.
 ![classDiagramsBcHealthyLife.jpeg](../assets/classDiagramsBcHealthyLife.jpeg)
+
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
