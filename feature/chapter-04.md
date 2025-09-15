@@ -128,9 +128,13 @@ En esta seccion mostramos las decisiones de Arquitectura de Informacion para org
 
 En este punto se mostraran los tipos de estructura visual que tendra cada grupo de informacion con respecto al segmento objetivo y al tipo de categorización que se usará
 
-Segmento Objetivo 1: Usuarios con Diabetes 
+**Segmento Objetivo 1: Pacientes con Diabetes**
 
+![OS-1.png](../assets/OS-1.png)
 
+**Segmento Objetivo 2: Profesionales de la Salud**
+
+![OS-2.png](../assets/OS-2.png)
 
 ### 4.2.2. Labeling Systems
 
@@ -258,8 +262,6 @@ Hemos decidido aplicar para un navigation system con un enfoque centrado en las 
 
 En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra landing page usando las herramientas de Wireframes y Mock-ups. Para este boceto hemos considerado las elecciones de color conforme a nuestro Landing. Ademas, hemos considerado dentro de nuestra seccion de Productos las distintas funciones a las que se puede acceder segun los Organization y Navigation Systems.
 
-
-
 ### 4.3.1. Landing Page Wireframe
 
 Esta sección presenta el esquema visual inicial de la landing page en baja fidelidad, definiendo la disposición básica de los elementos clave como encabezado, secciones informativas, navegación y llamado a la acción, alineados con la identidad del proyecto.
@@ -275,12 +277,7 @@ Esta sección presenta el esquema visual inicial de la landing page en baja fide
 
 La estructura del mockup destaca un encabezado claro con el logo y menú de navegación, seguido de una sección principal con mensaje de bienvenida y llamado a la acción. Se incluyen bloques informativos sobre los servicios, testimonios y beneficios, todos organizados en tarjetas o secciones bien diferenciadas. Los botones y elementos interactivos emplean el verde para resaltar acciones importantes. El diseño prioriza la legibilidad, el espacio en blanco y la accesibilidad, asegurando una experiencia de usuario amigable y profesional tanto en escritorio como en dispositivos móviles.
 
-![Style1-Mock-up.png](../assets/Style1-Mock-up.png)
-![Style2-Mock-up.png](../assets/Style2-Mock-up.png)
-![Style3-Mock-up.png](../assets/Style3-Mock-up.png)
-![Style4-Mock-up.png](../assets/Style4-Mock-up.png)
-![Style5-Mock-up.png](../assets/Style5-Mock-up.png)
-![Mock-Up-1.png](../assets/Mock-Up-1.png)
+![Mock-Up.png](../assets/Mock-Up.png)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
