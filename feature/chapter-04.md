@@ -55,58 +55,57 @@ Este logo no solo identifica visualmente a la plataforma, sino que también comu
 
 Esta sección describe los lineamientos visuales aplicados a los componentes web interactivos de la landing page de DiabeLife, asegurando coherencia, claridad y accesibilidad, alineados a la identidad visual de la marca y a un diseño centrado en el usuario.
 
-Botones Principales (CTA)
+**Botones Principales**
+  - **Color de fondo:** Azul vibrante (#2563EB, #2525EB, gradientes lineales).
+  - **Tipografía:** Sans-serif moderna, peso medio a bold, tamaño 16px.
+  - **Color de texto:** Blanco puro (#FFFFFF) para máximo contraste.
+  - **Forma:** Esquinas redondeadas (border-radius 15px), estilo cápsula.
 
-Color de fondo: Azul vibrante (#2563EB, #2525EB, gradientes lineales).
-Tipografía: Sans-serif moderna, peso medio a bold, tamaño 16px.
-Color de texto: Blanco puro (#FFFFFF) para máximo contraste.
-Forma: Esquinas redondeadas (border-radius 15px), estilo cápsula.
+**Tono comunicacional:** Directo, profesional y motivador, invita a la acción con claridad y confianza.
 
-Tono comunicacional: Directo, profesional y motivador, invita a la acción con claridad y confianza.
+  - **Color de fondo:** Azul vibrante (#2563EB), transmite dinamismo, confianza y modernidad.
+  - **Color de texto:** Blanco puro (#FFFFFF), máximo contraste y legibilidad.
+  - **Tipografía:** Sans serif, peso medio o bold, tamaño 16px, centrado.
+  - **Forma:** Esquinas completamente redondeadas (999px), estilo cápsula.
+  - **Estilo:** Plano, sin sombras ni decoraciones.
+  - **Tono comunicacional:** Profesional, directo y entusiasta. Invita a la acción de forma clara y accesible, sin agresividad.
 
-Color de fondo: Azul vibrante (#2563EB), transmite dinamismo, confianza y modernidad.
-Color de texto: Blanco puro (#FFFFFF), máximo contraste y legibilidad.
-Tipografía: Sans serif, peso medio o bold, tamaño 16px, centrado.
-Forma: Esquinas completamente redondeadas (999px), estilo cápsula.
-Estilo: Plano, sin sombras ni decoraciones.
-Tono comunicacional: Profesional, directo y entusiasta. Invita a la acción de forma clara y accesible, sin agresividad.
+**Enlaces de Navegación**
 
-Enlaces de Navegación
+  - **Texto:** Negro absoluto (#000000) sobre fondo blanco en el header; blanco (#FFFFFF) sobre fondo oscuro en el footer.
+  - **Tipografía:** Sans-serif, 16px para navegación principal, 14px para enlaces secundarios.
+  - **Estilo:** Sin subrayado, alineación limpia, espaciado generoso.
+  - **Tono:** Profesional, moderno y claro.
 
-Texto: Negro absoluto (#000000) sobre fondo blanco en el header; blanco (#FFFFFF) sobre fondo oscuro en el footer.
-Tipografía: Sans-serif, 16px para navegación principal, 14px para enlaces secundarios.
-Estilo: Sin subrayado, alineación limpia, espaciado generoso.
-Tono: Profesional, moderno y claro.
+**Header**
+  - **Elementos:** Logotipo a la izquierda, menú de navegación a la derecha.
+  - **Fondo:** Blanco puro (#FFFFFF).
+  - **Estilo:** Barra fija, sombra sutil para separación.
+  - **Tono:** Estructurado, accesible y confiable.
 
-Header
-Elementos: Logotipo a la izquierda, menú de navegación a la derecha.
-Fondo: Blanco puro (#FFFFFF).
-Estilo: Barra fija, sombra sutil para separación.
-Tono: Estructurado, accesible y confiable.
+**Footer**
+  - **Fondo:** Gradiente azul-verde (#2563EB a #10B981) en la sección superior; negro absoluto (#131826) en la inferior.
+  - **Texto:** Blanco puro (#FFFFFF).
+  - **Íconos:** Grises claros o azulados, tamaño 24px.
+  - **Tono:** Respetuoso, confiable y sereno, con cierre visual ordenado.
 
-Footer
-Fondo: Gradiente azul-verde (#2563EB a #10B981) en la sección superior; negro absoluto (#131826) en la inferior.
-Texto: Blanco puro (#FFFFFF).
-Íconos: Grises claros o azulados, tamaño 24px.
-Tono: Respetuoso, confiable y sereno, con cierre visual ordenado.
+**Secciones**
+  - **Fondo:** Blanco (#FFFFFF) con bordes y sombras sutiles (#DDDDDD).
+  - **Bordes:** Redondeados, separación clara entre secciones.
+  - **Tono:** Limpio, profesional y accesible.
 
-Secciones
-Fondo: Blanco (#FFFFFF) con bordes y sombras sutiles (#DDDDDD).
-Bordes: Redondeados, separación clara entre secciones.
-Tono: Limpio, profesional y accesible.
+**Iconografía**
+  - **Estilo:** Lineal, minimalista, flat, tamaño estándar 24px.
+  - **Colores:** Azul (#2563EB), verde (#10B981), gris claro (#9EA3AE) según contexto.
+  - **Tono:** Funcional, claro y coherente.
 
-Iconografía
-Estilo: Lineal, minimalista, flat, tamaño estándar 24px.
-Colores: Azul (#2563EB), verde (#10B981), gris claro (#9EA3AE) según contexto.
-Tono: Funcional, claro y coherente.
-
-Paleta de Colores Principal
-Azul: #2563EB, #2525EB, gradientes lineales (acción, confianza).
-Verde: #10B981 (éxito, salud).
-Negro: #000000, #131826 (texto principal, fondo footer).
-Blanco: #FFFFFF, #F9FAFB (fondos, tarjetas).
-Gris: #9EA3AE, #DDDDDD (bordes, iconos secundarios).
-Morado: #7B61FF (acentos sutiles).
+**Paleta de Colores Principal**
+  - **Azul:** #2563EB, #2525EB, gradientes lineales (acción, confianza).
+  - **Verde:** #10B981 (éxito, salud).
+  - **Negro:** #000000, #131826 (texto principal, fondo footer).
+  - **Blanco:** #FFFFFF, #F9FAFB (fondos, tarjetas).
+  - **Gris:** #9EA3AE, #DDDDDD (bordes, iconos secundarios).
+  - **Morado:** #7B61FF (acentos sutiles).
 
 Tono Comunicacional General
 Profesional, claro y empático.
