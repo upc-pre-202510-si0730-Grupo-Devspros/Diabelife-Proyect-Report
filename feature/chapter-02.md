@@ -104,13 +104,11 @@ Las entrevistas estarán dirigidas a pacientes con diabetes y profesionales de l
 
 ### 2.2.2 Registro de entrevistas
 
+**Link:** https://drive.google.com/file/d/1VGIpB60xBipkMiLuM9mySeKDfR6rcvcA/view?usp=sharing
+
   #### PACIENTES DIABETICOS
 
-
 ENTREVISTA 1
-
-
-
 
 Inicia: 0:01
 
@@ -138,7 +136,7 @@ Información extra:
 
 ENTREVISTA 2
 
-Inicia: 0:04
+Inicia: 5:59
 
 Duración: 8:19
 
@@ -163,7 +161,7 @@ Información extra:
 
 ENTREVISTA 3
 
-Inicia:
+Inicia: 14:18
 
 Duración: 7:28
 
@@ -190,7 +188,7 @@ Información extra:
 
 ENTREVISTA 1
 
-Inicia: 0:05
+Inicia: 21:45
 
 Duración: 10:40
 
@@ -215,31 +213,7 @@ Información extra:
 
 ENTREVISTA 2
 
-Inicia:
-
-Duración: 7:38
-
-Nombre: Camila Barturen Del Villar
-
-Edad: 25
-
-Distrito: Jesús María
-
-Resumen: Camila Barturen (25 años) que trabaja actualmente como medico general, nos comenta que durante sus turnos de trabajo atiende a por lo menos 19 pacientes con diabetes cada semana. También nos comento que actualmente el registro es de forma manual, lo que a la vez genera problemas cuando la información o esta actualiza, ella dedica 2 horas de su día a estudiar los reportes de su pacientes para estar informada. Estaría muy interesada en una plataforma que le ayude a gestionar sus pacientes de forma más directa y que le alerte cuando un paciente este en riesgo, aunque le preocupa que haya fallos en la seguridad y privacidad de los datos médicos, también recomendo que el uso de esta sea fácil e intuitiva,.
-
-Información extra:
-
-    Registro medico:
-    - Tablet (uso diario).
-    - Cuaderno de apuntes (para resgistros médicos).
-    
-    Personalidad:
-    - Carrera: Medicina.
-    - Prefiere una plataforma que monitore en tiempo real los niveles de glucosa y signos vitales de su paciente.
-
-ENTREVISTA 3
-
-Inicia: 
+Inicia: 32:30
 
 Duración: 7:18
 
@@ -260,6 +234,30 @@ Información extra:
     Personalidad:
     - Carrera: Medicina.
     - Prefiere una plataforma que la ayude a gestionar mejor losreportes de sus pacientes y que se accesible en zonas remotas.
+
+ENTREVISTA 3
+
+Inicia: 39:55
+
+Duración: 7:38
+
+Nombre: Camila Barturen Del Villar
+
+Edad: 25
+
+Distrito: Jesús María
+
+Resumen: Camila Barturen (25 años) que trabaja actualmente como medico general, nos comenta que durante sus turnos de trabajo atiende a por lo menos 19 pacientes con diabetes cada semana. También nos comento que actualmente el registro es de forma manual, lo que a la vez genera problemas cuando la información o esta actualiza, ella dedica 2 horas de su día a estudiar los reportes de su pacientes para estar informada. Estaría muy interesada en una plataforma que le ayude a gestionar sus pacientes de forma más directa y que le alerte cuando un paciente este en riesgo, aunque le preocupa que haya fallos en la seguridad y privacidad de los datos médicos, también recomendo que el uso de esta sea fácil e intuitiva,.
+
+Información extra:
+
+    Registro medico:
+    - Tablet (uso diario).
+    - Cuaderno de apuntes (para resgistros médicos).
+    
+    Personalidad:
+    - Carrera: Medicina.
+    - Prefiere una plataforma que monitore en tiempo real los niveles de glucosa y signos vitales de su paciente.
 
 ### 2.2.3 Análisis de entrevistas
 
