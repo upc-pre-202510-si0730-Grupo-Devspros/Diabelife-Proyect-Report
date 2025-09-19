@@ -367,7 +367,7 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 
 
 - Organización en GitHub: https://github.com/upc-pre-202510-si0730-Grupo-Devspros
--  del Reporte: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-Report
+- Repositorio del Reporte: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-Report
 - Repositorio de la Landing Page: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Landing-Page
 
 - Figma: https://www.figma.com/design/yHXZMjHYcbiC9xrET2grdI/DiabeLife?node-id=1401-1984&t=BkvR6ijXb0SUvfDB-1
