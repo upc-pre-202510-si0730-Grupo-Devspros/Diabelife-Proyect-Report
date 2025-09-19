@@ -353,5 +353,12 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 ![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpg)
 # Conclusiones
 
+- Alta demanda y pertinencia social: Existe una necesidad creciente de soluciones tecnológicas en salud diabetica, y Diabelife responde eficazmente a este contexto, con potencial de expansión a otras áreas de la salud digital.
+- Propuesta diferenciada frente a competidores: A diferencia de muchas soluciones actuales, Diabelife ofrece un sistema integral con manejo eficiente de datos médicos, comunicación directa con especialistas, herramientas de seguimiento clínico y comunicación activa con diferentes personas.
+- Base académica con visión tecnológica clara: Desarrollado por estudiantes universitarios, el proyecto se sustenta en una visión clara: empoderar mediante la tecnología a personas con diabetes.
+
 # Bibliografía
+
+- 
+
 # Anexos
