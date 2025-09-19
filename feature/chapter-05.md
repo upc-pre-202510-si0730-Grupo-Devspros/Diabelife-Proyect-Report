@@ -263,20 +263,40 @@ En este punto presentan los responsables asignados a cada área. En este primer 
 | Barturen Iker                      | krxxg04    | C                                                    | L                                                      | L                                        |
 | Espinoza Estephano                 | Stephanoescu          | C                                                    | L                                                      | L                                        |
 | Mamani Gabriel                     | Gabriel0105     | C                                                    | C                                                      | L                                        |
+
 # 5.2.1.3. Sprint Backlog 1.
+
+Para el primer sprint se definieron las siguientes historias de usuario y tareas relacionadas con el desarrollo de la landing page. De igual forma, se llevará a cabo un seguimiento constante mediante la herramienta de gestión Trello, con el fin de asegurar que cada tarea avance según lo planificado y, en caso de ser necesario, reubicar esfuerzos para cumplir con los objetivos del sprint
+
+![trello.png](../assets/trello.png)
+
+Enlace al tablero de Trello: https://trello.com/invite/b/68ba56b96241329abc59b401/ATTI528666f0209960f1918524c186fbce0252B7B4BA/trabajo
 
 |  Sprint 1  |            Sprint 1             |     |                              |                                                                     |                    |             |                                                |
 |:----------:|:-------------------------------:|:---:|:----------------------------:|:-------------------------------------------------------------------:|:------------------:|:-----------:|:----------------------------------------------:|
 | User Story |        Work-Item / Task         |     |                              |                                                                     |                    |             |                                                |
 |     Id     |              Title              | Id  |            Title             |                             Description                             | Estimation (Hours) | Assigned To | Status (To do / In process / To review / Done) |
 |    US01    |    Visualización de Home        | W01 | Crear vista Home             | Diseñar y programar la página principal con enlaces a secciones.    |         3          |   Andres    |                     To do                      |
-|    US02    | Visualización de Features       | W02 | Sección de características   | Implementar sección con las funcionalidades principales.            |         3          |    Diego    |                     To do                      |
-|    US03    | Visualización de FAQs           | W03 | Sección de preguntas frecuentes | Mostrar listado de FAQs con respuestas comunes.                   |         2          |   Gabriel   |                     To do                      |
+|    US02    | Visualización de Features       | W02 | Sección de características   | Implementar sección con las funcionalidades principales.            |         3          |  Estephano  |                     To do                      |
+|    US03    | Visualización de FAQs           | W03 | Sección de preguntas frecuentes | Mostrar listado de FAQs con respuestas comunes.                   |         2          |    Diego    |                     To do                      |
 |    US04    | Visualización de Pricing        | W04 | Sección de precios           | Implementar vista con planes y costos de Diabelife.                 |         2          |    Iker     |                     To do                      |
-|    US05    | Visualización de Contact        | W05 | Formulario de contacto       | Crear sección de contacto con formulario validado.                  |         3          |   Andres    |                     To do                      |
+|    US05    | Visualización de Contact        | W05 | Formulario de contacto       | Crear sección de contacto con formulario validado.                  |         3          |   Gabriel   |                     To do                      |
 |    US06    | Cambio de idioma                | W06 | Selector de idioma           | Implementar cambio de idioma en toda la landing page.               |         4          |  Estephano  |                     To do                      |
 
 # 5.2.1.4. Development Evidence for Sprint Review.
+
+En este apartado se muestran los commits que evidencian los principales progresos en la implementación. Estos registros provienen del repositorio de la landing page de la organización en GitHub.
+
+Enlace al repositorio de la Landing Page: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Landing-Page
+
+| Repository                           | Branch | Commit Id                                 | Commit Message                  | Commit Message Body | Commited on (Date) |
+|--------------------------------------|--------|-------------------------------------------|---------------------------------|---------------------|--------------------|
+| DiabeLife-Landing-Page  | main   | e3082abc16feaa4001d28334605dd02384e4fbc2  | docs: create markdown file for report     |                     | 28/08/2025         |
+|DiabeLife-Landing-Page  | main   | 9b540c74e24b9b76c98007a60bc96afa1983cdf0  | docs: update report |                     | 30/08/2025         |
+| DiabeLife-Landing-Page  | main   | ec31cacf3783d3a3e46baf6b129fc8758dd56828  | docs: add tittle             |                     | 05/09/2025         |
+
+
+
 # 5.2.1.5. Execution Evidence for Sprint Review.
 # 5.2.1.6. Services Documentation Evidence for Sprint Review.
 # 5.2.1.7. Software Deployment Evidence for Sprint Review.
