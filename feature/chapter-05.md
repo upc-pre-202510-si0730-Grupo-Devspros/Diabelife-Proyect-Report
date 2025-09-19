@@ -191,6 +191,68 @@ La Landing Page fue desarrollada de manera colaborativa por el equipo y posterio
 
 # 5.2.1. Sprint 1
 # 5.2.1.1. Sprint Planning 1.
+A continuación se presenta el acta de planificación correspondiente al primer sprint, en la cual se establecieron los objetivos y las actividades a ejecutar.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 1</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">16/09/2025</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">5:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Cristian Mamani Marca</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Barturen Panez Iker Gabriel, Mamani Marca Gabriel Cristian, Espinoza Cueva Stephano Jose, Torres Lavandera Andres Rodrigo,Véliz Martínez Diego Alonso   .</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">En esta reunión se planificaron las tareas a realizar para el desarrollo de la landing page de Diabelife.Tambien, se establecieron fechas limite  para la entrega,con el fin reservar tiempo para realizar el despliegue .</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">Durante la retrospectiva, los integrantes identificaron fortalezas y oportunidades de mejora relacionadas con la organización del equipo y la distribución de tareas. Se destacó la importancia de mantener una comunicación clara y constante para optimizar el trabajo colaborativo.  
+ <div class=". ."></div>.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8">El objetivo de este sprint fue implementar la **landing page de Diabelife**, asegurando que los visitantes pudieran navegar fácilmente por sus secciones principales (Home, Features, FAQs, Pricing y Contact), además de incluir la opción de cambio de idioma. El éxito se mide cuando los usuarios pueden visualizar la página en su totalidad y acceder a la información de manera clara y accesible.  
+
+ </td>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">4 story points </td>>.  
+
+ </td>
+</tr>
+
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 story points </td>>.  
+
+ </td>
+</tr>
+</table>
+
+
 # 5.2.1.2. Aspect Leaders and Collaborators.
 # 5.2.1.3. Sprint Backlog 1.
 # 5.2.1.4. Development Evidence for Sprint Review.
