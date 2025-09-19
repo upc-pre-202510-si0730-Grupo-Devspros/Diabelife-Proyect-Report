@@ -259,9 +259,9 @@ En este punto presentan los responsables asignados a cada área. En este primer 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
 |------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
 | Veliz Diego                        | Veliz-0912     | C                                                    | C                                                      | L                                        |
-| Torres Andres                      | AndresTorres202312557        | L                                                    | C                                                      | L                                        |
+| Torres Andres                      | AndresTorres202312557        | C                                                    | L                                                      | L                                        |
 | Barturen Iker                      | krxxg04    | C                                                    | L                                                      | L                                        |
-| Espinoza Estephano                 | Stephanoescu          | C                                                    | L                                                      | L                                        |
+| Espinoza Estephano                 | Stephanoescu          | L                                                    | C                                                      | L                                        |
 | Mamani Gabriel                     | Gabriel0105     | C                                                    | C                                                      | L                                        |
 
 # 5.2.1.3. Sprint Backlog 1.
