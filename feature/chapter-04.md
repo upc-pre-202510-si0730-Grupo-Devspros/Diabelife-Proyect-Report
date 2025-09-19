@@ -364,6 +364,47 @@ User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción 
 
 
 ## 4.5. Web Applications Prototyping
+
+**1. Navegación Principal Consistente:**
+
+Se implementó una barra de navegación lateral izquierda persistente que concentra las secciones principales: Glucometer, Profile, Healthy Life, Community, Appointment, Notifications y Reports. Esta estructura asegura que el usuario tenga siempre acceso rápido y visible a todas las áreas relevantes de la aplicación, evitando la desorientación y favoreciendo un flujo de navegación continuo y coherente. La ubicación fija de la barra respalda la accesibilidad y la organización lógica de las funcionalidades, adaptándose a distintos escenarios de uso.
+
+**2. Pantallas de Registro y Acceso:**
+
+La pantalla de Log in presenta un diseño minimalista y centrado en la tarea, con campos simples para correo/usuario y contraseña, complementados con la opción Remember me. El estilo sobrio y enfocado en la acción principal ayuda a reducir fricciones en el ingreso, manteniendo la identidad visual clara gracias al logotipo centrado.
+
+**3. Seguimiento de Salud en "Healthy Life"**
+
+La sección Healthy Life permite registrar datos clave de salud: Heart Rate, Glucose, Weight y Blood Pressure. Cada campo está claramente diferenciado y acompañado de su respectiva unidad de medida. Al guardar los registros, el sistema genera un cuadro de resumen y ofrece recomendaciones de alimentación. Esta retroalimentación inmediata da soporte al usuario en la interpretación de sus datos, aportando valor más allá del simple almacenamiento.
+
+**4. Monitoreo Gráfico en "Glucometer"**
+
+El módulo de Glucometer integra visualizaciones semanales mediante gráficos de línea que muestran las variaciones de la glucosa. Además, incluye un panel derecho con el valor actual (ejemplo: 145 mg/dL), una etiqueta de estado (High/Normal/Low) y una tendencia proyectada. Esta representación combina datos numéricos y visuales, otorgando claridad y fomentando decisiones rápidas y basadas en evidencia.
+
+**5. Interacción Comunitaria en "Community"**
+
+La sección Community se ha diseñado como un espacio colaborativo. Los usuarios pueden unirse o crear comunidades, y dentro de ellas compartir experiencias mediante mensajes. El diseño de conversación estilo chat replica una interacción social real, reforzando el sentido de acompañamiento. Se privilegia la claridad de roles (usuario vs. comunidad) y se fomenta la participación activa con mensajes directos, acompañados de botones de acción claros como Join Community o Create Community.
+
+**6. Gestión de Citas en "Appointment"**
+
+El módulo de Appointment incluye un calendario central y un panel derecho con la lista de citas confirmadas. Cada cita muestra fecha, hora y médico asignado, con la posibilidad de Add o Edit. Esta disposición permite tanto la visualización global (días disponibles) como la gestión puntual de compromisos, facilitando la organización personal.
+
+**7. Notificaciones Claras y Accionables**
+
+La sección de Notifications presenta un listado cronológico de mensajes provenientes de distintas fuentes: doctores, el sistema, nutricionistas o la comunidad. Cada notificación muestra el remitente, el contenido resumido, la fecha y opciones rápidas de interacción (marcar como leído o eliminar). Se incluye un botón destacado See All Messages, que concentra la gestión completa de alertas.
+
+**8. Reportes Personalizados en "Reports"**
+
+En este apartado, los usuarios pueden generar reportes en PDF o Word, ya sea con toda la información o con datos específicos (glucosa, peso, presión, frecuencia cardíaca). Asimismo, los reportes pueden compartirse con mensajes personalizados, quedando un historial visible con el estado de cada uno (compartido/no compartido). Esta flexibilidad responde tanto a necesidades personales como a contextos médicos de colaboración.
+
+**9. Gestión de Perfil y Suscripciones**
+
+El perfil del usuario muestra información personal básica junto con datos médicos relevantes, y ofrece botones de acción como Update Profile, Contact Doctor y Subscribe. Además, se integró un módulo de pago con formulario sencillo (número de tarjeta, fecha y CVV) que facilita la suscripción sin distraer al usuario de su flujo principal.
+
+**Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312557_upc_edu_pe/EVBxhai5JehDpv-_3AJ3IyYBoA3mmjO3h-Dmj-zAGamQIg?e=J8jtde
+
+![Prototyping.png](../assets/Prototyping.png)
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 
