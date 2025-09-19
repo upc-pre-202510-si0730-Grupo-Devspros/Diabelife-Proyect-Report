@@ -311,15 +311,15 @@ User Goal: Como paciente con diabetes quiero crear y leer publicaciones en el fo
 
 User Goal: Como paciente con diabetes quiero agendar una cita con mi médico especialista para recibir seguimiento profesional de mi condición.
 
-![Wireflow-5.png](../assets/Wireflow-5.png)
+![Wireflow-4.png](../assets/Wireflow-4.png)
 
 User Goal: Como paciente con diabetes quiero acceder a mis reportes médicos y análisis para revisar mi historial clínico y evolución de la enfermedad.
 
-![Wireflow-6.png](../assets/Wireflow-6.png)
+![Wireflow-5.png](../assets/Wireflow-5.png)
 
 User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción para acceder a funcionalidades premium y mejorar mi experiencia en la gestión de la enfermedad.
 
-![Wireflow-7.png](../assets/Wireflow-7.png)
+![Wireflow-6.png](../assets/Wireflow-6.png)
 
 
 ### 4.4.2. Web Applications Mock-ups
