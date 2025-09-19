@@ -343,7 +343,7 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 
 - Andrés Torres: Se encargó del desarrollo de la vista Home.
 
-- Estephano Espinoza: Desarrolló la sección de i18n y Features, brindando información detallada sobre la aplicación Diabelife.
+- Stephano Espinoza: Desarrolló la sección de i18n y Features, brindando información detallada sobre la aplicación Diabelife.
 
 - Diego Veliz: Implementó la vista de FAQ (Preguntas Frecuentes).
 
@@ -352,5 +352,6 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 ![EVIDENCIA1.jpeg](../assets/EVIDENCIA1.jpeg)
 ![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpg)
 # Conclusiones
+
 # Bibliografía
 # Anexos
