@@ -315,6 +315,21 @@ Por tal motivo, no se registran endpoints documentados en esta iteración. La do
 En esta etapa, el esfuerzo del equipo estuvo dirigido al diseño, maquetación y despliegue de la Landing Page, asegurando la correcta visualización de las secciones definidas en las historias de usuario (Home, Features, FAQs, Pricing, Contact) y el cambio de idioma.
 
 # 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Durante este Sprint se finalizó la implementación de la Landing Page y se llevó a cabo su publicación a través de GitHub Pages, aprovechando esta plataforma gratuita de despliegue. Con ello, se logró disponer de una versión inicial disponible en línea, con el propósito de facilitar su evaluación y recibir comentarios de mejora.
+
+Actividades realizadas: Se creó el repositorio en GitHub: https://github.com/upc-pre-202510-si0730-Grupo-Devspros
+
+Se realizó la carga del código fuente de la Landing Page, incorporando los archivos necesarios en HTML, CSS y JavaScript para garantizar su funcionamiento.
+
+Posteriormente, se habilitó la opción de GitHub Pages desde la sección Settings > Pages, configurando la rama principal como fuente de despliegue y utilizando la carpeta raíz del repositorio.
+
+Finalmente, se validó que la publicación de la Landing Page estuviera disponible de forma correcta a través de la siguiente URL:
+
+Landing Page desplegada: https://upc-pre-202510-si0730-grupo-devspros.github.io/DiabeLife-Landing-Page/ 
+**Evidencia del despliegue:**
+
+![DeployEvidencia.jpeg](../assets/DeployEvidencia.jpeg)
 # 5.2.1.8. Team Collaboration Insights during Sprint.
 # Conclusiones
 # Bibliografía
