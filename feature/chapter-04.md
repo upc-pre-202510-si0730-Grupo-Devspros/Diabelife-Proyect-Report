@@ -336,32 +336,31 @@ User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción 
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
+Tomando en cuenta cada objetivo de cada segmento, se han creado los siguientes user flow diagrams para cada uno de ellos.
+
+User Goal: Como paciente con diabetes quiero iniciar sesión en la aplicación para acceder a mis datos de salud y funcionalidades personalizadas.
+
 ![User-Flow-Diagrams-1.png](../assets/User-Flow-Diagrams-1.png)
 
-
+User Goal: Como paciente con diabetes quiero editar mi perfil personal para mantener actualizada mi información médica y datos de contacto.
 
 ![User-Flow-Diagrams-2.png](../assets/User-Flow-Diagrams-2.png)
 
-
+User Goal: Como paciente con diabetes quiero crear y leer publicaciones en el foro comunitario para conectar con otros pacientes y compartir experiencias
 
 ![User-Flow-Diagrams-3.png](../assets/User-Flow-Diagrams-3.png)
 
-
+User Goal: Como paciente con diabetes quiero agendar una cita con mi médico especialista para recibir seguimiento profesional de mi condición.
 
 ![User-Flow-Diagrams-4.png](../assets/User-Flow-Diagrams-4.png)
 
-
+User Goal: Como paciente con diabetes quiero acceder a mis reportes médicos y análisis para revisar mi historial clínico y evolución de la enfermedad.
 
 ![User-Flow-Diagrams-5.png](../assets/User-Flow-Diagrams-5.png)
 
-
+User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción para acceder a funcionalidades premium y mejorar mi experiencia en la gestión de la enfermedad.
 
 ![User-Flow-Diagrams-6.png](../assets/User-Flow-Diagrams-6.png)
-
-
-
-![User-Flow-Diagrams-7.png](../assets/User-Flow-Diagrams-7.png)
-
 
 
 ## 4.5. Web Applications Prototyping
