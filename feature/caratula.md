@@ -69,9 +69,9 @@
 
 
 # Registro de versiones del informe
-| Versión | Fecha      | Autor                                 | Descripción de modificación                                                                                                                 |
-|---------|------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------
-
+| Versión | Fecha      | Autor                                                                                             | Descripción de modificación                                                                                                                                                                                                                                                                |
+|---------|------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| TB1     | 19/09/2025 | -Iker Barturen <br> -Gabriel Mamani<br> - Stephano Espinoza <br> -Andres Torres <br> -Diego Veliz | -Capitulo I: Introducción <br> -Capitulo II: Requirements Elicitation & Analysis <br> - Capitulo III: Requirements Specification <br> -Capitulo IV: Product Design <br> - Avance del Capitulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - LandingPage |
 
 # PROJECT REPORT COLLABORATION INSIGHTS
 
