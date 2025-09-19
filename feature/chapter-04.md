@@ -329,7 +329,6 @@ User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción 
 ![Payment.png](../assets/Payment.png)
 ![Healthy-Life.png](../assets/Healthy-Life.png)
 ![Community.png](../assets/Community.png)
-![New-Community.png](../assets/New-Community.png)
 ![Appointment.png](../assets/Appointment.png)
 ![Notifications.png](../assets/Notifications.png)
 ![Reports.png](../assets/Reports.png)
