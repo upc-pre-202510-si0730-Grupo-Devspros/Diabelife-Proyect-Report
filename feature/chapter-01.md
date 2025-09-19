@@ -181,7 +181,7 @@ El principal desafío es generar confianza entre nuestra audiencia objetivo. Los
 
 ### Features Assumptions
 
-- Registro de niveles de glucosa en tiempo real.
+- Registro de los niveles de glucosa en tiempo real.
 - Captura de comidas (con fotos y descripciones) y su impacto en la glucosa.
 - Seguimiento de actividad física.
 - Registro de medicamentos y dosis.
