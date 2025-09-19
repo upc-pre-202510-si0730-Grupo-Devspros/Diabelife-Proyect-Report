@@ -366,10 +366,10 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 # Anexos
 
 
-Organización en GitHub: https://github.com/upc-pre-202510-si0730-Grupo-Devspros
-Repositorio del Reporte: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-Report
-Repositorio de la Landing Page: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Landing-Page
+- Organización en GitHub: https://github.com/upc-pre-202510-si0730-Grupo-Devspros
+-  del Reporte: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-Report
+- Repositorio de la Landing Page: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Landing-Page
 
-Figma: https://www.figma.com/design/yHXZMjHYcbiC9xrET2grdI/DiabeLife?node-id=1401-1984&t=BkvR6ijXb0SUvfDB-1
-Miro: https://miro.com/welcomeonboard/dmFBK2oycWg5aXM5S2w3Z2RIVVVvTlM5MlVmVmw1RDdSQituMGVrRVl3YmZ1RlZQdFZSNDI5OU52SVp2UTJ3V0NicngwMFVCd0dkU3g2dGNRY0crUm1EeEl2VkdPN3lqWTJZNE50NXZmVEFDL25LSGxRckc1cUhXUExtUzhtRGFBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=453032230713
+- Figma: https://www.figma.com/design/yHXZMjHYcbiC9xrET2grdI/DiabeLife?node-id=1401-1984&t=BkvR6ijXb0SUvfDB-1
+- Miro: https://miro.com/welcomeonboard/dmFBK2oycWg5aXM5S2w3Z2RIVVVvTlM5MlVmVmw1RDdSQituMGVrRVl3YmZ1RlZQdFZSNDI5OU52SVp2UTJ3V0NicngwMFVCd0dkU3g2dGNRY0crUm1EeEl2VkdPN3lqWTJZNE50NXZmVEFDL25LSGxRckc1cUhXUExtUzhtRGFBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=453032230713
 
