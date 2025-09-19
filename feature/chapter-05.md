@@ -6,6 +6,8 @@ En esta sección se describen las decisiones y lineamientos que garantizan consi
 
 En esta sección se presentan los productos de software empleados en el proyecto, cuyos enlaces correspondientes se encuentran disponibles en los anexos
 
+# 5.1.1. Software Development Environment Configuration.
+
 ##### Project Management:
 
 - Trello: Es una herramienta de gestión de proyectos basada en el método Kanban, utilizada para planificar tareas y asignar responsabilidades al equipo. Permite organizar el trabajo en tableros, listas y tarjetas, lo que facilita la visualización del flujo de actividades, el seguimiento del progreso de cada tarea y la colaboración en tiempo real entre los miembros del equipo. Además, se emplea para documentar los Sprint Backlogs, asignar responsables, establecer fechas de entrega y mantener la trazabilidad de las User Stories y tareas durante el desarrollo del proyecto.
@@ -33,8 +35,59 @@ En esta sección se presentan los productos de software empleados en el proyecto
 
 
 
-# 5.1.1. Software Development Environment Configuration.
 # 5.1.2. Source Code Management.
+
+Para administrar el código fuente, se empleará GitHub como herramienta principal de control de versiones y espacio de colaboración entre los integrantes del equipo. Se han configurado repositorios independientes para cada uno de los productos del proyecto, cuyos enlaces pueden consultarse en la sección de anexos.
+
+- **Organización en GitHub:** [https://github.com/upc-pre-202510-si0730-Grupo-Devspros](https://github.com/upc-pre-202510-si0730-Grupo-Devspros)
+- **Repositorio del informe final:** [https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-Report](https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-Report)
+- **Repositorio de la Landing Page:** [https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Landing-Page](https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Landing-Page)
+
+### Modelo de ramificación: GitFlow
+
+Se optó por utilizar GitFlow como estrategia de ramificación para el desarrollo. Este enfoque brinda una organización clara de las ramas y favorece el trabajo colaborativo entre los desarrolladores.
+
+En el repositorio destinado al informe final se establecieron las siguientes ramas:
+
+- dev: Rama central de desarrollo, en la que se unificarán todas las nuevas funcionalidades y ajustes de errores.
+
+- chapter-1: Rama destinada a la elaboración del capítulo 1 del informe.
+
+- chapter-2: Rama destinada a la elaboración del capítulo 2 del informe.
+
+- chapter-3: Rama destinada a la elaboración del capítulo 3 del informe.
+
+- chapter-4: Rama destinada a la elaboración del capítulo 4 del informe.
+
+- chapter-5: Rama destinada a la elaboración del capítulo 5 del informe.
+
+
+### Estilo de commits: Conventional Commits
+
+Con el fin de mantener mensajes de commits claros y consistentes, se adoptará la convención Conventional Commits. Algunos ejemplos de uso son:
+
+- feat: Add search by name functionality
+- fix: Correct form validation error
+- docs: Update installation instructions
+- refactor: Simplify calculation logic
+
+Los prefijos de categoría se emplearán con el siguiente significado:
+
+- feat: A new feature
+- fix: A bug fix
+- docs: Documentation only changes
+- style: Changes that do not affect the meaning of the code (formatting, missing semicolons, etc.)
+- refactor: A code change that neither fixes a bug nor adds a feature
+- test: Adding missing tests or correcting existing ones
+- chore: Changes to the build process or auxiliary tools
+
+
+
+
+
+
+
+
 # 5.1.3. Source Code Style Guide & Conventions.
 # 5.1.4. Software Deployment Configuration.
 # 5.2. Landing Page, Services & Applications Implementation.
