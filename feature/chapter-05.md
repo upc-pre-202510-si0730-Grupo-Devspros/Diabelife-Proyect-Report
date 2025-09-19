@@ -81,14 +81,79 @@ Los prefijos de categoría se emplearán con el siguiente significado:
 - test: Adding missing tests or correcting existing ones
 - chore: Changes to the build process or auxiliary tools
 
-
-
-
-
-
-
-
 # 5.1.3. Source Code Style Guide & Conventions.
+En esta sección se definen las convenciones de nombres y codificación adoptadas por el equipo para los lenguajes utilizados en el proyecto: HTML, CSS, JavaScript y C#. El idioma estándar para todo el código (nombres de variables, funciones, clases, archivos, etc.) es el inglés.
+
+#### Principios generales
+
+- Idioma estándar: Todo el código fuente debe escribirse en inglés, incluyendo nombres de archivos, clases, variables y funciones.
+
+- Prioridad a la legibilidad: Se privilegia el uso de nombres claros y descriptivos por encima de abreviaturas o tecnicismos innecesarios.
+
+- Formato consistente: Se mantiene un estilo uniforme en todo el equipo y en todos los lenguajes, apoyado por herramientas automáticas.
+
+- Nombres semánticos: Los sustantivos se emplean para clases, componentes y archivos, mientras que los verbos se utilizan en funciones o métodos.
+
+- Indentación: 2 espacios para HTML, CSS y JavaScript; 4 espacios para C#.
+
+### HTML5 y CSS3
+
+**HTML5**
+
+- Los archivos deben tener la extensión .html.
+
+- Se recomienda el uso de etiquetas semánticas como <header>, <section>, <nav>, <footer>, entre otras.
+
+- Todas las imágenes deben contar con el atributo alt, y se utilizan atributos aria-* para garantizar accesibilidad.
+
+- Los atributos se escriben siempre entre comillas dobles (").
+
+- Para los identificadores (id) se aplica camelCase, mientras que para las clases se emplea kebab-case.
+
+- La indentación establecida es de 2 espacios.
+
+**CSS3**
+
+- Los archivos deben guardarse con la extensión .css.
+
+- Los nombres de clases y archivos siguen la convención kebab-case, por ejemplo: main-header, product-card, login-form.
+
+- Los estilos relacionados se organizan en bloques y se separan mediante comentarios para facilitar la lectura.
+
+**JavaScript**
+
+- Los archivos deben guardarse con la extensión .js.
+
+- Para variables y funciones se emplea la convención camelCase, por ejemplo: userName, getUserData().
+
+- Las clases y componentes utilizan PascalCase, como UserProfile o LoginForm.
+
+- Se prioriza el uso de const y let en lugar de var.
+
+- Se recomienda utilizar funciones flecha (=>) y nombres claros y descriptivos.
+
+- Cada archivo debe enfocarse en una sola responsabilidad o componente
+
+Basado en:
+- [Guía de estilo JavaScript de Google](https://google.github.io/styleguide/jsguide.html?utm_source=chatgpt.com)
+**C#**
+
+- Los archivos deben tener la extensión .cs.
+
+- Las clases y componentes utilizan PascalCase, por ejemplo: UserService o OrderController.
+
+- Los métodos y variables se escriben en camelCase, como getUserById() o userEmail.
+
+- Las constantes se definen en UPPER_SNAKE_CASE, por ejemplo: MAX_ATTEMPTS.
+
+- Se recomienda una clase pública por archivo.
+
+- Los métodos y clases públicas deben incluir documentación mediante XML comments (///) para mantener buenas prácticas de documentación.
+
+Basado en:
+
+- [Guía de estilo C# de Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions?utm_source=chatgpt.com)
+- [Buenas prácticas para .NET](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/)
 # 5.1.4. Software Deployment Configuration.
 # 5.2. Landing Page, Services & Applications Implementation.
 # 5.2.1. Sprint 1
