@@ -154,7 +154,27 @@ Basado en:
 
 - [Guía de estilo C# de Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions?utm_source=chatgpt.com)
 - [Buenas prácticas para .NET](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/)
+
 # 5.1.4. Software Deployment Configuration.
+En esta sección se detalla la configuración requerida para desplegar la Landing Page del proyecto. El propósito es asegurar que, a partir del código fuente disponible en los repositorios, se pueda realizar una publicación funcional y accesible para los usuarios.
+
+#### Despliegue de Landing Page
+
+La Landing Page fue desarrollada utilizando HTML, CSS y JavaScript, y se publicó mediante GitHub Pages, un servicio gratuito para alojar sitios web estáticos.
+
+#### Pasos para el despliegue:
+
+- Se creó un repositorio llamado landing-page en GitHub.
+
+- Se subieron los archivos del proyecto, incluyendo código HTML, CSS, JavaScript y recursos estáticos.
+
+- En la configuración del repositorio, se habilitó GitHub Pages, seleccionando la rama main y la carpeta raíz (/).
+
+- GitHub generó automáticamente una URL pública donde el sitio quedó accesible para los usuarios.
+
+**Repositorio:** [https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Landing-Page)  <br>
+**URL desplegada:** [https://upc-pre-202510-si0730-grupo-devspros.github.io/Diabelife-Landing-Page/)
+
 # 5.2. Landing Page, Services & Applications Implementation.
 # 5.2.1. Sprint 1
 # 5.2.1.1. Sprint Planning 1.
