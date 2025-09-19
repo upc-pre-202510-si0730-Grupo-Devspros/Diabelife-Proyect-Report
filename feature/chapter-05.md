@@ -350,7 +350,7 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 **Capturas de Insights del repositorio:**
 
 ![EVIDENCIA1.jpeg](../assets/EVIDENCIA1.jpeg)
-![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpeg)
+![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpg)
 # Conclusiones
 # Bibliografía
 # Anexos
