@@ -330,7 +330,27 @@ Landing Page desplegada: https://upc-pre-202510-si0730-grupo-devspros.github.io/
 **Evidencia del despliegue:**
 
 ![DeployEvidencia.jpeg](../assets/DeployEvidencia.jpeg)
+
 # 5.2.1.8. Team Collaboration Insights during Sprint.
+
+En este apartado se presenta la participación de cada miembro en el repositorio de la Landing Page.
+
+Todos los integrantes del equipo aportaron al desarrollo de la página, generando commits y pull requests para incorporar distintas secciones y funcionalidades. A continuación, se detallan algunos aportes destacados:
+
+- Gabriel Mamani: Desarrolló la vista de Contacto con Soporte, donde el usuario puede comunicarse a través de redes sociales como Facebook, Twitter, Instagram y LinkedIn.
+
+- Iker Barturen: Implementó la vista de Pricing, que muestra los planes disponibles en la landing page.
+
+- Andrés Torres: Se encargó del desarrollo de la vista Home.
+
+- Estephano Espinoza: Desarrolló la sección de i18n y Features, brindando información detallada sobre la aplicación Diabelife.
+
+- Diego Veliz: Implementó la vista de FAQ (Preguntas Frecuentes).
+
+**Capturas de Insights del repositorio:**
+
+![EVIDENCIA1.jpeg](../assets/EVIDENCIA1.jpeg)
+![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpeg)
 # Conclusiones
 # Bibliografía
 # Anexos
