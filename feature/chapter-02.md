@@ -259,7 +259,68 @@ Información extra:
     - Carrera: Medicina.
     - Prefiere una plataforma que monitore en tiempo real los niveles de glucosa y signos vitales de su paciente.
 
-### 2.2.3 Análisis de entrevistas
+### 2.2.3 Análisis de Entrevistas
+
+#### **PACIENTES CON DIABETES**
+
+Para el análisis de las entrevistas, se pueden identificar varias características comunes entre los pacientes diabéticos entrevistados que son relevantes para la construcción de los arquetipos de usuarios. A continuación, se presenta un análisis de estas características:
+
+**Patrones de monitoreo y registro:**
+- Todos miden su glucosa diariamente (4-5 veces al día), pero enfrentan dificultades para mantener registros constantes.
+- La mayoría usa glucómetros tradicionales con tiras reactivas por limitaciones económicas.
+- Casi todos registran datos en aplicaciones básicas (notas del celular) o cuadernos físicos.
+
+**Principales desafíos identificados:**
+- Todos experimentan estrés y olvidos frecuentes al registrar sus mediciones.
+- La mayoría reporta consecuencias físicas (mareos, cansancio, hospitalización) cuando no monitorean adecuadamente.
+- Casi todos consideran que el registro manual es tedioso y propenso a errores.
+
+**Expectativas tecnológicas:**
+- Todos valoran la simplicidad, rapidez y seguridad en aplicaciones de salud.
+- La mayoría desea recordatorios automáticos para mediciones e inyecciones.
+- Casi todos están interesados en registro automático conectado a glucómetros IoT.
+
+**Necesidades de comunicación y comunidad:**
+- Todos consideran valioso un sistema de mensajería directa con su doctor para generar confianza.
+- La mayoría busca interactuar con otros pacientes para compartir experiencias y sentirse menos solos.
+- Casi todos prefieren contenido visual (gráficas de progreso) para entender mejor su evolución.
+
+**Perfil tecnológico:**
+- Todos usan smartphones como dispositivo principal (iPhone/Android).
+- La mayoría son jóvenes profesionales o estudiantes universitarios (20-25 años) familiarizados con tecnología.
+
+#### **PROFESIONALES DE LA SALUD**
+
+Para el análisis de las entrevistas, se pueden identificar varias características comunes entre los profesionales de salud entrevistados que son relevantes para la construcción de los arquetipos de usuarios en el segmento objetivo de doctores que atienden pacientes diabéticos. A continuación, se presenta un análisis de estas características:
+
+**Carga de trabajo y frecuencia de atención:**
+- Todos atienden múltiples pacientes diabéticos (3-40 por semana/mes dependiendo de la especialidad).
+- La mayoría dedica tiempo significativo (1-2 horas diarias) a revisar reportes y estudiar casos.
+- Casi todos realizan seguimientos frecuentes pero enfrentan limitaciones de tiempo.
+
+**Métodos de registro actuales:**
+- Todos usan sistemas manuales (cuadernos, registros físicos) que consideran problemáticos.
+- La mayoría encuentra dificultades para localizar información específica entre múltiples registros.
+- Casi todos reportan problemas cuando la información del paciente está incompleta o desactualizada.
+
+**Necesidades tecnológicas identificadas:**
+- Todos valoran herramientas que les permitan gestionar mejor los datos de pacientes.
+- La mayoría necesita alertas automáticas para valores de riesgo y situaciones críticas.
+- Casi todos requieren funcionalidad offline para zonas con conectividad limitada.
+
+**Expectativas de comunicación:**
+- Todos consideran beneficiosa la mensajería directa con pacientes para resolver dudas puntuales.
+- La mayoría busca mejorar el seguimiento remoto sin reemplazar la consulta presencial.
+- Casi todos priorizan la facilidad de uso e interfaz intuitiva.
+
+**Preocupaciones profesionales:**
+- Todos enfatizan la importancia de la seguridad y privacidad de datos médicos.
+- La mayoría requiere capacitación técnica y soporte para adoptar nuevas herramientas.
+- Casi todos necesitan funciones de exportación y respaldo institucional para recomendar aplicaciones.
+
+**Perfil tecnológico:**
+- Todos usan dispositivos variados (PC, tablets, smartphones) dependiendo del entorno de trabajo.
+- La mayoría prefiere soluciones que se integren con sistemas hospitalarios existentes.
 
 ## 2.3. Needfinding
 
