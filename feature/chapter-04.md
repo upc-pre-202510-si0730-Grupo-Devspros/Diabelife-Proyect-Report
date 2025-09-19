@@ -279,8 +279,30 @@ La estructura del mockup destaca un encabezado claro con el logo y menú de nave
 ![Mock-Up.png](../assets/Mock-Up.png)
 
 ## 4.4. Web Applications UX/UI Design
+
+En esta seccion se indicaran los bocetos iniciales de media y alta fidelidad de nuestra Web Application usando las herramientas de Wireframes y Mock-ups. Ademas, hemos considerado como funcionalidades a las que puede acceder cada segmento la separacion indicada en los Organization y Navigation Systems.
+
 ### 4.4.1. Web Applications Wireframes
+
+User goal: Como madre quiero ver los signos vitales de mi bebe para comprobar su estado de salud.
+
+![Login-W.png](../assets/Login-W.png)
+![Dashboard-W.png](../assets/Dashboard-W.png)
+![Profile-W.png](../assets/Profile-W.png)
+![Suscription-W.png](../assets/Suscription-W.png)
+![Health-Life-W.png](../assets/Health-Life-W.png)
+![Communty-W.png](../assets/Communty-W.png)
+![Appointment-W.png](../assets/Appointment-W.png)
+![Notification-W.png](../assets/Notification-W.png)
+![Reports-W.png](../assets/Reports-W.png)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+Tomando en cuenta cada objetivo de cada segmento, se han creado los siguientes wireflows para cada uno de ellos.
+
+
+
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
