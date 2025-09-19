@@ -307,7 +307,13 @@ En este sprint nos enfocamos exclusivamente en la landing page, la cual fue desa
 ![Landing4.jpeg](../assets/Landing4.jpeg)
 ![Landing5.jpeg](../assets/Landing5.jpeg)
 ![Landing6.jpeg](../assets/Landing6.jpeg)
+
 # 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este primer sprint, el alcance se centró únicamente en el desarrollo de la Landing Page de Diabelife, por lo que no se incluyó la implementación ni documentación de Web Services mediante OpenAPI.
+Por tal motivo, no se registran endpoints documentados en esta iteración. La documentación de servicios web se abordará en los siguientes sprints, una vez que se inicie el desarrollo de la API backend y sus integraciones.
+En esta etapa, el esfuerzo del equipo estuvo dirigido al diseño, maquetación y despliegue de la Landing Page, asegurando la correcta visualización de las secciones definidas en las historias de usuario (Home, Features, FAQs, Pricing, Contact) y el cambio de idioma.
+
 # 5.2.1.7. Software Deployment Evidence for Sprint Review.
 # 5.2.1.8. Team Collaboration Insights during Sprint.
 # Conclusiones
