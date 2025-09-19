@@ -337,6 +337,33 @@ User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción 
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
+![User-Flow-Diagrams-1.png](../assets/User-Flow-Diagrams-1.png)
+
+
+
+![User-Flow-Diagrams-2.png](../assets/User-Flow-Diagrams-2.png)
+
+
+
+![User-Flow-Diagrams-3.png](../assets/User-Flow-Diagrams-3.png)
+
+
+
+![User-Flow-Diagrams-4.png](../assets/User-Flow-Diagrams-4.png)
+
+
+
+![User-Flow-Diagrams-5.png](../assets/User-Flow-Diagrams-5.png)
+
+
+
+![User-Flow-Diagrams-6.png](../assets/User-Flow-Diagrams-6.png)
+
+
+
+![User-Flow-Diagrams-7.png](../assets/User-Flow-Diagrams-7.png)
+
+
 
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
