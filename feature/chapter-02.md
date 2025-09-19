@@ -104,7 +104,7 @@ Las entrevistas estarán dirigidas a pacientes con diabetes y profesionales de l
 
 ### 2.2.2 Registro de entrevistas
 
-**Link:** https://drive.google.com/file/d/1VGIpB60xBipkMiLuM9mySeKDfR6rcvcA/view?usp=sharing
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312629_upc_edu_pe/EeUQiQwX3S9Mmobm4Exb0pcBMefgRug8q8R3feVh1-coIw?e=gQrUeY
 
   #### PACIENTES DIABETICOS
 
