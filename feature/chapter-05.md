@@ -102,7 +102,7 @@ En esta sección se definen las convenciones de nombres y codificación adoptada
 
 - Los archivos deben tener la extensión .html.
 
-- Se recomienda el uso de etiquetas semánticas como <header>, <section>, <nav>, <footer>, entre otras.
+- Se recomienda el uso de etiquetas semánticas como header, section, nav, footer, entre otras.
 
 - Todas las imágenes deben contar con el atributo alt, y se utilizan atributos aria-* para garantizar accesibilidad.
 
@@ -176,6 +176,19 @@ La Landing Page fue desarrollada utilizando HTML, CSS y JavaScript, y se public�
 **URL desplegada:** [https://upc-pre-202510-si0730-grupo-devspros.github.io/Diabelife-Landing-Page/)
 
 # 5.2. Landing Page, Services & Applications Implementation.
+En esta sección se describe y documenta la implementación correspondiente a cada uno de los entregables del proyecto DiabeLife
+
+#### Landing page: 
+
+La Landing Page fue desarrollada de manera colaborativa por el equipo y posteriormente publicada utilizando GitHub Pages. A continuación, se presentan imágenes de referencia que evidencian su correcta implementación.
+
+![Landing1.jpeg](../assets/Landing1.jpeg)
+![Landing2.jpeg](../assets/Landing2.jpeg)
+![Landing3.jpeg](../assets/Landing3.jpeg)
+![Landing4.jpeg](../assets/Landing4.jpeg)
+![Landing5.jpeg](../assets/Landing5.jpeg)
+![Landing6.jpeg](../assets/Landing6.jpeg)
+
 # 5.2.1. Sprint 1
 # 5.2.1.1. Sprint Planning 1.
 # 5.2.1.2. Aspect Leaders and Collaborators.
