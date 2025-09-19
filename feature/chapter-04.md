@@ -366,4 +366,9 @@ El BC HealthyLife modela la planificación de la vida saludable del paciente. Pe
 
 
 ## 4.8. Database Design
+En esta seccion especificaremos la especificacion de la organizacion para la base de datos de nuestra solucion.
+
+
 ### 4.8.1. Database Diagrams
+
+![DataBase_Diagrams.jpg](../assets/DataBase_Diagrams.jpg)
