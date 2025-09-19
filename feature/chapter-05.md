@@ -254,7 +254,28 @@ A continuación se presenta el acta de planificación correspondiente al primer 
 
 
 # 5.2.1.2. Aspect Leaders and Collaborators.
+En este punto presentan los responsables asignados a cada área. En este primer Sprint, los entregables se han organizado en tres aspectos diferenciados.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
+|------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
+| Veliz Diego                        | Veliz-0912     | C                                                    | C                                                      | L                                        |
+| Torres Andres                      | AndresTorres202312557        | L                                                    | C                                                      | L                                        |
+| Barturen Iker                      | krxxg04    | C                                                    | L                                                      | L                                        |
+| Espinoza Estephano                 | Stephanoescu          | C                                                    | L                                                      | L                                        |
+| Mamani Gabriel                     | Gabriel0105     | C                                                    | C                                                      | L                                        |
 # 5.2.1.3. Sprint Backlog 1.
+
+|  Sprint 1  |            Sprint 1             |     |                              |                                                                     |                    |             |                                                |
+|:----------:|:-------------------------------:|:---:|:----------------------------:|:-------------------------------------------------------------------:|:------------------:|:-----------:|:----------------------------------------------:|
+| User Story |        Work-Item / Task         |     |                              |                                                                     |                    |             |                                                |
+|     Id     |              Title              | Id  |            Title             |                             Description                             | Estimation (Hours) | Assigned To | Status (To do / In process / To review / Done) |
+|    US01    |    Visualización de Home        | W01 | Crear vista Home             | Diseñar y programar la página principal con enlaces a secciones.    |         3          |   Andres    |                     To do                      |
+|    US02    | Visualización de Features       | W02 | Sección de características   | Implementar sección con las funcionalidades principales.            |         3          |    Diego    |                     To do                      |
+|    US03    | Visualización de FAQs           | W03 | Sección de preguntas frecuentes | Mostrar listado de FAQs con respuestas comunes.                   |         2          |   Gabriel   |                     To do                      |
+|    US04    | Visualización de Pricing        | W04 | Sección de precios           | Implementar vista con planes y costos de Diabelife.                 |         2          |    Iker     |                     To do                      |
+|    US05    | Visualización de Contact        | W05 | Formulario de contacto       | Crear sección de contacto con formulario validado.                  |         3          |   Andres    |                     To do                      |
+|    US06    | Cambio de idioma                | W06 | Selector de idioma           | Implementar cambio de idioma en toda la landing page.               |         4          |  Estephano  |                     To do                      |
+
 # 5.2.1.4. Development Evidence for Sprint Review.
 # 5.2.1.5. Execution Evidence for Sprint Review.
 # 5.2.1.6. Services Documentation Evidence for Sprint Review.
