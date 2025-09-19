@@ -323,7 +323,21 @@ User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción 
 
 
 ### 4.4.2. Web Applications Mock-ups
+
+![Log-in.png](../assets/Log-in.png)
+![Glucometer.png](../assets/Glucometer.png)
+![Profile.png](../assets/Profile.png)
+![Payment.png](../assets/Payment.png)
+![Healthy-Life.png](../assets/Healthy-Life.png)
+![Community.png](../assets/Community.png)
+![New-Community.png](../assets/New-Community.png)
+![Appointment.png](../assets/Appointment.png)
+![Notifications.png](../assets/Notifications.png)
+![Reports.png](../assets/Reports.png)
+
 ### 4.4.3. Web Applications User Flow Diagrams
+
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
