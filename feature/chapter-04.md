@@ -131,10 +131,6 @@ En este punto se mostraran los tipos de estructura visual que tendra cada grupo 
 
 ![OS-1.png](../assets/OS-1.png)
 
-**Segmento Objetivo 2: Profesionales de la Salud**
-
-![OS-2.png](../assets/OS-2.png)
-
 ### 4.2.2. Labeling Systems
 
 Al acceder a la plataforma web de Diabelife, los usuarios (pacientes y profesionales de la salud) pueden iniciar sesión, registrarse para crear una nueva cuenta, o recuperar su contraseña. La página principal y sus secciones están diseñadas para informar sobre los beneficios de la aplicación y convertir a los visitantes en suscriptores.
@@ -301,6 +297,29 @@ User goal: Como madre quiero ver los signos vitales de mi bebe para comprobar su
 
 Tomando en cuenta cada objetivo de cada segmento, se han creado los siguientes wireflows para cada uno de ellos.
 
+User Goal: Como paciente con diabetes quiero iniciar sesión en la aplicación para acceder a mis datos de salud y funcionalidades personalizadas.
+
+![Wireflow-1.png](../assets/Wireflow-1.png)
+
+User Goal: Como paciente con diabetes quiero editar mi perfil personal para mantener actualizada mi información médica y datos de contacto.
+
+![Wireflow-2.png](../assets/Wireflow-2.png)
+
+User Goal: Como paciente con diabetes quiero crear y leer publicaciones en el foro comunitario para conectar con otros pacientes y compartir experiencias
+
+![Wireflow-3.png](../assets/Wireflow-3.png)
+
+User Goal: Como paciente con diabetes quiero agendar una cita con mi médico especialista para recibir seguimiento profesional de mi condición.
+
+![Wireflow-5.png](../assets/Wireflow-5.png)
+
+User Goal: Como paciente con diabetes quiero acceder a mis reportes médicos y análisis para revisar mi historial clínico y evolución de la enfermedad.
+
+![Wireflow-6.png](../assets/Wireflow-6.png)
+
+User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción para acceder a funcionalidades premium y mejorar mi experiencia en la gestión de la enfermedad.
+
+![Wireflow-7.png](../assets/Wireflow-7.png)
 
 
 ### 4.4.2. Web Applications Mock-ups
