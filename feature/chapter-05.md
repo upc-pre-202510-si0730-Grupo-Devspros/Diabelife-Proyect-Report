@@ -359,6 +359,8 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 
 # Bibliografía
 
-- 
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). HTML: HyperText Markup Language. Recuperado de: https://developer.mozilla.org/es/docs/Web/HTML
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). JavaScript. Recuperado de https://developer.mozilla.org/es/docs/Web/JavaScript
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). CSS: Cascading Style Sheets. Recuperado de https://developer.mozilla.org/es/docs/Web/CSS
 
 # Anexos
