@@ -408,7 +408,7 @@ El perfil del usuario muestra información personal básica junto con datos méd
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 
-![![event storming - Design level Event storming (1).jpg](<../assets/event storming - Design level Event storming (1).jpg>)]
+![event storming - Design level Event storming (1).jpg](../assets/event%20storming%20-%20Design%20level%20Event%20storming%20%281%29.jpg)
 
 ### 4.6.2. Software Architecture Context Diagram
 
