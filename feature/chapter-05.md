@@ -298,6 +298,15 @@ Enlace al repositorio de la Landing Page: https://github.com/upc-pre-202510-si07
 
 
 # 5.2.1.5. Execution Evidence for Sprint Review.
+
+En este sprint nos enfocamos exclusivamente en la landing page, la cual fue desarrollada en el repositorio "Diabelife-Landing-Page". Asimismo, se aplicó la metodología GitFlow como parte de las buenas prácticas de desarrollo.
+
+![Landing1.jpeg](../assets/Landing1.jpeg)
+![Landing2.jpeg](../assets/Landing2.jpeg)
+![Landing3.jpeg](../assets/Landing3.jpeg)
+![Landing4.jpeg](../assets/Landing4.jpeg)
+![Landing5.jpeg](../assets/Landing5.jpeg)
+![Landing6.jpeg](../assets/Landing6.jpeg)
 # 5.2.1.6. Services Documentation Evidence for Sprint Review.
 # 5.2.1.7. Software Deployment Evidence for Sprint Review.
 # 5.2.1.8. Team Collaboration Insights during Sprint.
