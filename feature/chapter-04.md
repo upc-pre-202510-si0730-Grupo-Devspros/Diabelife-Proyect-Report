@@ -367,6 +367,8 @@ User Goal: Como paciente con diabetes quiero actualizar mi plan de suscripción 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 
+![![event storming - Design level Event storming (1).jpg](<../assets/event storming - Design level Event storming (1).jpg>)]
+
 ### 4.6.2. Software Architecture Context Diagram
 
 ![contextDiagramDiabelife.jpeg](../assets/contextDiagramDiabelife.jpeg)
