@@ -1,4 +1,4 @@
-# Capítulo 2: IRequirements Elicitation & Analysis
+# Capítulo 2: Requirements Elicitation & Analysis
 
 ## 2.1 Competidores
 
