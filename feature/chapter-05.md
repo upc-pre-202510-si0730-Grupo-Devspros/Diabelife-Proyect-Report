@@ -353,5 +353,32 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 ![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpg)
 # Conclusiones
 
+- El equipo logró implementar y desplegar la landing page de Diabelife, cumpliendo con los objetivos del primer sprint y asegurando la accesibilidad para los usuarios.
+- Se aplicaron buenas prácticas de gestión de proyectos, control de versiones y desarrollo colaborativo, lo que permitió una organización eficiente y una comunicación clara entre los miembros.
+- El uso de herramientas como Trello, Figma, GitHub y metodologías como GitFlow y Conventional Commits contribuyó a la calidad y trazabilidad del desarrollo.
+- La documentación y evidencia presentada demuestran el avance y cumplimiento de los entregables planificados, sentando las bases para futuras iteraciones y mejoras del sistema.
+- El trabajo realizado en este sprint permitió validar la estructura inicial del proyecto y establecer un flujo de trabajo efectivo para el desarrollo de nuevas funcionalidades.
+
 # Bibliografía
+
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). HTML: HyperText Markup Language. Recuperado de:
+https://developer.mozilla.org/es/docs/Web/HTML
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). JavaScript. Recuperado de
+https://developer.mozilla.org/es/docs/Web/JavaScript
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). CSS: Cascading Style Sheets. Recuperado de
+https://developer.mozilla.org/es/docs/Web/CSS
+
 # Anexos
+
+- Organización en GitHub: https://github.com/orgs/upc-pre-202510-si0730-Grupo-Devspros/repositories
+- Repositorio del Reporte: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-Report
+- Repositorio de la Landing Page: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Landing-Page
+- Repositorio del Frontend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
+- Devspros/Landing-Page:
+- DiabeLife/Landing-Page:
+- Trello: https://trello.com/invite/b/68ba56b96241329abc59b401/ATTI528666f0209960f1918524c186fbce0252B7B4BA/trabajo
+- Figma: https://www.figma.com/design/yHXZMjHYcbiC9xrET2grdI/Website-Wireframes-UI-Kit-Vol.-1--Community-?node-id=2-3&t=4Ls1CAD2v4f1TLfF-1
+- Miro: https://miro.com/welcomeonboard/dmFBK2oycWg5aXM5S2w3Z2RIVVVvTlM5MlVmVmw1RDdSQituMGVrRVl3YmZ1RlZQdFZSNDI5OU52SVp2UTJ3V0NicngwMFVCd0dkU3g2dGNRY0crUmxXNGV2dFJSR29PelZMemViNW0zUzFVOGhxRGljZ3E0WE1xRkR2VEtocmpBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=263520817291
+- About the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312557_upc_edu_pe/EVBxhai5JehDpv-_3AJ3IyYBoA3mmjO3h-Dmj-zAGamQIg?e=J8jtde
+- Canva: https://www.canva.com/design/DAGzYRT9C10/pMaVjMYioqu0n13cBjf89g/edit?utm_content=DAGzYRT9C10&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/EeePdcurojZKgxlxc9UDNYYBu_en418EQyqSmgFf-y3fnA?e=4g7cth&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
