@@ -81,7 +81,23 @@
 |------------------------------|
 | https://github.com/orgs/upc-pre-202510-si0730-Grupo-Devspros/repositories |
 ### 2. Actividades de elaboracion del informe 
+
 ### 3. Capturas en imagen de los analíticos de colaboración y commits en GitHub
+- Landing Page del proyecto:
+
+![CommitsLandingPage.png](../assets/CommitsLandingPage.png)
+![CommitsLandingPage2.png](../assets/CommitsLandingPage2.png)
+
+- Frontend del proyecto:
+
+![CommitsFrontEnd.png](../assets/CommitsFrontEnd.png)
+![CommitsFrontEnd2.png](../assets/CommitsFrontEnd2.png)
+
+- Reporte del proyecto:
+
+![Commits1Reporte.png](../assets/Commits1Reporte.png)
+![commits2Reporte.png](../assets/commits2Reporte.png)
+
 ### 4. Evidencia de participacion de todos los miembros del equipo
 
 # Contenido
