@@ -442,12 +442,32 @@ En este punto presentan los responsables asignados a cada área. En este primer 
 
 # 5.2.2.4. Development Evidence for Sprint Review.
 
+En esta sección se presentan los commits que reflejan los avances más importantes durante la implementación. Los registros provienen del repositorio del frontend de la organización en GitHub.
+
+Enlace del repositorio  del frontend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
+
+| Repository           | Branch                 | Commit Id                                | Commit Message                           | Commit Message Body   | Commited on (Date) |
+|----------------------|-----------------------|------------------------------------------|-----------------------------------------|---------------------|------------------|
+| DiabeLife-Frontend   | feature/glucometer    | b3847df749e1c99c327fdc242af118fe55901065 | feat: "glucometer"                       | Diego Véliz         | - |
+| DiabeLife-Frontend   | main                  | e2ed74f9d351344971fa34f2de662b51715f6a11 | feat: add appointment application        | AndresTorres202312557 | - |
+| DiabeLife-Frontend   | main                  | c014981dd7ce612214b9cbf480fdb5f61dd1dd93 | feat: add NewReportSection                | Stephanoescu         | - |
+| DiabeLife-Frontend   | main                  | 8de8643a37edf59c7674d5dcd02ab1b925ffbeef | fead: add food consumed                   | krxxg04             | - |
+| DiabeLife-Frontend   | main                  | 4c21990ed60a5c73bae8d8e40e24320948db8ffb | feat: add profile component               | Gabrlel0105         | - |
+| DiabeLife-Frontend   | main                  | efba505440a8263e03139c2e32022c6ecc90a919 | feat: add user management bc              | Gabrlel0105         | - |
 
 
 # 5.2.2.5. Execution Evidence for Sprint Review.
 
-
-
+Durante este sprint se implementó la primera versión del frontend utilizando el framework Vue. A continuación, se muestran capturas que ilustran la interfaz desarrollada.
+![login.jpeg](../assets/login.jpeg)
+![register.jpeg](../assets/register.jpeg)
+![appointments.jpeg](../assets/appointments.jpeg)
+![community.jpeg](../assets/community.jpeg)
+![gluco.jpeg](../assets/gluco.jpeg)
+![reports.jpeg](../assets/reports.jpeg)
+![healthy.jpeg](../assets/healthy.jpeg)
+![noti.jpeg](../assets/noti.jpeg)
+![profile.jpeg](../assets/profile.jpeg)
 # 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 
@@ -495,8 +515,8 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 - Repositorio del Reporte: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-
 - Repositorio de la Landing Page: https://github.com/upc-pre-202510-si0730-Grupo-
 - Repositorio del Frontend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
-- Devspros/Landing-Page: https://upc-pre-202510-si0730-grupo-devspros.github.io/DiabeLife-Landing-Page/
-- DiabeLife/Landing-Page: https://musical-biscuit-6082f8.netlify.app/
+- Landing page deployado: https://upc-pre-202510-si0730-grupo-devspros.github.io/DiabeLife-Landing-Page/
+- Frontend deployado: https://diabelife-frontend.netlify.app/
 - Figma: https://www.figma.com/design/yHXZMjHYcbiC9xrET2grdI/DiabeLife?node-id=14011984&t=BkvR6ijXb0SUvfDB-1
 - Miro: https://miro.com/welcomeonboard/dmFBK2oycWg5aXM5S2w3Z2RIVVVvTlM5MlVmVmw1RDdSQituMGVrRVl3YmZ1RlZQdFZSNDI5OU52SVp2UTJ3V0NicngwMFVCd0dkU3g2dGNRY0crUm1EeEl2VkdPN3lqWTJZNE50NXZmVEFDL25LSGxRckc1cUhXUExtUzhtRGFBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=453032230713
 - About the producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312557_upc_edu_pe/EVBxhai5JehDpv-_3AJ3IyYBoA3mmjO3h-Dmj-zAGamQIg?e=J8jtde
