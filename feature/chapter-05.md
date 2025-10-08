@@ -468,13 +468,73 @@ Durante este sprint se implementó la primera versión del frontend utilizando e
 ![healthy.jpeg](../assets/healthy.jpeg)
 ![noti.jpeg](../assets/noti.jpeg)
 ![profile.jpeg](../assets/profile.jpeg)
+
 # 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+
+Durante este Sprint, se desarrolló y documentó la capa de Web Services del proyecto **DiabeLife**, una aplicación web construida con **Vue.js**, orientada a brindar soporte integral a personas con diabetes mediante funcionalidades de monitoreo de glucosa, gestión de citas, interacción social y promoción de hábitos saludables.
+
+Dado que el backend aún se encuentra en desarrollo parcial, se utilizó **JSON Server** para simular los servicios REST, permitiendo así un entorno funcional que responde a peticiones HTTP (**GET, POST, PUT, DELETE, PATCH**) sobre los distintos **Backends (BC)**: **community**, **notification**, **appointments**, **glucometer**, **healthy-life**. Para el despliegue del `db.json` y la simulación de la API en un entorno accesible, se utilizó **Render**, lo que permitió que el frontend pudiera consumir los servicios simulados de manera remota y funcional. Esto facilitó el desarrollo, pruebas y validación de las interfaces de usuario, manteniendo la arquitectura desacoplada y preparada para integrarse con los servicios reales en el futuro.
+
+La documentación de Web Services para este Sprint se realizó siguiendo la especificación **OpenAPI**, incluyendo los endpoints asociados al alcance definido. Cada endpoint está descrito con las acciones soportadas, los verbos HTTP correspondientes, parámetros de entrada, ejemplos de request y response, y la explicación de los datos devueltos. Además, se incluyen capturas de pantalla de las interacciones utilizando datos de prueba, mostrando la correcta integración de los servicios simulados con el frontend.
+
+## Logros alcanzados
+
+- Se documentaron todos los **endpoints de los BC**:
+    - **community**: posts, comentarios, likes, interacciones sociales.
+    - **notification**: notificaciones de usuario, alertas de salud y recordatorios.
+    - **appointments**: gestión de citas médicas para pacientes y doctores.
+    - **glucometer**: registro y monitoreo de mediciones de glucosa enviadas por dispositivos IoT.
+    - **healthy-life**: recomendaciones de hábitos saludables, seguimiento de actividad física y nutrición.
+
+- Cada endpoint incluye:
+    - **Acción soportada**: GET, POST, PUT, DELETE, PATCH.
+    - **Sintaxis de llamada**: URL local (`http://localhost:3000/<endpoint>`) o URL de **Render** donde se despliega la API simulada.
+    - **Parámetros**: Query params, path params y body (cuando aplica).
+    - **Ejemplos de request y response** con datos de muestra.
+    - **Explicación del response**, indicando estructura de datos y significado de cada campo.
+
+- Se añadieron capturas de pantalla mostrando:
+    - La creación, actualización, consulta y eliminación de recursos para cada BC.
+    - Interacciones reales con el frontend de Vue utilizando los servicios simulados desplegados en Render.
+
+## Repositorio y commits
+
+- **Repositorio:** (https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend)
+- **Commits relacionados con la documentación del Sprint:** `b3847df`, `e92ac3b`, `f7d2a1c`
+
+Esta documentación proporciona una referencia clara y completa para la integración futura con el backend real, asegurando que el frontend pueda funcionar correctamente y facilitando la transición hacia servicios desplegados en producción.
 
 
 # 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+# Frontend Web Application
 
+El frontend de **DiabeLife** se desplegó utilizando la plataforma **Render**, asegurando que la aplicación web fuera accesible de manera remota y funcional durante el desarrollo y pruebas. Para mantener la arquitectura desacoplada, primero se desplegó la API simulada (`db.json`) y luego se configuró el frontend para consumir los endpoints remotos.
+
+## Pasos de despliegue detallados
+
+### 1. Despliegue del `db.json` en Render
+1. Preparar el archivo `db.json` con los datos simulados para los backends: **community, notification, appointments, glucometer, healthy-life**.
+2. Crear un nuevo **Web Service** en Render:
+    - Click en **"New" → "Web Service"**.
+    - Conectar con un repositorio de GitHub que contenga el `db.json`.
+    - Seleccionar la rama correspondiente (`develop`) y configurar el servicio.
+3. Configurar build y publicación:
+    - **Build Command:** `npx json-server --watch db.json --port 10000`  
+      *(esto inicia el JSON Server en Render para simular la API REST)*
+    - Render asigna una URL pública (por ejemplo: `https://diabelife-db.onrender.com`) donde los endpoints están disponibles.
+4. Verificar que los endpoints (`/community`, `/notification`, `/appointments`, `/glucometer`, `/healthy-life`) respondan correctamente mediante un navegador o Postman.
+
+### 2. Preparación del frontend para producción
+1. Abrir el proyecto **DiabeLife-Frontend**.
+2. Ejecutar el build de producción: 
+   ```bash
+   npm run build
+   
+
+Repositorio: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
+Url Desplegada: https://diabelife-frontend.netlify.app/
 
 # 5.2.2.8. Team Collaboration Insights during Sprint.
 
