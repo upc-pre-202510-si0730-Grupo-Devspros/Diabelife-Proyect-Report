@@ -351,7 +351,85 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 
 ![EVIDENCIA1.jpeg](../assets/EVIDENCIA1.jpeg)
 ![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpg)
+
+# 5.3.1. Sprint 2
+# 5.3.1.1. Sprint Planning 1.
+A continuación se presenta el acta de planificación correspondiente al segundo sprint, en la cual se establecieron los objetivos y las actividades a ejecutar.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">08/10/2025</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">6:59 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Cristian Mamani Marca</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Barturen Panez Iker Gabriel, Mamani Marca Gabriel Cristian, Espinoza Cueva Stephano Jose, Torres Lavandera Andres Rodrigo,Véliz Martínez Diego Alonso   .</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  2 Review Summary</td>
+    <td colspan="8">En esta reunión se planificaron las tareas a realizar para el desarrollo del Frontend de Diabelife. Tambien, se establecieron fechas limite para cada boundend context y para la entrega,con el fin reservar tiempo para realizar el despliegue .</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">Durante la retrospectiva, los integrantes identificaron fortalezas y oportunidades de mejora relacionadas con la organización del equipo y la distribución de tareas. Se destacó la importancia de mantener una comunicación clara y constante para optimizar el trabajo colaborativo.  
+ <div class=". ."></div>.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Goal</td>
+    <td colspan="8">El objetivo de este sprint fue implementar el **FrontEnd de Diabelife**, asegurando que los visitantes pudieran navegar fácilmente por sus principales boundend context (Glucometer, Comunnity, Reports, Appoiments y Healthy life), además de incluir la opción de cambio de idioma. El éxito se mide cuando los usuarios pueden visualizar la página en su totalidad y acceder a la información de manera clara y accesible.  
+
+ </td>
+<tr>
+    <td colspan="5">Sprint 2 Velocity</td>
+    <td colspan="8"> 5 story points </td>>.  
+
+ </td>
+</tr>
+
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">5 story points </td>>.  
+
+ </td>
+</tr>
+</table>
+
+
+# 5.3.1.2. Aspect Leaders and Collaborators.
+En este punto presentan los responsables asignados a cada área. En este primer Sprint, los entregables se han organizado en tres aspectos diferenciados.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Glucometer Leader (L)/ Collaborator (C) | Aspect 2: Reports: Leader (L) / Collaborator (C) | Aspect 3: Comunnity (L) / Collaborator (C) | Aspect 4: Appointments (L/C) | Aspect 5: Healthy Life (L/C) |
+|------------------------------------|-----------------|-------------------------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------|------------------------------|
+| Veliz Diego                        | Veliz-0912      | L                                               | C                                                | C                                          | C                            | C                            |
+| Torres Andres                      | AndresTorres202312557 | C                                               | C                                                | C                                          | L                            | C                            |
+| Barturen Iker                      | krxxg04         | C                                               | C                                                | C                                          | C                            | L                            |
+| Espinoza Estephano                 | Stephanoescu    | C                                               | L                                                | C                                          | C                            | C                            |
+| Mamani Gabriel                     | Gabriel0105     | C                                               | C                                                | L                                          | C                            | C                            |
+
+
 # Conclusiones
 
 # Bibliografía
+
 # Anexos
