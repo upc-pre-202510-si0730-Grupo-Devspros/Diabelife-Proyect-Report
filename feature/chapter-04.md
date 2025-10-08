@@ -409,6 +409,21 @@ El perfil del usuario muestra información personal básica junto con datos méd
 
 ![event storming - Design level Event storming (1).jpg](../assets/event%20storming%20-%20Design%20level%20Event%20storming%20%281%29.jpg)
 
+#### Bounded context detallados:
+
+![BCcommunity.png](../assets/BCcommunity.png)
+
+![BCsuscription.png](../assets/BCsuscription.png)
+
+![BChealthyLife.png](../assets/BChealthyLife.png)
+
+![BCglucometro.png](../assets/BCglucometro.png)
+
+![BCreports.png](../assets/BCreports.png)
+
+![BCapointments.png](../assets/BCapointments.png)
+
+
 ### 4.6.2. Software Architecture Context Diagram
 
 ![contextDiagramDiabelife.jpeg](../assets/contextDiagramDiabelife.jpeg)
