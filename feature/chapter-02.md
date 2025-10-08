@@ -474,7 +474,9 @@ A partir de estas reflexiones se identificaron los Pains (preocupaciones, frustr
 
 ## 2.4. Big Picture EventStorming.
 
-![event storming.jpg](../assets/event%20storming.jpg)
+![event storming1.png](../assets/event%20storming1.png)
+
+![event storming2.png](../assets/event%20sotrming2.png)
 
 ## 2.5. Ubiquitous Language.
 
