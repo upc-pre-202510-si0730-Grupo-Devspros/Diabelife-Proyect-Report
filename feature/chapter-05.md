@@ -353,7 +353,7 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 ![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpg)
 
 # 5.3.1. Sprint 2
-# 5.3.1.1. Sprint Planning 1.
+# 5.3.1.1. Sprint Planning 2.
 A continuación se presenta el acta de planificación correspondiente al segundo sprint, en la cual se establecieron los objetivos y las actividades a ejecutar.
 
 <table>
