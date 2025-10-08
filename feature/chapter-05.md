@@ -277,7 +277,7 @@ Enlace al tablero de Trello: https://trello.com/invite/b/68ba56b96241329abc59b40
 | User Story |        Work-Item / Task         |     |                              |                                                                     |                    |             |                                                |
 |     Id     |              Title              | Id  |            Title             |                             Description                             | Estimation (Hours) | Assigned To | Status (To do / In process / To review / Done) |
 |    US01    |    Visualización de Home        | W01 | Crear vista Home             | Diseñar y programar la página principal con enlaces a secciones.    |         3          |   Andres    |                     To do                      |
-|    US02    | Visualización de Features       | W02 | Sección de características   | Implementar sección con las funcionalidades principales.            |         3          |  Estephano  |                     To do                      |
+|    US02    | Visualización de Features       | W02 | Sección de características   | Implementar sección con las funcionalidades principales.            |         3          |  Stephano   |                     To do                      |
 |    US03    | Visualización de FAQs           | W03 | Sección de preguntas frecuentes | Mostrar listado de FAQs con respuestas comunes.                   |         2          |    Diego    |                     To do                      |
 |    US04    | Visualización de Pricing        | W04 | Sección de precios           | Implementar vista con planes y costos de Diabelife.                 |         2          |    Iker     |                     To do                      |
 |    US05    | Visualización de Contact        | W05 | Formulario de contacto       | Crear sección de contacto con formulario validado.                  |         3          |   Gabriel   |                     To do                      |
@@ -352,8 +352,8 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 ![EVIDENCIA1.jpeg](../assets/EVIDENCIA1.jpeg)
 ![EVIDENCIA2.jpeg](../assets/EVIDENCIA2.jpg)
 
-# 5.3.1. Sprint 2
-# 5.3.1.1. Sprint Planning 2.
+# 5.2.2. Sprint 2
+# 5.2.2.1. Sprint Planning 2.
 A continuación se presenta el acta de planificación correspondiente al segundo sprint, en la cual se establecieron los objetivos y las actividades a ejecutar.
 
 <table>
@@ -416,7 +416,7 @@ A continuación se presenta el acta de planificación correspondiente al segundo
 </table>
 
 
-# 5.3.1.2. Aspect Leaders and Collaborators.
+# 5.2.2.2. Aspect Leaders and Collaborators.
 En este punto presentan los responsables asignados a cada área. En este primer Sprint, los entregables se han organizado en tres aspectos diferenciados.
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Glucometer Leader (L)/ Collaborator (C) | Aspect 2: Reports: Leader (L) / Collaborator (C) | Aspect 3: Comunnity (L) / Collaborator (C) | Aspect 4: Appointments (L/C) | Aspect 5: Healthy Life (L/C) |
@@ -427,9 +427,76 @@ En este punto presentan los responsables asignados a cada área. En este primer 
 | Espinoza Estephano                 | Stephanoescu    | C                                               | L                                                | C                                          | C                            | C                            |
 | Mamani Gabriel                     | Gabriel0105     | C                                               | C                                                | L                                          | C                            | C                            |
 
+# 5.2.2.3. Sprint Backlog 2.
+
+|  Sprint 2  |               Sprint 2                |     |                                       |                                                                                                                      |                    |             |                                                |
+|:----------:|:-------------------------------------:|:---:|:-------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:------------------:|:-----------:|:----------------------------------------------:|
+| User Story |           Work-Item / Task            |     |                                       |                                                                                                                      |                    |             |                                                |
+|     Id     |                 Title                 | Id  |                 Title                 |                                                     Description                                                      | Estimation (Hours) | Assigned To | Status (To do / In process / To review / Done) |
+|    US34    |       Consulta médica en línea        | W01 |       Crear vista appointments        | Diseñar y programar la pantalla de appointments con una calendario, las citas visibles y opciones para añadir citas. |         3          |   Andres    |                     To do                      |
+|    US33    |        Exportación de reportes        | W02 |          Sección de reports           |             Implementar sección con las que los usuarios podrán exportar los reportes para compartirlos.             |         3          |  Stephano   |                     To do                      |
+|    US16    |       Visualización de glucosa        | W03 |           Sección dashboard           |         Mostrar un "dashboard" completo donde se verán los datos principales del paciente.                           |         2          |    Diego    |                     To do                      |
+|    US19    |      Registro de signos vitales       | W04 | Sección de registro de signos vitales |         Implementar una opcion en la que el usario pueda registrar sus datos en la aplicacion de Diabelife.          |         3          |    Iker     |                     To do                      |
+|    US35    |   Comunidad de pacientes diabeticos   | W05 |           Sección Community           |              Crear sección de "community" donde los usarios podrán compartir y interactuar entre ellos.              |         3          |   Gabriel   |                     To do                      |
+|    US30    | Notificaciones de control de glucosa  | W06 |       Pantalla de Notifications       |      Implementar pantalla de "notifications" la cual te muestra los datos de todas las notificaciones emitidas.      |         1          |   Gabriel   |                     To do                      |
+
+# 5.2.2.4. Development Evidence for Sprint Review.
+
+
+
+# 5.2.2.5. Execution Evidence for Sprint Review.
+
+
+
+# 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+
+
+# 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+
+
+# 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En este apartado se presenta la participación de cada miembro en el repositorio de la Landing Page.
+
+Todos los integrantes del equipo aportaron al desarrollo de la página, generando commits y pull requests para incorporar distintas secciones y funcionalidades. A continuación, se detallan algunos aportes destacados:
+
+- Gabriel Mamani: Desarrolló la vista de Contacto con Soporte, donde el usuario puede comunicarse a través de redes sociales como Facebook, Twitter, Instagram y LinkedIn.
+
+- Iker Barturen: Implementó la vista de Pricing, que muestra los planes disponibles en la landing page.
+
+- Andrés Torres: Se encargó del desarrollo de la vista Home.
+
+- Stephano Espinoza: Desarrolló la sección de i18n y Features, brindando información detallada sobre la aplicación Diabelife.
+
+- Diego Veliz: Implementó la vista de FAQ (Preguntas Frecuentes).
+
+**Capturas de Insights del repositorio:**
+
+![Contributions-sprint2.png](../assets/Contributions-sprint2.png)
 
 # Conclusiones
 
+- El equipo logró implementar y desplegar la landing page de Diabelife, cumpliendo con los objetivos del primer sprint y asegurando la accesibilidad para los usuarios.
+- Se aplicaron buenas prácticas de gestión de proyectos, control de versiones y desarrollo colaborativo, lo que permitió una organización eficiente y una comunicación clara entre los miembros.
+- El uso de herramientas como Trello, Figma, GitHub y metodologías como GitFlow y Conventional Commits contribuyó a la calidad y trazabilidad del desarrollo.
+- La documentación y evidencia presentada demuestran el avance y cumplimiento de los entregables planificados, sentando las bases para futuras iteraciones y mejoras del sistema.
+- El trabajo realizado en este sprint permitió validar la estructura inicial del proyecto y establecer un flujo de trabajo efectivo para el desarrollo de nuevas funcionalidades.
+
 # Bibliografía
 
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). HTML: HyperText Markup Language. Recuperado de: https://developer.mozilla.org/es/docs/Web/HTML
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). JavaScript. Recuperado de: https://developer.mozilla.org/es/docs/Web/JavaScript
+- Mozilla Developer Network (MDN) Web Docs. (n.d.). CSS: Cascading Style Sheets. Recuperado de: https://developer.mozilla.org/es/docs/Web/CSS
+
 # Anexos
+- Organización en GitHub: https://github.com/upc-pre-202510-si0730-Grupo-Devspros
+- Repositorio del Reporte: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/Diabelife-Proyect-
+- Repositorio de la Landing Page: https://github.com/upc-pre-202510-si0730-Grupo-
+- Repositorio del Frontend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
+- Devspros/Landing-Page: https://upc-pre-202510-si0730-grupo-devspros.github.io/DiabeLife-Landing-Page/
+- DiabeLife/Landing-Page: https://musical-biscuit-6082f8.netlify.app/
+- Figma: https://www.figma.com/design/yHXZMjHYcbiC9xrET2grdI/DiabeLife?node-id=14011984&t=BkvR6ijXb0SUvfDB-1
+- Miro: https://miro.com/welcomeonboard/dmFBK2oycWg5aXM5S2w3Z2RIVVVvTlM5MlVmVmw1RDdSQituMGVrRVl3YmZ1RlZQdFZSNDI5OU52SVp2UTJ3V0NicngwMFVCd0dkU3g2dGNRY0crUm1EeEl2VkdPN3lqWTJZNE50NXZmVEFDL25LSGxRckc1cUhXUExtUzhtRGFBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=453032230713
+- About the producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312557_upc_edu_pe/EVBxhai5JehDpv-_3AJ3IyYBoA3mmjO3h-Dmj-zAGamQIg?e=J8jtde
