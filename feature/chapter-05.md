@@ -556,6 +556,55 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 
 ![Contributions-sprint2.png](../assets/Contributions-sprint2.png)
 
+# 5.3. Validation Interviews.
+
+En esta sección se registran y explican las actividades de entrevistas de validación realizadas durante el proyecto. Se llevaron a cabo entrevistas de validación donde usuarios de los segmentos objetivo interactuaron tanto con la landing page como con la aplicación web de Diabelife. El objetivo es validar la usabilidad, funcionalidad y experiencia de usuario de nuestros productos digitales.
+
+## 5.3.1. Diseño de Entrevistas.
+
+En esta sección se establecen los elementos a incluir en las sesiones de validación para cada segmento objetivo.
+
+### Segmento #1: Pacientes con diabetes.
+
+**Objetivo de la validación:** Evaluar la usabilidad y funcionalidad de la landing page y la aplicación web desde la perspectiva de pacientes diabéticos, validando que les permita gestionar eficientemente su información de salud y comunicarse con profesionales médicos.
+
+**Preguntas específicas para pacientes diabéticos:**
+
+**Usabilidad y Navegación:**
+
+1. ¿Qué tan fácil le resultó encontrar información sobre el manejo de la diabetes en la landing page?
+2. ¿Pudo registrar sus datos de salud (glucosa, insulina, presión) sin dificultades?
+3. ¿Considera que la aplicación es intuitiva para el monitoreo diario de su diabetes?
+4. ¿Qué tan sencillo fue configurar los recordatorios de medicamentos?
+
+**Funcionalidad Específica:**
+
+5. ¿Las funciones de registro de glucosa e insulina funcionaron como esperaba?
+6. ¿Experimentó problemas al generar reportes de su historial médico?
+7. ¿Qué tan útiles encontró los gráficos de evolución de sus datos de salud?
+8. ¿Pudo interactuar exitosamente con otros usuarios?
+
+**Experiencia Personal:**
+
+9. ¿Recomendaría esta aplicación a otros pacientes diabéticos?
+10. ¿Qué funcionalidad considera más valiosa para el control de su diabetes?
+11. ¿Qué mejoraría para que la aplicación se adapte mejor a sus necesidades diarias?
+12. ¿Se siente seguro compartiendo sus datos médicos a través de la plataforma?
+
+**Utilidad Clínica:**
+
+13. ¿Considera que esta aplicación le ayudaría a controlar mejor su diabetes?
+14. ¿Qué tan probable es que use esta aplicación como parte de su rutina de autocuidado?
+15. ¿Cree que facilitaría la comunicación con su médico endocrinólogo?
+
+## 5.3.2. Registro de Entrevistas.
+
+
+
+## 5.3.3. Evaluaciones según heurísticas.
+
+
+
 # Conclusiones
 
 - El equipo logró implementar y desplegar la landing page de Diabelife, cumpliendo con los objetivos del primer sprint y asegurando la accesibilidad para los usuarios.
