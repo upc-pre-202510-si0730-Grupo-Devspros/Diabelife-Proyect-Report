@@ -556,6 +556,196 @@ Todos los integrantes del equipo aportaron al desarrollo de la página, generand
 
 ![Contributions-sprint2.png](../assets/Contributions-sprint2.png)
 
+# 5.2.3. Sprint 3
+# 5.2.3.1.Spring Planning 3.
+
+A continuación se presenta el acta de planificación correspondiente al segundo sprint, en la cual se establecieron los objetivos y las actividades a ejecutar.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">08/10/2025</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">6:59 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Cristian Mamani Marca</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Barturen Panez Iker Gabriel, Mamani Marca Gabriel Cristian, Espinoza Cueva Stephano Jose, Torres Lavandera Andres Rodrigo,Véliz Martínez Diego Alonso   .</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  2 Review Summary</td>
+    <td colspan="8">En esta reunión se planificaron las tareas a realizar para el desarrollo del Frontend de Diabelife. Tambien, se establecieron fechas limite para cada boundend context y para la entrega,con el fin reservar tiempo para realizar el despliegue .</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">Durante la retrospectiva, los integrantes identificaron fortalezas y oportunidades de mejora relacionadas con la organización del equipo y la distribución de tareas. Se destacó la importancia de mantener una comunicación clara y constante para optimizar el trabajo colaborativo.  
+ <div class=". ."></div>.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Goal</td>
+    <td colspan="8">El objetivo de este sprint fue implementar el **FrontEnd de Diabelife**, asegurando que los visitantes pudieran navegar fácilmente por sus principales boundend context (Glucometer, Comunnity, Reports, Appoiments y Healthy life), además de incluir la opción de cambio de idioma. El éxito se mide cuando los usuarios pueden visualizar la página en su totalidad y acceder a la información de manera clara y accesible.  
+
+ </td>
+<tr>
+    <td colspan="5">Sprint 2 Velocity</td>
+    <td colspan="8"> 5 story points </td>>.  
+
+ </td>
+</tr>
+
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">5 story points </td>>.  
+
+ </td>
+</tr>
+</table>
+
+# 5.2.3.2. Aspect Leaders and Collaborators.
+
+En este punto presentan los responsables asignados a cada área. En este primer Sprint, los entregables se han organizado en tres aspectos diferenciados.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Glucometer Leader (L)/ Collaborator (C) | Aspect 2: Reports: Leader (L) / Collaborator (C) | Aspect 3: Comunnity (L) / Collaborator (C) | Aspect 4: Appointments (L/C) | Aspect 5: Healthy Life (L/C) |
+|------------------------------------|-----------------|-------------------------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------|------------------------------|
+| Veliz Diego                        | Veliz-0912      | L                                               | C                                                | C                                          | C                            | C                            |
+| Torres Andres                      | AndresTorres202312557 | C                                               | C                                                | C                                          | L                            | C                            |
+| Barturen Iker                      | krxxg04         | C                                               | C                                                | C                                          | C                            | L                            |
+| Espinoza Estephano                 | Stephanoescu    | C                                               | L                                                | C                                          | C                            | C                            |
+| Mamani Gabriel                     | Gabriel0105     | C                                               | C                                                | L                                          | C                            | C                            |
+
+# 5.2.3.3.Sprint Backlog 3.
+
+|  Sprint 2  |               Sprint 2                |     |                                       |                                                                                                                      |                    |             |                                                |
+|:----------:|:-------------------------------------:|:---:|:-------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:------------------:|:-----------:|:----------------------------------------------:|
+| User Story |           Work-Item / Task            |     |                                       |                                                                                                                      |                    |             |                                                |
+|     Id     |                 Title                 | Id  |                 Title                 |                                                     Description                                                      | Estimation (Hours) | Assigned To | Status (To do / In process / To review / Done) |
+|    US34    |       Consulta médica en línea        | W01 |       Crear vista appointments        | Diseñar y programar la pantalla de appointments con una calendario, las citas visibles y opciones para añadir citas. |         3          |   Andres    |                     To do                      |
+|    US33    |        Exportación de reportes        | W02 |          Sección de reports           |             Implementar sección con las que los usuarios podrán exportar los reportes para compartirlos.             |         3          |  Stephano   |                     To do                      |
+|    US16    |       Visualización de glucosa        | W03 |           Sección dashboard           |         Mostrar un "dashboard" completo donde se verán los datos principales del paciente.                           |         2          |    Diego    |                     To do                      |
+|    US19    |      Registro de signos vitales       | W04 | Sección de registro de signos vitales |         Implementar una opcion en la que el usario pueda registrar sus datos en la aplicacion de Diabelife.          |         3          |    Iker     |                     To do                      |
+|    US35    |   Comunidad de pacientes diabeticos   | W05 |           Sección Community           |              Crear sección de "community" donde los usarios podrán compartir y interactuar entre ellos.              |         3          |   Gabriel   |                     To do                      |
+|    US30    | Notificaciones de control de glucosa  | W06 |       Pantalla de Notifications       |      Implementar pantalla de "notifications" la cual te muestra los datos de todas las notificaciones emitidas.      |         1          |   Gabriel   |                     To do                      |
+
+# 5.2.3.4.Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits que reflejan los avances más importantes durante la implementación. Los registros provienen del repositorio del frontend de la organización en GitHub.
+
+Enlace del repositorio  del frontend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
+
+| Repository           | Branch                 | Commit Id                                | Commit Message                           | Commit Message Body   | Commited on (Date) |
+|----------------------|-----------------------|------------------------------------------|-----------------------------------------|---------------------|------------------|
+| DiabeLife-Frontend   | feature/glucometer    | b3847df749e1c99c327fdc242af118fe55901065 | feat: "glucometer"                       | Diego Véliz         | - |
+| DiabeLife-Frontend   | main                  | e2ed74f9d351344971fa34f2de662b51715f6a11 | feat: add appointment application        | AndresTorres202312557 | - |
+| DiabeLife-Frontend   | main                  | c014981dd7ce612214b9cbf480fdb5f61dd1dd93 | feat: add NewReportSection                | Stephanoescu         | - |
+| DiabeLife-Frontend   | main                  | 8de8643a37edf59c7674d5dcd02ab1b925ffbeef | fead: add food consumed                   | krxxg04             | - |
+| DiabeLife-Frontend   | main                  | 4c21990ed60a5c73bae8d8e40e24320948db8ffb | feat: add profile component               | Gabrlel0105         | - |
+| DiabeLife-Frontend   | main                  | efba505440a8263e03139c2e32022c6ecc90a919 | feat: add user management bc              | Gabrlel0105         | - |
+
+# 5.2.3.5.Execution Evidence for Sprint Review.
+
+Durante este sprint se implementó la primera versión del frontend utilizando el framework Vue. A continuación, se muestran capturas que ilustran la interfaz desarrollada.
+
+
+# 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Durante este Sprint, se desarrolló y documentó la capa de Web Services del proyecto **DiabeLife**, una aplicación web construida con **Vue.js**, orientada a brindar soporte integral a personas con diabetes mediante funcionalidades de monitoreo de glucosa, gestión de citas, interacción social y promoción de hábitos saludables.
+
+Dado que el backend aún se encuentra en desarrollo parcial, se utilizó **JSON Server** para simular los servicios REST, permitiendo así un entorno funcional que responde a peticiones HTTP (**GET, POST, PUT, DELETE, PATCH**) sobre los distintos **Backends (BC)**: **community**, **notification**, **appointments**, **glucometer**, **healthy-life**. Para el despliegue del `db.json` y la simulación de la API en un entorno accesible, se utilizó **Render**, lo que permitió que el frontend pudiera consumir los servicios simulados de manera remota y funcional. Esto facilitó el desarrollo, pruebas y validación de las interfaces de usuario, manteniendo la arquitectura desacoplada y preparada para integrarse con los servicios reales en el futuro.
+
+La documentación de Web Services para este Sprint se realizó siguiendo la especificación **OpenAPI**, incluyendo los endpoints asociados al alcance definido. Cada endpoint está descrito con las acciones soportadas, los verbos HTTP correspondientes, parámetros de entrada, ejemplos de request y response, y la explicación de los datos devueltos. Además, se incluyen capturas de pantalla de las interacciones utilizando datos de prueba, mostrando la correcta integración de los servicios simulados con el frontend.
+
+## Logros alcanzados
+
+- Se documentaron todos los **endpoints de los BC**:
+    - **community**: posts, comentarios, likes, interacciones sociales.
+    - **notification**: notificaciones de usuario, alertas de salud y recordatorios.
+    - **appointments**: gestión de citas médicas para pacientes y doctores.
+    - **glucometer**: registro y monitoreo de mediciones de glucosa enviadas por dispositivos IoT.
+    - **healthy-life**: recomendaciones de hábitos saludables, seguimiento de actividad física y nutrición.
+
+- Cada endpoint incluye:
+    - **Acción soportada**: GET, POST, PUT, DELETE, PATCH.
+    - **Sintaxis de llamada**: URL local (`http://localhost:3000/<endpoint>`) o URL de **Render** donde se despliega la API simulada.
+    - **Parámetros**: Query params, path params y body (cuando aplica).
+    - **Ejemplos de request y response** con datos de muestra.
+    - **Explicación del response**, indicando estructura de datos y significado de cada campo.
+
+- Se añadieron capturas de pantalla mostrando:
+    - La creación, actualización, consulta y eliminación de recursos para cada BC.
+    - Interacciones reales con el frontend de Vue utilizando los servicios simulados desplegados en Render.
+
+## Repositorio y commits
+
+- **Repositorio:** (https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend)
+- **Commits relacionados con la documentación del Sprint:** `b3847df`, `e92ac3b`, `f7d2a1c`
+
+Esta documentación proporciona una referencia clara y completa para la integración futura con el backend real, asegurando que el frontend pueda funcionar correctamente y facilitando la transición hacia servicios desplegados en producción.
+
+# 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+# Frontend Web Application
+
+El frontend de **DiabeLife** se desplegó utilizando la plataforma **Render**, asegurando que la aplicación web fuera accesible de manera remota y funcional durante el desarrollo y pruebas. Para mantener la arquitectura desacoplada, primero se desplegó la API simulada (`db.json`) y luego se configuró el frontend para consumir los endpoints remotos.
+
+## Pasos de despliegue detallados
+
+### 1. Despliegue del `db.json` en Render
+1. Preparar el archivo `db.json` con los datos simulados para los backends: **community, notification, appointments, glucometer, healthy-life**.
+2. Crear un nuevo **Web Service** en Render:
+    - Click en **"New" → "Web Service"**.
+    - Conectar con un repositorio de GitHub que contenga el `db.json`.
+    - Seleccionar la rama correspondiente (`develop`) y configurar el servicio.
+3. Configurar build y publicación:
+    - **Build Command:** `npx json-server --watch db.json --port 10000`  
+      *(esto inicia el JSON Server en Render para simular la API REST)*
+    - Render asigna una URL pública (por ejemplo: `https://diabelife-db.onrender.com`) donde los endpoints están disponibles.
+4. Verificar que los endpoints (`/community`, `/notification`, `/appointments`, `/glucometer`, `/healthy-life`) respondan correctamente mediante un navegador o Postman.
+
+### 2. Preparación del frontend para producción
+1. Abrir el proyecto **DiabeLife-Frontend**.
+2. Ejecutar el build de producción:
+   ```bash
+   npm run build
+
+# 5.2.3.8.Team Collaboration Insights during Sprint.
+
+En este apartado se presenta la participación de cada miembro en el repositorio de la Landing Page.
+
+Todos los integrantes del equipo aportaron al desarrollo de la página, generando commits y pull requests para incorporar distintas secciones y funcionalidades. A continuación, se detallan algunos aportes destacados:
+
+- Gabriel Mamani: Desarrolló la vista de Contacto con Soporte, donde el usuario puede comunicarse a través de redes sociales como Facebook, Twitter, Instagram y LinkedIn.
+
+- Iker Barturen: Implementó la vista de Pricing, que muestra los planes disponibles en la landing page.
+
+- Andrés Torres: Se encargó del desarrollo de la vista Home.
+
+- Stephano Espinoza: Desarrolló la sección de i18n y Features, brindando información detallada sobre la aplicación Diabelife.
+
+- Diego Veliz: Implementó la vista de FAQ (Preguntas Frecuentes).
+
+**Capturas de Insights del repositorio:**
+
+![Contributions-sprint2.png](../assets/Contributions-sprint2.png)
+
 # 5.3. Validation Interviews.
 
 En esta sección se registran y explican las actividades de entrevistas de validación realizadas durante el proyecto. Se llevaron a cabo entrevistas de validación donde usuarios de los segmentos objetivo interactuaron tanto con la landing page como con la aplicación web de Diabelife. El objetivo es validar la usabilidad, funcionalidad y experiencia de usuario de nuestros productos digitales.
@@ -599,7 +789,57 @@ En esta sección se establecen los elementos a incluir en las sesiones de valida
 
 ## 5.3.2. Registro de Entrevistas.
 
+**Link:** 
 
+#### PACIENTES DIABETICOS
+
+ENTREVISTA 1
+
+Inicia: 
+
+Duración: 
+
+Nombre: 
+
+Edad: 
+
+Distrito: 
+
+Resumen: 
+
+---
+
+ENTREVISTA 2
+
+Inicia: 
+
+Duración: 
+
+Nombre: 
+
+Edad: 
+
+Distrito: 
+
+Resumen: 
+
+---
+
+ENTREVISTA 
+
+Inicia: 
+
+Duración: 
+
+Nombre: 
+
+Edad: 
+
+Distrito:
+
+Resumen: 
+
+---
 
 ## 5.3.3. Evaluaciones según heurísticas.
 
