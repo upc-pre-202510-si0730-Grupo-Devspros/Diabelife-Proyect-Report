@@ -1040,11 +1040,12 @@ La aplicación "Diabelife" presenta una base funcional sólida, pero la evaluaci
 Los problemas más críticos están relacionados con la **Prevención de Errores (H5)** y el uso de **Lenguaje Claro (H2)**. Se recomienda enfocar los esfuerzos de desarrollo en simplificar el lenguaje técnico y añadir validaciones más robustas (como en el registro de fechas) para prevenir errores antes de que ocurran y mejorar la confianza del paciente en la herramienta.
 # Conclusiones
 
-- El equipo logró implementar y desplegar la landing page de Diabelife, cumpliendo con los objetivos del primer sprint y asegurando la accesibilidad para los usuarios.
-- Se aplicaron buenas prácticas de gestión de proyectos, control de versiones y desarrollo colaborativo, lo que permitió una organización eficiente y una comunicación clara entre los miembros.
-- El uso de herramientas como Trello, Figma, GitHub y metodologías como GitFlow y Conventional Commits contribuyó a la calidad y trazabilidad del desarrollo.
-- La documentación y evidencia presentada demuestran el avance y cumplimiento de los entregables planificados, sentando las bases para futuras iteraciones y mejoras del sistema.
-- El trabajo realizado en este sprint permitió validar la estructura inicial del proyecto y establecer un flujo de trabajo efectivo para el desarrollo de nuevas funcionalidades.
+- El equipo logró implementar y desplegar el backend real de Diabelife usando C# y ASP.NET Core, permitiendo la integración completa con el frontend y habilitando funcionalidades clave como registro de usuarios, métricas de salud, reportes, comunidad y citas médicas.
+- Se validó la correcta comunicación entre el frontend y el backend desplegado en Render, evidenciando flujos end-to-end funcionales y la persistencia de datos en MySQL.
+- Se aplicaron buenas prácticas de gestión de proyectos, control de versiones y desarrollo colaborativo, lo que permitió una organización eficiente y una comunicación clara entre los miembros durante la implementación de los bounded contexts y servicios REST.
+- El uso de herramientas como Trello, Figma, GitHub, Render y metodologías como GitFlow y Conventional Commits contribuyó a la calidad, trazabilidad y despliegue exitoso de los entregables.
+- La documentación y evidencia presentada demuestran el avance y cumplimiento de los objetivos del Sprint 3, incluyendo la integración de la API real, la autenticación JWT y la documentación OpenAPI/Swagger.
+- El trabajo realizado en este sprint permitió validar la arquitectura desacoplada del sistema, la escalabilidad y la capacidad de extender nuevas funcionalidades, sentando las bases para la evolución futura del producto.
 
 # Bibliografía
 
@@ -1059,6 +1060,7 @@ Los problemas más críticos están relacionados con la **Prevención de Errores
 - Repositorio del Frontend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
 - Landing page deployado: https://upc-pre-202510-si0730-grupo-devspros.github.io/DiabeLife-Landing-Page/
 - Frontend deployado: https://diabelifee.netlify.app/
+- Backend deployado: https://diabelife-backend-20u1.onrender.com
 - Figma: https://www.figma.com/design/yHXZMjHYcbiC9xrET2grdI/DiabeLife?node-id=14011984&t=BkvR6ijXb0SUvfDB-1
 - Miro: https://miro.com/welcomeonboard/dmFBK2oycWg5aXM5S2w3Z2RIVVVvTlM5MlVmVmw1RDdSQituMGVrRVl3YmZ1RlZQdFZSNDI5OU52SVp2UTJ3V0NicngwMFVCd0dkU3g2dGNRY0crUm1EeEl2VkdPN3lqWTJZNE50NXZmVEFDL25LSGxRckc1cUhXUExtUzhtRGFBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=453032230713
 - Link de entrevistas en youtube: https://youtu.be/KH_EUY301LA
