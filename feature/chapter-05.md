@@ -1083,5 +1083,5 @@ Inicio Diego Veliz: 5:45
 - Link de entrevistas en microsoft stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQBPkYrNt_0JRq61Lz-OJX8TAUoHh85mX4Btan6hDXHRRG8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=akC9VD
 - About the team Youtube: https://www.youtube.com/watch?v=Oo1iA90Pi_w
 - About the team Microsoft: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
-- About the product:
-- About the product
+- About the product Youtube: https://youtu.be/MBNFpJ1MNGU?si=e_TfUh0YcOeAdScC
+- About the product Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312629_upc_edu_pe/IQAeqcaqSHTcQqP9z2bWgbUTASLqPQic4q6ZxxuEU9EGYeg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DcUODR
