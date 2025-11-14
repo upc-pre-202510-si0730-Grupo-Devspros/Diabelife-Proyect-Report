@@ -859,19 +859,20 @@ En esta sección se establecen los elementos a incluir en las sesiones de valida
 
 ENTREVISTA 1
 
-Inicia: 
+Inicia: 0:01
 
-Duración: 
+Duración: 4:24
 
-Nombre: 
+Nombre: Victor Snayder Damian Inga
 
-Edad: 
+Edad: 25
 
-Distrito: 
+Distrito: La Victoria
 
-Resumen: 
+Resumen:
 
----
+Victor Damian es un contador de 25 años. Según el entrevistado, la landing page tiene una estructura clara. Además, no presentó problemaas al momento de registrar datos sobre su salud. También, considera que la aplicación es atractiva e intuitiva. Según sus propias palabras, el sistema de generación de reportes no presentó errores y exportaba de manera adecuada. Asimismo, fue posible interactuar con otros usuarios mediante el apartado de Comunidad. Además, considera buena idea el compartir la aplicación con otros usuarios. Como sugerencia, le gustaría la implementación de el registro de alimentos considerando datos importantes como los carbohidratos. Finalmente, considera que la aplicación le ayudaría a controlar mejor su diabetes y facilitaría la comunicación con su médico.
+
 
 ENTREVISTA 2
 
