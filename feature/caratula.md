@@ -5,7 +5,9 @@
 
 ### Carrera: Ingeniería de Software
 
-### Aplicaciones Web - Presencial (1ASI0730)
+### Aplicaciones Web - Presencial
+
+### Codigo del Curso: 1ASI0730
 
 ### Profesor: Rafael Oswaldo Castro Veramendi
 
@@ -15,8 +17,12 @@
 
 ## Startup: Devspros
 
+
 ## Producto: Diabelife
 
+## Fecha de entrega : 14/11/2025
+
+## Lider del equipo: Gabriel Mamani Marca
 
 
 ### INTEGRANTES
@@ -61,7 +67,7 @@
 
 
 
-### Ciclo 2025-20
+### Periodo 2025-20
 
 ---
 
