@@ -877,17 +877,19 @@ Victor Damian es un contador de 25 años. Según el entrevistado, la landing pag
 
 ENTREVISTA 2
 
-Inicia: 
+Inicia: 00:01
 
-Duración: 
+Duración:5:43
 
-Nombre: 
+Nombre: Gabriel Ricardo Satornicio Ramirez      
 
-Edad: 
+Edad: 24
 
-Distrito: 
+Distrito: San Borja 
 
-Resumen: 
+Resumen: Gabriel Saturnicio, una persona con diabetes, realizó una prueba de la aplicación Diabelife. Encontró la aplicación "muy sencilla" e "intuitiva" en general. Específicamente, mencionó que la información es fácil de encontrar en la pestaña "Vida Saludable" y que el módulo "Glucómetro" es "bastante intuitivo". Demostró con éxito cómo registrar sus métricas de salud (frecuencia cardíaca, glucosa, peso, presión arterial) y vio cómo el "Resumen de salud" se actualizaba correctamente tras guardar los datos. También confirmó que la generación de reportes es "bastante sencillo y rápido". Gabriel consideró que los gráficos de evolución son "bastante útiles" para ver el progreso de su salud y que la sección de "Comunidad" es intuitiva para interactuar con otros.
+
+Mencionó que sí recomendaría la aplicación a otros pacientes por la cantidad de información que se puede registrar. Identificó la funcionalidad más valiosa como "el tema del registro de las métricas de salud". Como sugerencia de mejora, le gustaría que la sección de alimentos tuviera un historial y una función de planificación para controlar mejor su dieta a futuro. Finalmente, afirmó que la aplicación le ayudaría a controlar su diabetes y facilitaría la comunicación con su doctor, destacando la utilidad de la sección de "Citas".
 
 ---
 
@@ -1023,12 +1025,11 @@ La aplicación "Diabelife" presenta una base funcional sólida, pero la evaluaci
 Los problemas más críticos están relacionados con la **Prevención de Errores (H5)** y el uso de **Lenguaje Claro (H2)**. Se recomienda enfocar los esfuerzos de desarrollo en simplificar el lenguaje técnico y añadir validaciones más robustas (como en el registro de fechas) para prevenir errores antes de que ocurran y mejorar la confianza del paciente en la herramienta.
 # Conclusiones
 
-- El equipo logró implementar y desplegar el backend real de Diabelife usando C# y ASP.NET Core, permitiendo la integración completa con el frontend y habilitando funcionalidades clave como registro de usuarios, métricas de salud, reportes, comunidad y citas médicas.
-- Se validó la correcta comunicación entre el frontend y el backend desplegado en Render, evidenciando flujos end-to-end funcionales y la persistencia de datos en MySQL.
-- Se aplicaron buenas prácticas de gestión de proyectos, control de versiones y desarrollo colaborativo, lo que permitió una organización eficiente y una comunicación clara entre los miembros durante la implementación de los bounded contexts y servicios REST.
-- El uso de herramientas como Trello, Figma, GitHub, Render y metodologías como GitFlow y Conventional Commits contribuyó a la calidad, trazabilidad y despliegue exitoso de los entregables.
-- La documentación y evidencia presentada demuestran el avance y cumplimiento de los objetivos del Sprint 3, incluyendo la integración de la API real, la autenticación JWT y la documentación OpenAPI/Swagger.
-- El trabajo realizado en este sprint permitió validar la arquitectura desacoplada del sistema, la escalabilidad y la capacidad de extender nuevas funcionalidades, sentando las bases para la evolución futura del producto.
+- El equipo logró implementar y desplegar la landing page de Diabelife, cumpliendo con los objetivos del primer sprint y asegurando la accesibilidad para los usuarios.
+- Se aplicaron buenas prácticas de gestión de proyectos, control de versiones y desarrollo colaborativo, lo que permitió una organización eficiente y una comunicación clara entre los miembros.
+- El uso de herramientas como Trello, Figma, GitHub y metodologías como GitFlow y Conventional Commits contribuyó a la calidad y trazabilidad del desarrollo.
+- La documentación y evidencia presentada demuestran el avance y cumplimiento de los entregables planificados, sentando las bases para futuras iteraciones y mejoras del sistema.
+- El trabajo realizado en este sprint permitió validar la estructura inicial del proyecto y establecer un flujo de trabajo efectivo para el desarrollo de nuevas funcionalidades.
 
 # Bibliografía
 
