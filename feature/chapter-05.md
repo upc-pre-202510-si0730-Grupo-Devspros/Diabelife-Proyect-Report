@@ -910,56 +910,117 @@ Las funciones específicas, como el monitoreo de glucosa e insulina y la generac
 
 ## 5.3.3. Evaluaciones según heurísticas.
 
- ### Anexo D. Formato para Evaluación de User Experience según Heurísticas
- **UX Heuristics & Principles Evaluation**
- **Usability – Inclusive Design – Information Architecture**
-
- ---
-
- **CARRERA :** Ingeniería de Software
- <br>
- **CURSO :** Aplicaciones Web
- <br>
- **SECCIÓN :** 7470
- <br>
- **PROFESORES :** Rafael Oswaldo Castro Veramendi
- <br>
- **AUDITOR :** Devspro
- <br>
-**CLIENTE(S) :** paciente con diabetes
+### Anexo D. Formato para Evaluación de User Experience según Heurísticas
+**UX Heuristics & Principles Evaluation**
+**Usability – Inclusive Design – Information Architecture**
 
 ---
 
-**SITE o APP A EVALUAR:**
- <br>
- Diabelife (https://webapplication-diabelife.netlify.app/auth/login)
+| **CARRERA** | Ingeniería de Software |
+| :--- | :--- |
+| **CURSO** | Aplicaciones Web |
+| **SECCIÓN** | 7470 |
+| **PROFESORES** | Rafael Oswaldo Castro Veramendi |
+| **AUDITOR** | Devspro |
+| **CLIENTE(S)**| paciente con diabetes |
 
- <br>
+---
 
- **TAREAS A EVALUAR:**
- <br>
+### SITE o APP A EVALUAR:
+
+**Diabelife (https://webapplication-diabelife.netlify.app/auth/login)**
+
+### TAREAS A EVALUAR:
+
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
- <br>
- 1.  Registro de un usuario nuevo (paciente)
- 2.  Inicio de sesión (Login) de usuario
- 3.  Recuperar contraseña
- 4.  Configurar perfil de usuario (Ej. actualizar datos personales, tipo de diabetes, etc.)
- 5.  Registrar un nuevo control de glucosa
- 6.  Ver el historial/dashboard de mediciones de glucosa
- 7.  Registrar una dosis de medicamento o insulina
- 8.  Registrar una comida
 
- <br>
+1.  **Registro de un usuario nuevo (paciente)**
+2.  **Inicio de sesión (Login) de usuario**
+3.  **Recuperar contraseña**
+4.  **Configurar perfil de usuario (Ej. actualizar datos personales, tipo de diabetes, etc.)**
+5.  **Registrar un nuevo control de glucosa**
+6.  **Ver el historial/dashboard de mediciones de glucosa**
+7.  **Registrar una dosis de medicamento o insulina**
+8.  **Registrar una comida**
 
- **No están incluidas en esta versión de la evaluación las siguientes tareas:**
- <br>
- 1.  Funcionalidades del perfil "Doctor" (Ej. Ver pacientes, asignar tratamientos)
- 2.  Agendar o ver citas médicas
- 3.  Generar y exportar reportes (Ej. PDF para el doctor)
-4.  Ver artículos educativos o sección de noticias 
-5.  Sincronización con dispositivos (glucometros)
+### No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1.  **Funcionalidades del perfil "Doctor" (Ej. Ver pacientes, asignar tratamientos)**
+2.  **Agendar o ver citas médicas**
+3.  **Generar y exportar reportes (Ej. PDF para el doctor)**
+4.  **Ver artículos educativos o sección de noticias**
+5.  **Sincronización con dispositivos (glucometros)**
+
+---
+
+### ESCALA DE SEVERIDAD (SEVERITY RATING)
+
+| Severidad | Descripción |
+| :--- | :--- |
+| **0** | No es un problema de usabilidad. |
+| **1** | Problema cosmético: no necesita ser arreglado a menos que se disponga de tiempo. |
+| **2** | Problema de usabilidad Menor: arreglarlo tendría baja prioridad. |
+| **3** | Problema de usabilidad Mayor: importante de arreglar, alta prioridad. |
+| **4.0** | Catástrofe de Usabilidad: imperativo arreglarlo antes de lanzar el producto. |
+
+---
+
+### DETALLE DE HALLAZGOS (Los "Cuadros")
+
+| TAREA                                     | HEURÍSTICA (Jakob Nielsen) | HALLAZGO (Finding) | DESCRIPCIÓN (Description) | SEVERIDAD (0-4) | RECOMENDACIÓN (Recommendation) |
+|:------------------------------------------| :--- | :--- | :--- | :--- | :--- |
+| **Tarea 1: Registro de usuario**          | **H5: Prevención de errores** | **Se permiten fechas de nacimiento imposibles** | El campo "Fecha de Nacimiento" permite al usuario seleccionar una fecha en el futuro (ej. año 2028) o una fecha irreal (ej. año 1850). | **3** | Limitar el selector de fechas (datepicker) a un rango lógico (ej. desde 1920 hasta la fecha actual). |
+| **Tarea 2: Registrar control de glucosa** | **H2: Relación entre el sistema y el mundo real** | **Términos médicos confusos** | La app pregunta si la medición es "Pre-prandial" o "Post-prandial". Un paciente nuevo puede no entender esto. | **3** | Cambiar las etiquetas a un lenguaje claro: "Antes de comer" (con un ícono de plato vacío) y "Después de comer" (con un ícono de plato lleno). |
+| **Tarea 3: Configurar perfil**            | **H3: Control y libertad del usuario** | **No hay botón "Cancelar" al editar el perfil** | Si un usuario entra a "Editar Perfil" y hace cambios por error, no hay un botón "Cancelar" para descartar. Solo hay "Guardar". | **2** | Añadir un botón "Cancelar" junto al botón "Guardar" que descarte los cambios no guardados. |
+| **Tarea 4: Ver historial**                | **H1: Visibilidad del estado del sistema** | **No hay "feedback" al guardar un dato nuevo** | Después de registrar una medición (Tarea 5), al volver al dashboard no hay mensaje que diga "Medición guardada". El usuario duda si se guardó. | **2** | Añadir un mensaje de confirmación temporal (toast notification) "Medición registrada" cada vez que se guarda un dato exitosamente. |
+| **Tarea 5: Recuperar contraseña**         | **H9: Ayudar a recuperarse de errores** | **Mensaje de recuperación ambiguo** | El sistema dice "Se ha enviado un email si el correo existe". El usuario no sabe si escribió mal el correo o si debe esperar. | **2** | Usar un solo mensaje claro siempre: "Si tu correo está registrado, recibirás un email de recuperación en los próximos 5 minutos". |
+| **Tarea 6: Inicio de sesión**             | **H8: Estética y diseño minimalista** | **Pantalla de login sobrecargada** | La pantalla de login tiene (además de los campos) banners de noticias y anuncios, distrayendo al usuario de la tarea de ingresar. | **1** | Limpiar la pantalla de login, dejando solo el logo, campos de ingreso, enlace a "Recuperar contraseña" y "Registrarse". |
+---
+
+### RESUMEN DE HALLAZGOS
+
+| HEURÍSTICA | # HALLAZGOS (Findings) |
+| :--- | :--- |
+| H1: Visibilidad del estado del sistema | 1 |
+| H2: Relación entre el sistema y el mundo real | 1 |
+| H3: Control y libertad del usuario | 1 |
+| H4: Consistencia y estándares | 0 |
+| H5: Prevención de errores | 1 |
+| H6: Reconocimiento en lugar de recuerdo | 0 |
+| H7: Flexibilidad y eficiencia de uso | 0 |
+| H8: Estética y diseño minimalista | 1 |
+| H9: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores | 1 |
+| H10: Ayuda y documentación | 0 |
+| **TOTAL** | **6** |
+| **PROMEDIO SEVERIDAD** | **2.16** (13 puntos / 6 hallazgos) |
+
+---
+
+### DESCRIPCIÓN DETALLADA DE PROBLEMAS Y CONCLUSIONES
+
+*(Esta sección se usa para detallar los hallazgos más críticos (Severidad 3 y 4) y dar una conclusión general.)*
+
+#### Hallazgos Críticos (Severidad 3 y 4)
+
+**1. Términos médicos confusos (H2) en el registro de glucosa**
+* **Tarea:** Tarea 5: Registrar un nuevo control de glucosa
+* **Heurística:** H2: Relación entre el sistema y el mundo real
+* **Problema:** La aplicación utiliza jerga médica ("Pre-prandial", "Post-prandial") que no es universalmente entendida por todos los pacientes, especialmente los recién diagnosticados. Esto puede llevar a que el paciente abandone el registro o, peor aún, que registre datos en la categoría incorrecta, afectando su seguimiento.
+* **Recomendación:** Reemplazar la terminología técnica con lenguaje simple y universal. Usar "Antes de comer" y "Después de comer", reforzados con íconos visuales (ej. un plato vacío y un plato lleno) para eliminar cualquier ambigüedad.
+
+**2. Se permiten fechas de nacimiento imposibles (H5) en el registro**
+* **Tarea:** Tarea 1: Registro de usuario nuevo
+* **Heurística:** H5: Prevención de errores
+* **Problema:** La falta de validación en el campo de fecha de nacimiento permite datos absurdos (como nacer en el futuro). Esto genera datos basura en la base de datos y da una imagen poco profesional de la aplicación.
+* **Recomendación:** Implementar una validación estricta en el componente `datepicker` (selector de fecha) para que solo permita seleccionar fechas desde un año lógico (ej. 1920) hasta el día actual.
 
 
+
+#### Conclusión General
+
+La aplicación "Diabelife" presenta una base funcional sólida, pero la evaluación ha revelado **6 hallazgos** de usabilidad con un **promedio de severidad de 2.16**. Esto indica que existen problemas menores (Severidad 2) y mayores (Severidad 3) que deben ser priorizados.
+
+Los problemas más críticos están relacionados con la **Prevención de Errores (H5)** y el uso de **Lenguaje Claro (H2)**. Se recomienda enfocar los esfuerzos de desarrollo en simplificar el lenguaje técnico y añadir validaciones más robustas (como en el registro de fechas) para prevenir errores antes de que ocurran y mejorar la confianza del paciente en la herramienta.
 # Conclusiones
 
 - El equipo logró implementar y desplegar la landing page de Diabelife, cumpliendo con los objetivos del primer sprint y asegurando la accesibilidad para los usuarios.
