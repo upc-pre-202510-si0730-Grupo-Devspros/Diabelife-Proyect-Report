@@ -853,7 +853,7 @@ En esta sección se establecen los elementos a incluir en las sesiones de valida
 
 ## 5.3.2. Registro de Entrevistas.
 
-**Link:** 
+**Link: https://youtu.be/KH_EUY301LA** 
 
 #### PACIENTES DIABETICOS
 
@@ -910,6 +910,20 @@ Resumen:
 El feedback del usuario sobre la aplicación es abrumadoramente positivo. Destaca su alta usabilidad y navegación intuitiva, señalando que la información está bien organizada y que el registro de sus datos fue accesible. 
 Las funciones específicas, como el monitoreo de glucosa e insulina y la generación de reportes, funcionaron correctamente y fueron valoradas. A nivel personal, el usuario recomendaría la aplicación, se siente seguro compartiendo sus datos y considera el registro diario como la herramienta más valiosa, aunque sugiere incorporar más recomendaciones personalizadas. Finalmente, percibe una alta utilidad clínica, creyendo que la app le ayudará a un mejor autocuidado y facilitará la comunicación con su endocrinólogo.
 
+---
+ENTREVISTA 4
+
+Inicia 5:24
+
+Nombre: Estephno Moscoso
+
+Edad: 21
+
+Distrito: La victoria
+
+Resumen:
+
+Angelo Moscoso, estudiante de Ingeniería de 21 años diagnosticado con diabetes tipo 1, debe medir su glucosa varias veces al día y normalmente registra sus niveles en la app de notas de su iPhone por motivos económicos. Tras probar la aplicación, comenta que le resultó muy usable, con navegación intuitiva y buena organización de la información. Destaca que el registro de datos, el monitoreo de glucosa e insulina y los reportes funcionaron correctamente. Se siente seguro compartiendo sus datos, recomendaría la app y considera el registro diario como la función más útil, aunque sugiere añadir más recomendaciones personalizadas. Según él, la aplicación tiene alta utilidad clínica y facilitará su comunicación con su endocrinólogo.
 
 ## 5.3.3. Evaluaciones según heurísticas.
 
@@ -1044,7 +1058,8 @@ Los problemas más críticos están relacionados con la **Prevención de Errores
 - Repositorio de la Landing Page: https://github.com/upc-pre-202510-si0730-Grupo-
 - Repositorio del Frontend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
 - Landing page deployado: https://upc-pre-202510-si0730-grupo-devspros.github.io/DiabeLife-Landing-Page/
-- Frontend deployado: https://diabelife-frontend.netlify.app/
+- Frontend deployado: https://diabelifee.netlify.app/
 - Figma: https://www.figma.com/design/yHXZMjHYcbiC9xrET2grdI/DiabeLife?node-id=14011984&t=BkvR6ijXb0SUvfDB-1
 - Miro: https://miro.com/welcomeonboard/dmFBK2oycWg5aXM5S2w3Z2RIVVVvTlM5MlVmVmw1RDdSQituMGVrRVl3YmZ1RlZQdFZSNDI5OU52SVp2UTJ3V0NicngwMFVCd0dkU3g2dGNRY0crUm1EeEl2VkdPN3lqWTJZNE50NXZmVEFDL25LSGxRckc1cUhXUExtUzhtRGFBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=453032230713
-- About the producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312557_upc_edu_pe/EVBxhai5JehDpv-_3AJ3IyYBoA3mmjO3h-Dmj-zAGamQIg?e=J8jtde
+- Link de entrevistas en youtube: https://youtu.be/KH_EUY301LA
+- Link de entrevistas en microsoft stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQBPkYrNt_0JRq61Lz-OJX8TAUoHh85mX4Btan6hDXHRRG8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=akC9VD
