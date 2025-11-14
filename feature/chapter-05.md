@@ -1031,13 +1031,39 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 * **Problema:** La falta de validación en el campo de fecha de nacimiento permite datos absurdos (como nacer en el futuro). Esto genera datos basura en la base de datos y da una imagen poco profesional de la aplicación.
 * **Recomendación:** Implementar una validación estricta en el componente `datepicker` (selector de fecha) para que solo permita seleccionar fechas desde un año lógico (ej. 1920) hasta el día actual.
 
+## 5.4. Video About the Product
 
+El Video About-the-Product de Diabelife está dirigido principalmente a dos segmentos de audiencia: los visitantes de nuestra Landing Page así como de la aplicación que desean conocer el modelo de negocio y las características principales de la solución tecnológica, y los usuarios potenciales de la aplicación que buscan comprender cómo realizar tareas específicas relacionadas con el manejo integral de la diabetes.
+
+### Descripción del contenido
+
+El video presenta una demostración completa de las funcionalidades clave de Diabelife, mostrando cómo pacientes diabéticos pueden registrar sus niveles de glucosa, gestionar su medicación, llevar un control nutricional y comunicarse con profesionales de la salud. Se destaca el enfoque integral de la plataforma, desde el registro inicial hasta la generación de reportes médicos compartibles.
+
+El tono utilizado es profesional pero accesible, manteniendo consistencia con la identidad de marca de Diabelife como una solución confiable y empática para el cuidado de la diabetes. La comunicación se enfoca en los beneficios tangibles para usuarios reales, utilizando un lenguaje claro y directo.
+
+### Testimonio de usuario
+
+Durante las entrevistas de validación, Victor Damian, contador de 25 años de La Victoria, expresó: *"Considera que la aplicación le ayudaría a controlar mejor su diabetes y facilitaría la comunicación con su médico. La aplicación es atractiva e intuitiva, y el sistema de generación de reportes no presentó errores y exportaba de manera adecuada."*
+
+### Información técnica del video
+
+**Duración:** 2 minutos y 33 segundos
+
+**Screenshot del video**
+
+![img.png](../assets/about-the-product.png)
+
+**URLs de publicación:**
+
+- About the product Youtube: https://youtu.be/MBNFpJ1MNGU?si=e_TfUh0YcOeAdScC
+- About the product Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312629_upc_edu_pe/IQAeqcaqSHTcQqP9z2bWgbUTASLqPQic4q6ZxxuEU9EGYeg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DcUODR
 
 #### Conclusión General
 
 La aplicación "Diabelife" presenta una base funcional sólida, pero la evaluación ha revelado **6 hallazgos** de usabilidad con un **promedio de severidad de 2.16**. Esto indica que existen problemas menores (Severidad 2) y mayores (Severidad 3) que deben ser priorizados.
 
 Los problemas más críticos están relacionados con la **Prevención de Errores (H5)** y el uso de **Lenguaje Claro (H2)**. Se recomienda enfocar los esfuerzos de desarrollo en simplificar el lenguaje técnico y añadir validaciones más robustas (como en el registro de fechas) para prevenir errores antes de que ocurran y mejorar la confianza del paciente en la herramienta.
+
 # Conclusiones
 
 - El equipo logró implementar y desplegar el backend real de Diabelife usando C# y ASP.NET Core, permitiendo la integración completa con el frontend y habilitando funcionalidades clave como registro de usuarios, métricas de salud, reportes, comunidad y citas médicas.
@@ -1047,13 +1073,12 @@ Los problemas más críticos están relacionados con la **Prevención de Errores
 - La documentación y evidencia presentada demuestran el avance y cumplimiento de los objetivos del Sprint 3, incluyendo la integración de la API real, la autenticación JWT y la documentación OpenAPI/Swagger.
 - El trabajo realizado en este sprint permitió validar la arquitectura desacoplada del sistema, la escalabilidad y la capacidad de extender nuevas funcionalidades, sentando las bases para la evolución futura del producto.
 
-- About the team: https://www.youtube.com/watch?v=Oo1iA90Pi_w
-- About the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
+Video about-the-team:
 
-# Video About the Team
+![img.png](../assets/about-the-team.png)
 
-- Link Youtube: https://www.youtube.com/watch?v=Oo1iA90Pi_w
-- Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
+- Link de Youtube: https://www.youtube.com/watch?v=Oo1iA90Pi_w
+- Link de Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
 
 ### Inicio de cada integrante:
 
