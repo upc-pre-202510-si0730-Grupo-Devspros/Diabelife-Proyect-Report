@@ -1047,6 +1047,22 @@ Los problemas más críticos están relacionados con la **Prevención de Errores
 - La documentación y evidencia presentada demuestran el avance y cumplimiento de los objetivos del Sprint 3, incluyendo la integración de la API real, la autenticación JWT y la documentación OpenAPI/Swagger.
 - El trabajo realizado en este sprint permitió validar la arquitectura desacoplada del sistema, la escalabilidad y la capacidad de extender nuevas funcionalidades, sentando las bases para la evolución futura del producto.
 
+- About the team: https://www.youtube.com/watch?v=Oo1iA90Pi_w
+- About the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
+
+# Video About the Team
+
+- Link Youtube: https://www.youtube.com/watch?v=Oo1iA90Pi_w
+- Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
+
+### Inicio de cada integrante:
+
+Inicio Andrés Torres: 0:00  
+Inicio Iker Barturen: 1:59  
+Inicio Gabriel Mamani: 4:01  
+Inicio Stephano Espinoza: 4:29  
+Inicio Diego Veliz: 5:45
+
 # Bibliografía
 
 - Mozilla Developer Network (MDN) Web Docs. (n.d.). HTML: HyperText Markup Language. Recuperado de: https://developer.mozilla.org/es/docs/Web/HTML
@@ -1065,3 +1081,7 @@ Los problemas más críticos están relacionados con la **Prevención de Errores
 - Miro: https://miro.com/welcomeonboard/dmFBK2oycWg5aXM5S2w3Z2RIVVVvTlM5MlVmVmw1RDdSQituMGVrRVl3YmZ1RlZQdFZSNDI5OU52SVp2UTJ3V0NicngwMFVCd0dkU3g2dGNRY0crUm1EeEl2VkdPN3lqWTJZNE50NXZmVEFDL25LSGxRckc1cUhXUExtUzhtRGFBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=453032230713
 - Link de entrevistas en youtube: https://youtu.be/KH_EUY301LA
 - Link de entrevistas en microsoft stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQBPkYrNt_0JRq61Lz-OJX8TAUoHh85mX4Btan6hDXHRRG8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=akC9VD
+- About the team Youtube: https://www.youtube.com/watch?v=Oo1iA90Pi_w
+- About the team Microsoft: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
+- About the product:
+- About the product
