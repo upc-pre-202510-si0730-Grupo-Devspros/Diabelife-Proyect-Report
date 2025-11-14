@@ -889,17 +889,17 @@ Resumen:
 
 ---
 
-ENTREVISTA 
+ENTREVISTA 3
 
 Inicia: 
 
 Duración: 
 
-Nombre: 
+Nombre: Hannah Ruffner
 
-Edad: 
+Edad: 19
 
-Distrito:
+Distrito: La victoria
 
 Resumen: 
 
@@ -907,6 +907,54 @@ Resumen:
 
 ## 5.3.3. Evaluaciones según heurísticas.
 
+ ### Anexo D. Formato para Evaluación de User Experience según Heurísticas
+ **UX Heuristics & Principles Evaluation**
+ **Usability – Inclusive Design – Information Architecture**
+
+ ---
+
+ **CARRERA :** Ingeniería de Software
+ <br>
+ **CURSO :** Aplicaciones Web
+ <br>
+ **SECCIÓN :** 7470
+ <br>
+ **PROFESORES :** Rafael Oswaldo Castro Veramendi
+ <br>
+ **AUDITOR :** Devspro
+ <br>
+**CLIENTE(S) :** paciente con diabetes
+
+---
+
+**SITE o APP A EVALUAR:**
+ <br>
+ Diabelife (https://webapplication-diabelife.netlify.app/auth/login)
+
+ <br>
+
+ **TAREAS A EVALUAR:**
+ <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+ <br>
+ 1.  Registro de un usuario nuevo (paciente)
+ 2.  Inicio de sesión (Login) de usuario
+ 3.  Recuperar contraseña
+ 4.  Configurar perfil de usuario (Ej. actualizar datos personales, tipo de diabetes, etc.)
+ 5.  Registrar un nuevo control de glucosa
+ 6.  Ver el historial/dashboard de mediciones de glucosa
+ 7.  Registrar una dosis de medicamento o insulina
+ 8.  Registrar una comida
+
+ <br>
+
+ **No están incluidas en esta versión de la evaluación las siguientes tareas:**
+ <br>
+ 1.  Funcionalidades del perfil "Doctor" (Ej. Ver pacientes, asignar tratamientos)
+ 2.  Agendar o ver citas médicas
+ 3.  Generar y exportar reportes (Ej. PDF para el doctor)
+4.  Ver artículos educativos o sección de noticias 
+5.  Sincronización con dispositivos (glucometros)
 
 
 # Conclusiones
