@@ -891,9 +891,9 @@ Resumen:
 
 ENTREVISTA 3
 
-Inicia: 
+Inicia: 0:01
 
-Duración: 
+Duración: 4:45
 
 Nombre: Hannah Ruffner
 
@@ -901,8 +901,9 @@ Edad: 19
 
 Distrito: La victoria
 
-Resumen: 
-
+Resumen:
+El feedback del usuario sobre la aplicación es abrumadoramente positivo. Destaca su alta usabilidad y navegación intuitiva, señalando que la información está bien organizada y que el registro de sus datos fue accesible. 
+Las funciones específicas, como el monitoreo de glucosa e insulina y la generación de reportes, funcionaron correctamente y fueron valoradas. A nivel personal, el usuario recomendaría la aplicación, se siente seguro compartiendo sus datos y considera el registro diario como la herramienta más valiosa, aunque sugiere incorporar más recomendaciones personalizadas. Finalmente, percibe una alta utilidad clínica, creyendo que la app le ayudará a un mejor autocuidado y facilitará la comunicación con su endocrinólogo.
 ---
 
 ## 5.3.3. Evaluaciones según heurísticas.
