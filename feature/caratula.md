@@ -9,16 +9,16 @@
 
 ### Codigo del Curso: 1ASI0730
 
-### Profesor: Rafael Oswaldo Castro Veramendi
+### Nombre del profesor: Rafael Oswaldo Castro Veramendi
 
 ### NRC: 7470 
 
 ## Informe - TB1
 
-## Startup: Devspros
+## Nombre del startup: Devspros
 
 
-## Producto: Diabelife
+## Nombre del producto: Diabelife
 
 ## Fecha de entrega : 14/11/2025
 
