@@ -1032,20 +1032,309 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 * **Recomendación:** Implementar una validación estricta en el componente `datepicker` (selector de fecha) para que solo permita seleccionar fechas desde un año lógico (ej. 1920) hasta el día actual.
 
 
+# 5.2.4. Sprint 4
+# 5.2.4.1.Spring Planning 4.
 
-#### Conclusión General
+A continuación se presenta el acta de planificación correspondiente al segundo sprint, en la cual se establecieron los objetivos y las actividades a ejecutar.
 
-La aplicación "Diabelife" presenta una base funcional sólida, pero la evaluación ha revelado **6 hallazgos** de usabilidad con un **promedio de severidad de 2.16**. Esto indica que existen problemas menores (Severidad 2) y mayores (Severidad 3) que deben ser priorizados.
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">28/11/2025</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">5:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Iker Gabriel Barturen Panez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Barturen Panez Iker Gabriel, Mamani Marca Gabriel Cristian, Espinoza Cueva Stephano Jose, Torres Lavandera Andres Rodrigo,Véliz Martínez Diego Alonso   .</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Review Summary</td>
+    <td colspan="8">En esta reunión se planificaron las tareas a realizar para el desarrollo de la conexión del backend con el frontend de la aplicación DiabeLife. También, se establecieron fechas límite para la conexión de cada bounded context y para la entrega, con el fin de reservar tiempo para realizar el despliegue del frontend ya conectado con el backend y la database en MySQL.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Retrospective Summary</td>
+    <td colspan="8">Durante la reunión colaborativa, los integrantes identificaron fortalezas y oportunidades de mejora relacionadas con la organización del equipo y la distribución de tareas. Se destacó la importancia de la responsabilidad y la comunicación efectiva para el éxito del proyecto.  
+ <div class=". ."></div>.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8">El objetivo de este sprint fue conectar completamente el frontend con el backend de DiabeLife, asegurando que los usuarios puedan navegar por los bounded contexts principales y cambiar el idioma. El éxito se mide cuando los usuarios pueden ver la página completa y acceder a la información de forma clara y fiable.
 
-Los problemas más críticos están relacionados con la **Prevención de Errores (H5)** y el uso de **Lenguaje Claro (H2)**. Se recomienda enfocar los esfuerzos de desarrollo en simplificar el lenguaje técnico y añadir validaciones más robustas (como en el registro de fechas) para prevenir errores antes de que ocurran y mejorar la confianza del paciente en la herramienta.
+ </td>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8"> 5 story points </td>>.  
+
+ </td>
+</tr>
+
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">5 story points </td>>.  
+
+ </td>
+</tr>
+</table>
+
+# 5.2.4.2. Aspect Leaders and Collaborators.
+
+En este punto presentan los responsables asignados a cada área. En este cuarto Sprint, los entregables se han organizado en tres aspectos diferenciados.
+
+| Team member (LastName, First Name) | GitHub UserName         | Aspect 1: Glucometer Leader (L)/ Collaborator (C) | Aspect 2: Reports: Leader (L) / Collaborator (C) | Aspect 3: Comunnity (L) / Collaborator (C) | Aspect 4: Appointments (L/C) | Aspect 5: Healthy Life (L/C) |
+|------------------------------------|-------------------------|-------------------------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------|------------------------------|
+| Veliz Diego                        | Veliz-0912              | L                                               | C                                                | C                                          | C                            | C                            |
+| Torres Andres                      | AndresTorres202312557   | C                                               | C                                                | C                                          | L                            | C                            |
+| Barturen Iker                      | krxxg04                 | C                                               | C                                                | C                                          | C                            | L                            |
+| Espinoza Estephano                 | Stephanoescu            | C                                               | L                                                | C                                          | C                            | C                            |
+| Mamani Gabriel                     | Gabriel0105             | C                                               | C                                                | L                                          | C                            | C                            |
+
+# 5.2.4.3.Sprint Backlog 4.
+
+|  Sprint 4  |             Sprint 4              |     |                                                            |                                                                                                                                 |                    |             |                                                |
+|:----------:|:---------------------------------:|:---:|:----------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:-----------:|:----------------------------------------------:|
+| User Story |         Work-Item / Task          |     |                                                            |                                                                                                                                 |                    |             |                                                |
+|     Id     |               Title               | Id  |                           Title                            |                                                           Description                                                           | Estimation (Hours) | Assigned To | Status (To do / In process / To review / Done) |
+|    US07    |        Registro de usuario        | W01 |  Conectar formulario de registro con endpoint del backend  | Conectar el formulario de registro del frontend con el endpoint POST /auth/register del backend para registrar nuevos usuarios. |         4          |   Gabriel   |                     To do                      |
+|    US08    |         Inicio de sesión          | W02 | Conectar formulario de login con autenticación del backend | Conectar el formulario de inicio de sesión del frontend con el endpoint POST /auth/login del backend para autenticar usuarios.  |         3          |    Iker     |                     To do                      |
+|    US15    |        Registro de glucosa        | W03 |        Conectar formulario de glucosa con endpoints        |  Conectar el formulario de registro de glucosa del frontend con los endpoints del backend para guardar mediciones de glucosa.   |         3          |    Diego    |                     To do                      |
+|    US21    |       Registro de alimentos       | W04 |         Conectar registro de alimentos con backend         |             Conectar la funcionalidad de registro de alimentos del frontend con los endpoints FoodData del backend.             |         4          |    Iker     |                     To do                      |
+|    US35    | Comunidad de pacientes diabeticos | W05 |         Conectar comunidad con endpoints de posts          | Conectar la sección de comunidad del frontend con los endpoints CommunityPosts y Comments del backend para interacción social.  |         3          |   Gabriel   |                     To do                      |
+|    US45    |      Registro de cita médica      | W06 |    Conectar gestión de citas con endpoints del backend     |    Conectar la funcionalidad de citas médicas del frontend con los endpoints Appointments del backend para gestión de citas.    |         3          |   Andres    |                     To do                      |
+
+# 5.2.4.4.Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits que reflejan los avances más importantes durante la implementación. Los registros provienen del repositorio del frontend de la organización en GitHub.
+
+Enlace del repositorio  del backend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Backend
+Enlace del repositorio  del frontend: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
+
+| Repository          | Branch                      | Commit Id                                | Commit Message                                             | Commit Message Body   | Commited on (Date) |
+|---------------------|-----------------------------|------------------------------------------|------------------------------------------------------------|-----------------------|--------------------|
+| DiabeLife-Backend   | feature/glucometer          | 476e4e92ca45f7057af4bd9c968f7ee42ff5410e | feat:"glucometer"                                          | Diego Véliz           | 12/11/2025         |
+| DiabeLife-Backend   | feature/notifications       | 4b0133cd645bccbd7be670db77bc71fdbbb9fa6d | feat: add appointment application                          | AndresTorres202312557 | 12/11/2025         |
+| DiabeLife-Backend   | feature/reports             | 32609f09cff1996ab2ac1eef4784b4814afbb74b | feat: add UpdateReportDto                                  | Stephanoescu          | 13/11/2025         |
+| DiabeLife-Backend   | feature/update-healthy-life | e97f9dea4555d35cc55cbc31ebf3b523a4e907a3 | feat:update healthy life                                   | krxxg04               | 08/11/2025         |
+| DiabeLife-Backend   | feature/update-port         | 7a06aee143f13e151f67d63317cc48b47a66d4e1 | feat: update port                                          | krxxg04               | 14/11/2025         |
+| DiabeLife-Backend   | feature/prueba              | 4fcbe5163efcb6ada563df1c0a2868fcbd71c8dc | feat: add date in CommunityPost                            | Gabrlel0105           | 27/11/2025         |
+| DiabeLife-Frontend  | feature/release-1.1         | b8bda85ab06582b7939e9a6f0437a3051acdc05f | feat: Update the API base URL to use environment variables | krxxg04               | 27/11/2025         |
+| DiabeLife-Frontend  | feature/release-1.1         | b3ee651eae5a6727500b5e06d50ace275da1acd5 | feat: update notifications                                 | AndresTorres202312557 | 16/11/2025         |
+| DiabeLife-Frontend  | feature/release-1.1         | 27587815983dd6d30c85679d7129f0109222ae3a | feat: add conection of backend                             | Stephanoescu          | 16/11/2025         |
+| DiabeLife-Frontend  | feature/release-1.1         | 3bba67f434245446d3df2a01459ca2ed4f9b2be4 | feat: update base endpoint                                 | Diego Véliz           | 27/11/2025         |
+| DiabeLife-Frontend  | feature/release-1.1         | d31d2c5d1d06edbcd1e059b1f097c21c2932a004 | feat: fix logo                                             | krxxg04               | 16/11/2025         |
+| DiabeLife-Frontend  | feature/release-1.1         | a9c9cb9fb034e21a71289aed300f068eeb305a37 | feat: fix endpoint community                               | Gabrlel0105           | 27/11/2025         |
+
+![alt text](../assets/Commits-1.png)
+![alt text](../assets/Commits-2.png)
+![alt text](../assets/Commits-3.png)
+![alt text](../assets/Commits-4.png)
+![alt text](../assets/Commits-5.png)
+
+# 5.2.4.5.Execution Evidence for Sprint Review.
+
+Durante este sprint se implementó la primera versión del frontend utilizando el framework Vue. Además, se inició e implementó la primera iteración del backend usando C# y ASP.NET Core. El backend incluye: endpoints REST para los bounded contexts (glucometer, community, reports, appointments, healthy-life), persistencia con Entity Framework Core sobre MySQL, autenticación con JWT, documentación OpenAPI/Swagger.
+
+![alt text](../assets/Deploy-Backend.png)
+![alt text](../assets/Database-MySQL-Nube.png)
+![alt text](../assets/API-Swagger.png)
+
+# 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+Durante este Sprint, se continuó y formalizó la implementación de la capa de Web Services del proyecto **DiabeLife** con un backend real desarrollado en **C# y ASP.NET Core (Web API)**. Este backend provee endpoints REST para los bounded contexts **community**, **notification**, **appointments**, **glucometer** y **healthy-life**, con persistencia gestionada por **Entity Framework Core** sobre **MySQL**. Se integró autenticación y autorización basada en **JWT** con roles (patient), junto con documentación automática con **OpenAPI/Swagger**.
+
+El backend de Sprint 3 fue desplegado en Render y está disponible públicamente en: `https://diabelife-backend-20u1.onrender.com`. La documentación Swagger se puede consultar en: `https://diabelife-backend-20u1.onrender.com/swagger/index.html`.
+
+La documentación de Web Services para Sprint 3 se generó a partir de los contratos reales del backend en C#. Cada endpoint incluye la especificación de las acciones soportadas (GET, POST, PUT, DELETE, PATCH), parámetros (query/path/body), ejemplos de request/response, y la explicación de la estructura de los datos. Además, se incluyen capturas de pantalla y trazas que muestran interacciones reales entre el frontend y el backend desplegado, evidenciando la correcta integración y la ejecución de flujos end-to-end en staging.
+
+## Logros alcanzados
+
+- Se documentaron todos los **endpoints principales** del backend real, agrupados por contexto (Bounded Context):
+
+**Reports**
+- GET `/api/v1/Reports` : Obtener todos los reportes
+- POST `/api/v1/Reports` : Crear nuevo reporte
+- PUT `/api/v1/Reports/{id}` : Actualizar reporte
+- DELETE `/api/v1/Reports/{id}` : Eliminar reporte
+
+**FoodData**
+- GET `/api/v1/FoodData` : Listar alimentos
+- POST `/api/v1/FoodData` : Registrar alimento
+- PUT `/api/v1/FoodData/{id}` : Actualizar alimento
+- DELETE `/api/v1/FoodData/{id}` : Eliminar alimento
+
+**HealthMetrics**
+- GET `/api/v1/HealthMetrics` : Listar métricas de salud
+- POST `/api/v1/HealthMetrics` : Registrar métrica
+- PUT `/api/v1/HealthMetrics/{id}` : Actualizar métrica
+- DELETE `/api/v1/HealthMetrics/{id}` : Eliminar métrica
+
+**Healthy**
+- GET `/api/v1/Healthy` : Listar hábitos saludables
+- POST `/api/v1/Healthy` : Registrar hábito
+- PUT `/api/v1/Healthy/{id}` : Actualizar hábito
+- DELETE `/api/v1/Healthy/{id}` : Eliminar hábito
+
+**Recommendations**
+- GET `/api/v1/Recommendations` : Listar recomendaciones
+- POST `/api/v1/Recommendations` : Registrar recomendación
+- PUT `/api/v1/Recommendations/{id}` : Actualizar recomendación
+- DELETE `/api/v1/Recommendations/{id}` : Eliminar recomendación
+
+**GlucoseMeasurements**
+- GET `/api/v1/GlucoseMeasurements` : Listar mediciones de glucosa
+- POST `/api/v1/GlucoseMeasurements` : Registrar medición
+- PUT `/api/v1/GlucoseMeasurements/{id}` : Actualizar medición
+- DELETE `/api/v1/GlucoseMeasurements/{id}` : Eliminar medición
+
+**Comments**
+- GET `/api/v1/community-posts/{postId}/comments` : Listar comentarios de un post
+- POST `/api/v1/community-posts/{postId}/comments` : Crear comentario en un post
+
+**CommunityPosts**
+- GET `/api/v1/community-posts` : Listar posts de la comunidad
+- POST `/api/v1/community-posts` : Crear post
+- PUT `/api/v1/community-posts/{id}` : Actualizar post
+- DELETE `/api/v1/community-posts/{id}` : Eliminar post
+
+**Auth**
+- POST `/api/v1/Auth/register` : Registrar nuevo usuario
+- POST `/api/v1/Auth/login` : Login de usuario
+
+**Appointments**
+- GET `/api/v1/Appointments` : Listar citas médicas
+- POST `/api/v1/Appointments` : Registrar cita médica
+- PUT `/api/v1/Appointments/{id}` : Actualizar cita
+- DELETE `/api/v1/Appointments/{id}` : Eliminar cita
+
+**Notifications**
+- GET `/api/v1/Notifications` : Listar notificaciones
+- POST `/api/v1/Notifications` : Crear notificación
+- PUT `/api/v1/Notifications/{id}` : Actualizar notificación
+- DELETE `/api/v1/Notifications/{id}` : Eliminar notificación
+
+- Cada endpoint incluye:
+  - **Acción soportada**: GET, POST, PUT, DELETE, PATCH.
+  - **Sintaxis de llamada**: URL local del backend (`http://localhost:5000/<endpoint>` o `https://localhost:5001/<endpoint>`), o la URL del backend desplegado: `https://diabelife-backend-20u1.onrender.com/<endpoint>`.
+  - **Parámetros**: Query params, path params y body (cuando aplica).
+  - **Ejemplos de request y response** con datos de muestra.
+  - **Explicación del response**, indicando estructura de datos y significado de cada campo.
+
+- Se añadieron capturas de pantalla mostrando:
+  - La creación, actualización, consulta y eliminación de recursos para cada BC.
+  - Interacciones reales con el frontend de Vue utilizando el backend real desplegado en: `https://diabelife-backend-20u1.onrender.com`.
+
+## Repositorio y commits
+
+- **Repositorio:** (https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Backend)
+- **Commits relacionados con la documentación del Sprint:** `7a06aee`, `54e006c`, `9a560c9`
+
+Esta documentación proporciona una referencia clara y completa de la integración realizada con el backend real desplegado, asegurando que el frontend funcione correctamente y evidenciando la transición exitosa hacia servicios en producción.
+
+# 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+## Backend Web Application
+
+El backend de **DiabeLife** se desplegó utilizando la plataforma **Render**, permitiendo que los servicios REST estén disponibles de manera remota y funcional para el frontend y otros clientes. La arquitectura desacoplada facilita la integración y escalabilidad del sistema.
+
+## Frontend Web Application
+
+El frontend de **DiabeLife** se desplegó utilizando la plataforma **Netlify**, proporcionando una interfaz web accesible para los usuarios finales que consume los servicios del backend de manera eficiente.
+
+## Database Deployment
+
+La base de datos MySQL fue desplegada en **Railway** y configurada para conectarse de forma segura con el backend en Render, estableciendo una arquitectura distribuida y escalable para la persistencia de datos del sistema.
+
+## Pasos de despliegue detallados
+
+### Backend Deployment (Render)
+1. Desarrollar el backend en **C# y ASP.NET Core (Web API)**, implementando los endpoints REST para los bounded contexts: **community, notification, appointments, glucometer, healthy-life**, y gestionando la persistencia con **Entity Framework Core** sobre **MySQL**.
+2. Configurar el proyecto para producción, asegurando la correcta gestión de variables de entorno, cadenas de conexión y autenticación JWT.
+3. Crear un nuevo **Web Service** en Render:
+    - Click en **"New" → "Web Service"**.
+    - Conectar con el repositorio de GitHub que contiene el backend.
+    - Seleccionar la rama correspondiente (`main` o `develop`) y configurar el servicio.
+4. Configurar build y publicación:
+    - **Build Command:** `dotnet publish`
+    - **Start Command:** `dotnet run`
+    - Render asigna una URL pública donde los endpoints están disponibles.
+
+### Frontend Deployment (Netlify)
+1. Preparar el frontend de Vue.js para producción, configurando las variables de entorno para apuntar al backend desplegado en Render.
+2. Ejecutar el build de producción: `npm run build`
+3. Conectar el repositorio de GitHub del frontend con Netlify.
+4. Configurar el despliegue automático desde la rama principal.
+5. Netlify asigna una URL pública para el frontend conectado al backend.
+
+### Database Deployment (Railway)
+1. Configurar la base de datos MySQL en Railway.
+2. Establecer la conexión segura entre el backend en Render y la base de datos en Railway.
+3. Configurar las variables de entorno de conexión en el backend.
+
+**Repositorio Backend:** https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Backend
+**Repositorio Frontend:** https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
+**Backend URL:** https://diabelife-backend-20u1.onrender.com
+**Frontend URL:** https://glistening-beijinho-db43a1.netlify.app/
+**Swagger Documentation:** https://diabelife-backend-20u1.onrender.com/swagger/index.html
+
+# 5.2.4.8.Team Collaboration Insights during Sprint.
+
+En este apartado se presenta la participación de cada miembro en el repositorio del Frontend y Backend de DiabeLife durante Sprint 4.
+
+Todos los integrantes del equipo aportaron a la conexión e integración entre el frontend y backend, generando commits y pull requests para conectar los distintos bounded contexts y funcionalidades clave. A continuación, se detallan algunos aportes destacados:
+
+- Gabriel Mamani: Implementó la conexión del bounded context de Community con el frontend, desarrollando la integración de posts, comentarios y gestión de interacciones sociales entre frontend y backend.
+
+- Iker Gabriel Barturen: Desarrolló la conexión de registro de usuarios y autenticación con el backend, así como la conexión del bounded context de Healthy Life entre frontend y backend.
+
+- Andrés Torres: Se encargó de la conexión de gestión de citas médicas (Appointments) con el backend, integrando la funcionalidad de citas entre frontend y backend.
+
+- Stephano Espinoza: Implementó la conexión del bounded context de Reports con el backend, desarrollando la integración de reportes de salud entre frontend y backend.
+
+- Diego Veliz: Desarrolló la conexión del bounded context de Glucometer con el backend, implementando la integración para el registro y consulta de mediciones de glucosa entre frontend y backend.
+
+**Capturas de Insights del repositorio:**
+
+
+
+
 # Conclusiones
 
-- El equipo logró implementar y desplegar el backend real de Diabelife usando C# y ASP.NET Core, permitiendo la integración completa con el frontend y habilitando funcionalidades clave como registro de usuarios, métricas de salud, reportes, comunidad y citas médicas.
-- Se validó la correcta comunicación entre el frontend y el backend desplegado en Render, evidenciando flujos end-to-end funcionales y la persistencia de datos en MySQL.
-- Se aplicaron buenas prácticas de gestión de proyectos, control de versiones y desarrollo colaborativo, lo que permitió una organización eficiente y una comunicación clara entre los miembros durante la implementación de los bounded contexts y servicios REST.
-- El uso de herramientas como Trello, Figma, GitHub, Render y metodologías como GitFlow y Conventional Commits contribuyó a la calidad, trazabilidad y despliegue exitoso de los entregables.
-- La documentación y evidencia presentada demuestran el avance y cumplimiento de los objetivos del Sprint 3, incluyendo la integración de la API real, la autenticación JWT y la documentación OpenAPI/Swagger.
-- El trabajo realizado en este sprint permitió validar la arquitectura desacoplada del sistema, la escalabilidad y la capacidad de extender nuevas funcionalidades, sentando las bases para la evolución futura del producto.
+# Conclusiones
+
+- El equipo logró desarrollar exitosamente **DiabeLife**, una aplicación web integral para el manejo de diabetes, evolucionando desde la conceptualización inicial hasta un producto funcional desplegado en producción con arquitectura distribuida.
+
+- Se implementó una arquitectura robusta utilizando **Domain-Driven Design (DDD)** con bounded contexts bien definidos, facilitando el desarrollo modular y la escalabilidad del sistema mediante tecnologías modernas como Vue.js para el frontend y C# ASP.NET Core para el backend.
+
+- A lo largo de los cuatro sprints, se validó la metodología ágil aplicada, logrando entregas incrementales de valor desde la landing page inicial, pasando por el frontend con servicios simulados, la implementación del backend real, hasta la integración completa frontend-backend con base de datos en la nube.
+
+- Se estableció un ecosistema de herramientas de desarrollo profesional que incluyó GitHub para control de versiones, Figma para diseño UX/UI, metodologías como GitFlow y Conventional Commits, y plataformas de despliegue en la nube, garantizando la calidad y trazabilidad del proyecto.
+
+- Las entrevistas de validación con usuarios reales del segmento objetivo confirmaron la usabilidad y utilidad clínica de la aplicación, obteniendo retroalimentación positiva sobre funcionalidades clave como registro de glucosa, gestión de citas médicas, comunidad de pacientes y reportes de salud.
+
+- El proyecto demostró la capacidad del equipo para aplicar principios de ingeniería de software en un contexto real, incluyendo análisis de dominio, diseño de arquitectura, implementación con buenas prácticas, testing, despliegue continuo y evaluación heurística de usabilidad.
+
+- La documentación comprensiva generada y la evidencia de colaboración efectiva del equipo establecen una base sólida para el mantenimiento, evolución y escalabilidad futura de DiabeLife como solución tecnológica para el cuidado de la diabetes.
+
+- El trabajo realizado valida la viabilidad técnica y comercial de DiabeLife como producto digital, cumpliendo con los objetivos académicos del curso mientras se desarrolla una solución con potencial impacto real en la calidad de vida de pacientes diabéticos.
 
 - About the team: https://www.youtube.com/watch?v=Oo1iA90Pi_w
 - About the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
