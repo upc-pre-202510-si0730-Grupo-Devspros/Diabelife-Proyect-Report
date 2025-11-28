@@ -5,15 +5,17 @@
 
 ### Carrera: Ingeniería de Software
 
-### Aplicaciones Web - Presencial
+### Periodo: 202520
+
 
 ### Codigo del Curso: 1ASI0730
+### Nombre del curso: Aplicaciones Web - Presencial
+### NRC: 7470 
 
 ### Nombre del profesor: Rafael Oswaldo Castro Veramendi
 
-### NRC: 7470 
 
-## Informe - TB1
+## Informe de Trabajo Final
 
 ## Nombre del startup: Devspros
 
@@ -25,7 +27,7 @@
 ## Lider del equipo: Gabriel Mamani Marca
 
 
-### INTEGRANTES
+### Relación de integrantes:
 
 <div style="text-align: center;">
 
@@ -66,8 +68,7 @@
 
 
 
-
-### Periodo 202520
+### Diciembre,2025
 
 ---
 
