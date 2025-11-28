@@ -5,21 +5,27 @@
 
 ### Carrera: Ingeniería de Software
 
-### Aplicaciones Web - Presencial (1ASI0730)
+### Periodo: 202520
 
-### Profesor: Rafael Oswaldo Castro Veramendi
 
+### Codigo del Curso: 1ASI0730
+### Nombre del curso: Aplicaciones Web - Presencial
 ### NRC: 7470 
 
-## Informe - TB1
-
-## Startup: Devspros
-
-## Producto: Diabelife
+### Nombre del profesor: Rafael Oswaldo Castro Veramendi
 
 
+## Informe de Trabajo Final
 
-### INTEGRANTES
+## Nombre del startup: Devspros
+
+
+## Nombre del producto: Diabelife
+
+
+
+
+### Relación de integrantes:
 
 <div style="text-align: center;">
 
@@ -60,8 +66,7 @@
 
 
 
-
-### Ciclo 2025-20
+### Diciembre,2025
 
 ---
 
