@@ -22,7 +22,6 @@
 
 ## Nombre del producto: Diabelife
 
-## Fecha de entrega : 14/11/2025
 
 ## Lider del equipo: Gabriel Mamani Marca
 
