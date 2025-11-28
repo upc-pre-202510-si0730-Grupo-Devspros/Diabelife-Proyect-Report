@@ -23,7 +23,6 @@
 ## Nombre del producto: Diabelife
 
 
-## Lider del equipo: Gabriel Mamani Marca
 
 
 ### Relación de integrantes:
