@@ -1109,6 +1109,11 @@ En este punto presentan los responsables asignados a cada área. En este cuarto 
 | Mamani Gabriel                     | Gabriel0105             | C                                               | C                                                | L                                          | C                            | C                            |
 
 # 5.2.4.3.Sprint Backlog 4.
+Las tareas para el sprint 4 fueron agrupadas y detalladas gracias a la buena organizacion del equipo y el  uso de la herramienta Trello.
+
+![webSprint4.jpeg](../assets/webSprint4.jpeg)
+
+Link del tablero Trello: https://trello.com/invite/b/692cd23f31a6e4924e849a19/ATTI0d9fd2a51cec27c9e0ac7892c66f9f5dC45E9360/spirnt-4-web
 
 |  Sprint 4  |             Sprint 4              |     |                                                            |                                                                                                                                 |                    |             |                                                |
 |:----------:|:---------------------------------:|:---:|:----------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:-----------:|:----------------------------------------------:|
@@ -1151,11 +1156,30 @@ Enlace del repositorio  del frontend: https://github.com/upc-pre-202510-si0730-G
 
 # 5.2.4.5.Execution Evidence for Sprint Review.
 
-Durante este sprint se implementó la primera versión del frontend utilizando el framework Vue. Además, se inició e implementó la primera iteración del backend usando C# y ASP.NET Core. El backend incluye: endpoints REST para los bounded contexts (glucometer, community, reports, appointments, healthy-life), persistencia con Entity Framework Core sobre MySQL, autenticación con JWT, documentación OpenAPI/Swagger.
+Durante el cuarto sprint se implementaron y desplegaron satisfactoriamente las funcionalidades correspondientes tanto al backend como al frontend del sistema DiabeLife. El backend se desarrolló como una API REST completa, estructurada por Bounded Contexts y documentada mediante Swagger, mientras que el frontend se construyó con la interfaz de usuario necesaria para la interacción con los pacientes. Además, se realizó el despliegue en entornos productivos, alojando el frontend en Netlify y el backend en Render, utilizando una base de datos MySQL remota en Railway, verificando la correcta integración de todos los componentes del sistema.
 
-![alt text](../assets/Deploy-Backend.png)
-![alt text](../assets/Database-MySQL-Nube.png)
-![alt text](../assets/API-Swagger.png)
+- Implementación, validación y documentación de controladores REST para los Bounded Contexts: Community, Appointments, HealthyLife, Reports, Glucometer e IAM.
+
+- Configuración del entorno productivo mediante Environment Variables, siguiendo buenas prácticas de seguridad y despliegue.
+
+- Deployment exitoso del backend en Render Cloud, con persistencia real de datos en MySQL (Railway).
+
+- Publicación del Swagger UI para pruebas, depuración y verificación funcional externa.
+
+* Evidencia
+
+  A continuación, se presentan capturas de pantalla obtenidas desde los entornos productivos, demostrando el funcionamiento del despliegue tanto del frontend como del backend, así como la correcta conexión e interacción entre ambos.
+
+![4s4.jpeg](../assets/4s4.jpeg)
+![3s4.jpeg](../assets/3s4.jpeg)
+![2s4.jpeg](../assets/2s4.jpeg)
+![1s4.jpeg](../assets/1s4.jpeg)
+
+* Enlace del despliegue
+
+Documentación pública de la API REST (Swagger UI): https://diabelife-backend-3.onrender.com/swagger/index.html
+
+Frontend de Diabelife: https://diabelife-application.netlify.app/
 
 # 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
@@ -1251,50 +1275,102 @@ Esta documentación proporciona una referencia clara y completa de la integraci�
 
 # 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
-## Backend Web Application
+## Despliegue del Frontend - DiabeLife
 
-El backend de **DiabeLife** se desplegó utilizando la plataforma **Render**, permitiendo que los servicios REST estén disponibles de manera remota y funcional para el frontend y otros clientes. La arquitectura desacoplada facilita la integración y escalabilidad del sistema.
+El frontend del sistema **DiabeLife** se desarrolló en **Vue** y se desplegó utilizando la plataforma **Netlify**. A continuación se detallan los pasos realizados:
 
-## Frontend Web Application
+### Pasos de despliegue detallados:
 
-El frontend de **DiabeLife** se desplegó utilizando la plataforma **Netlify**, proporcionando una interfaz web accesible para los usuarios finales que consume los servicios del backend de manera eficiente.
+1. **Preparar build de producción**
+    - Abrir la terminal en la carpeta raíz del proyecto Vue.
+    - Ejecutar el comando:
+      ```bash
+      npm run build
+      ```  
+    - Esto genera la carpeta `dist/` con los archivos estáticos listos para producción.
 
-## Database Deployment
+2. **Integración de ramas (merge)**
+    - Cada módulo o Bounded Context (Community, Appointments, HealthyLife, Reports, Glucometer e IAM) se desarrolló en ramas separadas.
+    - Realizar merge de todas las ramas en `develop` para consolidar la versión final del frontend:
+      ```bash
+      git checkout develop
+      git merge nombre-de-la-rama
+      ```
 
-La base de datos MySQL fue desplegada en **Railway** y configurada para conectarse de forma segura con el backend en Render, estableciendo una arquitectura distribuida y escalable para la persistencia de datos del sistema.
+3. **Configuración de entorno en Netlify**
+    - Acceder al panel de **Netlify** y seleccionar el proyecto.
+    - Configurar las **Environment Variables** para indicar la URL del backend desplegado en Render (por ejemplo, `VUE_APP_API_URL=https://diabelife-backend.onrender.com/api/v1`).
+    - Esto permite que el frontend consuma los endpoints del backend correctamente.
 
-## Pasos de despliegue detallados
+4. **Despliegue en Netlify**
+    - Crear un nuevo sitio: **"Add new site" → "Import an existing project"**.
+    - Seleccionar el repositorio Git donde se encuentra el frontend.
+    - Elegir la rama `develop` como rama de despliegue.
+    - Netlify detectará automáticamente que es un proyecto Vue y usará `npm run build` para generar el sitio.
+    - Configurar las variables de entorno y hacer clic en **Deploy Site**.
 
-### Backend Deployment (Render)
-1. Desarrollar el backend en **C# y ASP.NET Core (Web API)**, implementando los endpoints REST para los bounded contexts: **community, notification, appointments, glucometer, healthy-life**, y gestionando la persistencia con **Entity Framework Core** sobre **MySQL**.
-2. Configurar el proyecto para producción, asegurando la correcta gestión de variables de entorno, cadenas de conexión y autenticación JWT.
-3. Crear un nuevo **Web Service** en Render:
-    - Click en **"New" → "Web Service"**.
-    - Conectar con el repositorio de GitHub que contiene el backend.
-    - Seleccionar la rama correspondiente (`main` o `develop`) y configurar el servicio.
-4. Configurar build y publicación:
-    - **Build Command:** `dotnet publish`
-    - **Start Command:** `dotnet run`
-    - Render asigna una URL pública donde los endpoints están disponibles.
+5. **Pruebas post-despliegue**
+    - Acceder a la URL pública proporcionada por Netlify.
+    - Verificar que la interfaz se cargue correctamente y que todos los módulos (Community, Appointments, HealthyLife, Reports, Glucometer e IAM) funcionen.
+    - Confirmar que el frontend se conecta con el backend, que los datos se cargan y se guardan correctamente en la base de datos MySQL de Railway.
 
-### Frontend Deployment (Netlify)
-1. Preparar el frontend de Vue.js para producción, configurando las variables de entorno para apuntar al backend desplegado en Render.
-2. Ejecutar el build de producción: `npm run build`
-3. Conectar el repositorio de GitHub del frontend con Netlify.
-4. Configurar el despliegue automático desde la rama principal.
-5. Netlify asigna una URL pública para el frontend conectado al backend.
+6. **Validación final**
+    - Realizar pruebas de flujo completo: login, creación de citas, registro de glucometer, reportes y participación en la comunidad.
+    - Asegurar que no existan errores de conexión o de despliegue, garantizando la disponibilidad del sistema en producción.
 
-### Database Deployment (Railway)
-1. Configurar la base de datos MySQL en Railway.
-2. Establecer la conexión segura entre el backend en Render y la base de datos en Railway.
-3. Configurar las variables de entorno de conexión en el backend.
+#### Repositorio: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
+#### Url desplegada: https://diabelife-application.netlify.app/
 
-**Repositorio Backend:** https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Backend
-**Repositorio Frontend:** https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Frontend
-**Backend URL:** https://diabelife-backend-20u1.onrender.com
-**Frontend URL:** https://glistening-beijinho-db43a1.netlify.app/
-**Swagger Documentation:** https://diabelife-backend-20u1.onrender.com/swagger/index.html
+* Backend Web Service
 
+Los servicios del backend se desarrollaron en **.NET** y se desplegaron utilizando la plataforma **Render**, mientras que la base de datos se alojó en **Railway (MySQL)**.
+
+### Pasos detallados:
+
+1. **Build del proyecto**
+    - Generar el archivo ejecutable del proyecto usando el comando:
+      ```bash
+      dotnet publish -c Release -o ./publish
+      ```  
+    - Esto genera la carpeta `publish/` con todos los archivos necesarios para la ejecución en producción.
+
+2. **Merge de ramas**
+    - Unir cada rama correspondiente a su Bounded Context (**Community, Appointments, HealthyLife, Reports, Glucometer e IAM**) en la rama `develop`.
+    - Verificar que la aplicación funcione correctamente de manera local.
+
+3. **Configurar la conexión a la base de datos**
+    - Editar el archivo `appsettings.Production.json` o usar **Environment Variables** en Render para ingresar:
+        - Nombre de la base de datos
+        - Usuario
+        - Host y puerto de la base de datos en Railway
+
+4. **Preparar Dockerfile (opcional)**
+    - Crear un `Dockerfile` que incluya la compilación y ejecución de la aplicación .NET.
+    - Especificar el puerto de exposición y copiar los archivos de la carpeta `publish/`.
+
+5. **Render: creación del servicio**
+    - Crear una cuenta en Render e iniciar sesión.
+    - Crear un nuevo **Web Service**.
+    - Configurar:
+        - Nombre del despliegue
+        - Ruta al `Dockerfile` o carpeta `publish/`
+        - Variables de entorno para la base de datos (nombre, usuario, host, contraseña).
+
+6. **Despliegue**
+    - Hacer clic en **Deploy Service**.
+    - Esperar a que Render compile y despliegue la aplicación.
+
+7. **Verificación post-despliegue**
+    - Render generará una URL pública para el backend.
+    - Probar los endpoints mediante **Swagger UI** para asegurar la funcionalidad completa y la correcta conexión con la base de datos.
+
+#### Repositorio: https://github.com/upc-pre-202510-si0730-Grupo-Devspros/DiabeLife-Backend
+
+#### Url desplegada: https://diabelife-backend-3.onrender.com/swagger/index.html
+
+![deplo.jpeg](../assets/deplo.jpeg)
+![1s4.jpeg](../assets/1s4.jpeg)
+![swagger.jpeg](../assets/swagger.jpeg)
 # 5.2.4.8.Team Collaboration Insights during Sprint.
 
 En este apartado se presenta la participación de cada miembro en el repositorio del Frontend y Backend de DiabeLife durante Sprint 4.
