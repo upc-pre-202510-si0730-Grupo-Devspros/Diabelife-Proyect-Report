@@ -1389,11 +1389,6 @@ Todos los integrantes del equipo aportaron a la conexión e integración entre e
 
 **Capturas de Insights del repositorio:**
 
-
-
-
-# Conclusiones
-
 # Conclusiones
 
 - El equipo logró desarrollar exitosamente **DiabeLife**, una aplicación web integral para el manejo de diabetes, evolucionando desde la conceptualización inicial hasta un producto funcional desplegado en producción con arquitectura distribuida.
@@ -1411,9 +1406,6 @@ Todos los integrantes del equipo aportaron a la conexión e integración entre e
 - La documentación comprensiva generada y la evidencia de colaboración efectiva del equipo establecen una base sólida para el mantenimiento, evolución y escalabilidad futura de DiabeLife como solución tecnológica para el cuidado de la diabetes.
 
 - El trabajo realizado valida la viabilidad técnica y comercial de DiabeLife como producto digital, cumpliendo con los objetivos académicos del curso mientras se desarrolla una solución con potencial impacto real en la calidad de vida de pacientes diabéticos.
-
-- About the team: https://www.youtube.com/watch?v=Oo1iA90Pi_w
-- About the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220659_upc_edu_pe/IQDwww2swbyUT4GMyxLpbu-0AUYBaKaFExjID93MnZGx6bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWQvy0
 
 # Video About the Team
 
